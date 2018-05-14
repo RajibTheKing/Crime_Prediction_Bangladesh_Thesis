@@ -1,0 +1,30 @@
+<country>
+	<name#>Bangladesh</name#>
+	<division>
+		<division_name>Dhaka</division_name>
+		<district>
+			<district_name>Kishoreganj</district_name>
+			<thana>Bajitpur</thana>
+			<thana>Hossenpur</thana>	
+			<thana>Itna</thana>	
+			<thana>Karimganj</thana>
+			<thana>Katiadi</thana>
+			<thana>Sadar</thana>
+			<thana>Kuliarchar</thana>
+			<thana>Mithamoin</thana>
+			<thana>Nikli</thana>
+			<thana>Ostagram</thana>
+			<thana>Pakundia</thana>
+			<thana>Tarial</thana>
+		</district>
+		<district>
+			<district_name>Narsingdi</district_name>
+			<thana>Monohardi</thana>
+			<thana>Sadar</thana>	
+			<thana>Palash</thana>	
+			<thana>Shibpur</thana>
+			<thana>Raipura</thana>
+			<thana>Belavo</thana>
+		</district>
+	</division>
+</country>

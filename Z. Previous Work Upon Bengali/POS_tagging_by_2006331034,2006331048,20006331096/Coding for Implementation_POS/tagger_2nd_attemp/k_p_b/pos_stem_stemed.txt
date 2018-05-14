@@ -1,0 +1,7 @@
+﻿করছিলাম/NN 
+আমি/NN ভাত/NN খাই/NN 
+সে/NN স্কুলে/NN যায়/NN 
+আমি/NN পড়ছিলাম/unknown 
+আমি/NN খাচ্ছিলাম/unknown 
+তুমি/NN যাইতেছ/PRP 
+সে/PRP একজন/unknown ভাল/PRP লোক/PRP 

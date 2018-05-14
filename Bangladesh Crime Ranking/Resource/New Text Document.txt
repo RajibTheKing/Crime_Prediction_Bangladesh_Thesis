@@ -1,0 +1,4318 @@
+﻿run:
+Location চট্টগ্রাম year 2012 month 01 count 1
+Location গাজীপুর year 2011 month 11 count 1
+Location নরসিংদী year 2011 month 11 count 1
+Location দিনাজপুর year 2012 month 11 count 1
+Location ব্রাহ্মণবাড়িয়া year 2011 month 06 count 1
+Location নড়াইল year 2012 month 09 count 1
+Location বরিশাল year 2011 month 10 count 1
+Location কক্সবাজার year 2011 month 11 count 1
+Location চট্টগ্রাম year 2011 month 11 count 1
+Location চাঁদপুর year 2012 month 11 count 1
+Location ঢাকা year 2011 month 08 count 1
+Location সিলেট year 2011 month 08 count 1
+Location গোপালগঞ্জ year 2012 month 08 count 1
+Location মেহেরপুর year 2012 month 08 count 1
+Location সিলেট year 2012 month 08 count 1
+Location চট্টগ্রাম year 2011 month 03 count 1
+Location ঢাকা year 2012 month 09 count 1
+Location সিলেট year 2012 month 09 count 1
+Location গোপালগঞ্জ year 2011 month 02 count 1
+Location মেহেরপুর year 2011 month 02 count 1
+Location সিলেট year 2011 month 02 count 1
+Location ঢাকা year 2012 month 07 count 1
+Location চট্টগ্রাম year 2011 month 11 count 2
+Location ঢাকা year 2011 month 08 count 2
+Location ঢাকা year 2011 month 03 count 1
+Location পাবনা year 2012 month 03 count 1
+Location ঢাকা year 2012 month 02 count 1
+Location গাজীপুর year 2011 month 11 count 2
+Location ঢাকা year 2011 month 11 count 1
+Location লক্ষ্মীপুর year 2011 month 11 count 1
+Location গাজীপুর year 2011 month 02 count 1
+Location ঢাকা year 2011 month 02 count 1
+Location ঢাকা year 2011 month 10 count 1
+Location গাজীপুর year 2011 month 07 count 1
+Location ঢাকা year 2011 month 07 count 1
+Location ঢাকা year 2012 month 08 count 1
+Location ঢাকা year 2011 month 09 count 1
+Location জামালপুর year 2012 month 08 count 1
+Location সিলেট year 2012 month 08 count 2
+Location গাজীপুর year 2011 month 03 count 1
+Location নরসিংদী year 2011 month 03 count 1
+Location সিলেট year 2011 month 03 count 1
+Location ভোলা year 2012 month 06 count 1
+Location জামালপুর year 2012 month 06 count 1
+Location সিলেট year 2012 month 06 count 1
+Location ঢাকা year 2011 month 09 count 2
+Location বরগুনা year 2012 month 07 count 1
+Location চট্টগ্রাম year 2011 month 06 count 1
+Location ঢাকা year 2011 month 06 count 1
+Location নরসিংদী year 2011 month 06 count 1
+Location নারায়ণগঞ্জ year 2011 month 06 count 1
+Location সিলেট year 2011 month 06 count 1
+Location ঢাকা year 2012 month 08 count 2
+Location ঢাকা year 2011 month 09 count 3
+Location ঢাকা year 2012 month 07 count 2
+Location নেত্রকোনা year 2011 month 06 count 1
+Location পাবনা year 2011 month 06 count 1
+Location বগুড়া year 2011 month 06 count 1
+Location সিলেট year 2011 month 06 count 2
+Location ব্রাহ্মণবাড়িয়া year 2011 month 06 count 2
+Location কুষ্টিয়া year 2011 month 01 count 1
+Location কক্সবাজার year 2011 month 08 count 1
+Location ঢাকা year 2011 month 05 count 1
+Location ঢাকা year 2011 month 01 count 1
+Location বান্দরবন year 2012 month 04 count 1
+Location গাজীপুর year 2012 month 03 count 1
+Location নরসিংদী year 2012 month 03 count 1
+Location জামালপুর year 2012 month 02 count 1
+Location বগুড়া year 2012 month 02 count 1
+Location রাজশাহী year 2012 month 02 count 1
+Location সিরাজগঞ্জ year 2012 month 02 count 1
+Location সিলেট year 2012 month 02 count 1
+Location গাজীপুর year 2011 month 01 count 1
+Location ঢাকা year 2011 month 01 count 2
+Location ঢাকা year 2011 month 03 count 2
+Location চট্টগ্রাম year 2012 month 11 count 1
+Location জামালপুর year 2011 month 05 count 1
+Location সিলেট year 2011 month 05 count 1
+Location চট্টগ্রাম year 2012 month 02 count 1
+Location ঢাকা year 2012 month 01 count 1
+Location জামালপুর year 2012 month 11 count 1
+Location সিলেট year 2012 month 11 count 1
+Location চট্টগ্রাম year 2012 month 09 count 1
+Location চট্টগ্রাম year 2012 month 05 count 1
+Location ঢাকা year 2011 month 03 count 3
+Location সিলেট year 2011 month 02 count 2
+Location বরগুনা year 2012 month 03 count 1
+Location সিলেট year 2012 month 06 count 2
+Location বরগুনা year 2012 month 07 count 2
+Location চট্টগ্রাম year 2012 month 03 count 1
+Location গাজীপুর year 2011 month 08 count 1
+Location ঢাকা year 2011 month 08 count 3
+Location ঢাকা year 2011 month 05 count 2
+Location ঢাকা year 2012 month 08 count 3
+Location ময়মনসিংহ year 2012 month 08 count 1
+Location চট্টগ্রাম year 2012 month 10 count 1
+Location সিলেট year 2012 month 10 count 1
+Location গাজীপুর year 2012 month 06 count 1
+Location চট্টগ্রাম year 2012 month 08 count 1
+Location নীলফামারী year 2011 month 10 count 1
+Location ফরিদপুর year 2011 month 10 count 1
+Location মেহেরপুর year 2011 month 10 count 1
+Location সিলেট year 2011 month 10 count 1
+Location গাজীপুর year 2011 month 03 count 2
+Location চট্টগ্রাম year 2011 month 03 count 2
+Location কক্সবাজার year 2012 month 07 count 1
+Location চট্টগ্রাম year 2012 month 07 count 1
+Location কক্সবাজার year 2012 month 04 count 1
+Location চট্টগ্রাম year 2012 month 04 count 1
+Location বরিশাল year 2012 month 04 count 1
+Location চট্টগ্রাম year 2012 month 06 count 1
+Location চট্টগ্রাম year 2012 month 08 count 2
+Location নেত্রকোনা year 2012 month 08 count 1
+Location রাজশাহী year 2012 month 08 count 1
+Location সিলেট year 2012 month 08 count 3
+Location জামালপুর year 2011 month 09 count 1
+Location বগুড়া year 2011 month 09 count 1
+Location নেত্রকোনা year 2011 month 01 count 1
+Location রাজশাহী year 2011 month 01 count 1
+Location সিলেট year 2011 month 01 count 1
+Location সিলেট year 2011 month 06 count 3
+Location কক্সবাজার year 2012 month 11 count 1
+Location চট্টগ্রাম year 2012 month 11 count 2
+Location ঢাকা year 2011 month 01 count 3
+Location সিরাজগঞ্জ year 2012 month 11 count 1
+Location সিলেট year 2012 month 11 count 2
+Location নেত্রকোনা year 2011 month 09 count 1
+Location রাজশাহী year 2011 month 09 count 1
+Location সিলেট year 2011 month 09 count 1
+Location জামালপুর year 2011 month 08 count 1
+Location সিলেট year 2011 month 08 count 2
+Location ঢাকা year 2012 month 01 count 2
+Location নড়াইল year 2012 month 10 count 1
+Location ঢাকা year 2012 month 09 count 2
+Location বান্দরবন year 2011 month 07 count 1
+Location গাজীপুর year 2012 month 10 count 1
+Location ঢাকা year 2012 month 10 count 1
+Location গাজীপুর year 2011 month 04 count 1
+Location নরসিংদী year 2011 month 04 count 1
+Location গাজীপুর year 2011 month 10 count 1
+Location ঢাকা year 2011 month 10 count 2
+Location নরসিংদী year 2011 month 10 count 1
+Location সিলেট year 2011 month 10 count 2
+Location টাঙ্গাইল year 2011 month 03 count 1
+Location বান্দরবন year 2012 month 02 count 1
+Location গাজীপুর year 2012 month 03 count 2
+Location টাঙ্গাইল year 2012 month 03 count 1
+Location ঢাকা year 2012 month 03 count 1
+Location জামালপুর year 2011 month 08 count 2
+Location নেত্রকোনা year 2011 month 08 count 1
+Location ঢাকা year 2012 month 06 count 1
+Location কুষ্টিয়া year 2012 month 06 count 1
+Location জামালপুর year 2011 month 01 count 1
+Location বগুড়া year 2011 month 01 count 1
+Location গোপালগঞ্জ year 2012 month 06 count 1
+Location গাজীপুর year 2012 month 03 count 3
+Location ঢাকা year 2012 month 03 count 2
+Location নারায়ণগঞ্জ year 2012 month 03 count 1
+Location সিলেট year 2012 month 03 count 1
+Location গাজীপুর year 2012 month 02 count 1
+Location ঢাকা year 2012 month 02 count 2
+Location নারায়ণগঞ্জ year 2012 month 02 count 1
+Location সিলেট year 2012 month 02 count 2
+Location গাজীপুর year 2011 month 02 count 2
+Location ঢাকা year 2011 month 02 count 2
+Location নারায়ণগঞ্জ year 2011 month 02 count 1
+Location সিলেট year 2011 month 02 count 3
+Location গাজীপুর year 2011 month 08 count 2
+Location ঢাকা year 2011 month 08 count 4
+Location সিলেট year 2011 month 08 count 3
+Location নীলফামারী year 2011 month 11 count 1
+Location ফরিদপুর year 2011 month 11 count 1
+Location মেহেরপুর year 2011 month 11 count 1
+Location সিলেট year 2011 month 11 count 1
+Location কক্সবাজার year 2011 month 02 count 1
+Location কুড়িগ্রাম year 2011 month 02 count 1
+Location টাঙ্গাইল year 2011 month 02 count 1
+Location নারায়ণগঞ্জ year 2011 month 02 count 2
+Location বগুড়া year 2011 month 02 count 1
+Location ব্রাহ্মণবাড়িয়া year 2011 month 02 count 1
+Location লক্ষ্মীপুর year 2011 month 02 count 1
+Location সাতক্ষীরা year 2011 month 02 count 1
+Location হবিগঞ্জ year 2011 month 02 count 1
+Location ব্রাহ্মণবাড়িয়া year 2012 month 08 count 1
+Location ঢাকা year 2012 month 06 count 2
+Location ঢাকা year 2011 month 06 count 2
+Location বান্দরবন year 2011 month 11 count 1
+Location ঢাকা year 2011 month 09 count 4
+Location ঢাকা year 2012 month 08 count 4
+Location মেহেরপুর year 2012 month 08 count 2
+Location সিলেট year 2012 month 08 count 4
+Location ঢাকা year 2012 month 06 count 3
+Location ঢাকা year 2011 month 10 count 3
+Location ঢাকা year 2011 month 07 count 2
+Location ঢাকা year 2012 month 04 count 1
+Location কক্সবাজার year 2011 month 09 count 1
+Location কুড়িগ্রাম year 2011 month 09 count 1
+Location নারায়ণগঞ্জ year 2011 month 09 count 1
+Location নোয়াখালী year 2011 month 09 count 1
+Location নড়াইল year 2011 month 09 count 1
+Location মেহেরপুর year 2011 month 09 count 1
+Location সিলেট year 2011 month 09 count 2
+Location সিলেট year 2012 month 06 count 3
+Location ঢাকা year 2012 month 07 count 3
+Location মৌলভীবাজার year 2011 month 07 count 1
+Location ঢাকা year 2011 month 05 count 3
+Location রাজশাহী year 2012 month 03 count 1
+Location সিলেট year 2012 month 03 count 2
+Location গাজীপুর year 2011 month 09 count 1
+Location নরসিংদী year 2011 month 09 count 1
+Location টাঙ্গাইল year 2012 month 11 count 1
+Location ঢাকা year 2012 month 11 count 1
+Location পাবনা year 2011 month 05 count 1
+Location গাজীপুর year 2012 month 05 count 1
+Location ঢাকা year 2012 month 05 count 1
+Location দিনাজপুর year 2012 month 01 count 1
+Location জামালপুর year 2011 month 02 count 1
+Location সিলেট year 2011 month 06 count 4
+Location সিলেট year 2012 month 04 count 1
+Location বাগেরহাট year 2011 month 06 count 1
+Location ঢাকা year 2012 month 05 count 2
+Location বান্দরবন year 2011 month 03 count 1
+Location বাগেরহাট year 2012 month 02 count 1
+Location ঢাকা year 2011 month 05 count 4
+Location দিনাজপুর year 2011 month 06 count 1
+Location কুষ্টিয়া year 2012 month 01 count 1
+Location ঢাকা year 2012 month 06 count 4
+Location নেত্রকোনা year 2011 month 11 count 1
+Location ঢাকা year 2011 month 05 count 5
+Location ঢাকা year 2012 month 07 count 4
+Location ঢাকা year 2011 month 10 count 4
+Location ঢাকা year 2011 month 02 count 3
+Location ঢাকা year 2011 month 09 count 5
+Location ঢাকা year 2012 month 04 count 2
+Location ঢাকা year 2011 month 02 count 4
+Location নওগাঁ year 2011 month 08 count 1
+Location বগুড়া year 2011 month 08 count 1
+Location নোয়াখালী year 2012 month 09 count 1
+Location চট্টগ্রাম year 2011 month 11 count 3
+Location বরিশাল year 2012 month 08 count 1
+Location হবিগঞ্জ year 2011 month 07 count 1
+Location খুলনা year 2012 month 06 count 1
+Location লক্ষ্মীপুর year 2012 month 10 count 1
+Location বগুড়া year 2012 month 02 count 2
+Location সাতক্ষীরা year 2011 month 07 count 1
+Location নারায়ণগঞ্জ year 2012 month 09 count 1
+Location নারায়ণগঞ্জ year 2011 month 05 count 1
+Location ময়মনসিংহ year 2012 month 07 count 1
+Location গাইবান্ধা year 2012 month 08 count 1
+Location দিনাজপুর year 2012 month 08 count 1
+Location গাজীপুর year 2011 month 07 count 2
+Location ঢাকা year 2011 month 07 count 3
+Location ঢাকা year 2011 month 07 count 4
+Location ঢাকা year 2012 month 05 count 3
+Location নোয়াখালী year 2011 month 03 count 1
+Location গাজীপুর year 2012 month 03 count 4
+Location ঢাকা year 2012 month 03 count 3
+Location বরিশাল year 2012 month 06 count 1
+Location খাগড়াছড়ি year 2011 month 10 count 1
+Location চট্টগ্রাম year 2011 month 10 count 1
+Location রাঙামাটি year 2011 month 10 count 1
+Location নাটোর year 2012 month 06 count 1
+Location খাগড়াছড়ি year 2011 month 06 count 1
+Location চট্টগ্রাম year 2011 month 06 count 2
+Location রাঙামাটি year 2011 month 06 count 1
+Location গাইবান্ধা year 2011 month 02 count 1
+Location দিনাজপুর year 2012 month 04 count 1
+Location খাগড়াছড়ি year 2012 month 05 count 1
+Location চট্টগ্রাম year 2012 month 05 count 2
+Location রাঙামাটি year 2012 month 05 count 1
+Location ঢাকা year 2012 month 03 count 4
+Location নারায়ণগঞ্জ year 2011 month 01 count 1
+Location খাগড়াছড়ি year 2012 month 07 count 1
+Location চট্টগ্রাম year 2012 month 07 count 2
+Location রাঙামাটি year 2012 month 07 count 1
+Location ঢাকা year 2011 month 05 count 6
+Location ঢাকা year 2011 month 02 count 5
+Location সিলেট year 2011 month 07 count 1
+Location ময়মনসিংহ year 2012 month 09 count 1
+Location খাগড়াছড়ি year 2012 month 04 count 1
+Location চট্টগ্রাম year 2012 month 04 count 2
+Location রাঙামাটি year 2012 month 04 count 1
+Location খাগড়াছড়ি year 2011 month 02 count 1
+Location কক্সবাজার year 2011 month 08 count 2
+Location সিলেট year 2011 month 03 count 2
+Location ঢাকা year 2012 month 10 count 2
+Location দিনাজপুর year 2011 month 04 count 1
+Location সিলেট year 2012 month 10 count 2
+Location নওগাঁ year 2011 month 06 count 1
+Location বগুড়া year 2011 month 06 count 2
+Location খাগড়াছড়ি year 2011 month 09 count 1
+Location চাঁদপুর year 2011 month 03 count 1
+Location সিলেট year 2011 month 07 count 2
+Location বরিশাল year 2012 month 05 count 1
+Location মৌলভীবাজার year 2011 month 09 count 1
+Location খাগড়াছড়ি year 2012 month 10 count 1
+Location চট্টগ্রাম year 2012 month 10 count 2
+Location রাঙামাটি year 2012 month 10 count 1
+Location নওগাঁ year 2012 month 10 count 1
+Location সিলেট year 2012 month 08 count 5
+Location ময়মনসিংহ year 2012 month 11 count 1
+Location কক্সবাজার year 2011 month 03 count 1
+Location খাগড়াছড়ি year 2011 month 03 count 1
+Location চট্টগ্রাম year 2011 month 03 count 3
+Location ঢাকা year 2012 month 03 count 5
+Location গাইবান্ধা year 2012 month 04 count 1
+Location দিনাজপুর year 2012 month 04 count 2
+Location খাগড়াছড়ি year 2012 month 08 count 1
+Location চট্টগ্রাম year 2012 month 08 count 3
+Location বরিশাল year 2011 month 06 count 1
+Location সিলেট year 2012 month 10 count 3
+Location ঢাকা year 2011 month 08 count 5
+Location চট্টগ্রাম year 2011 month 03 count 4
+Location খাগড়াছড়ি year 2012 month 06 count 1
+Location গাইবান্ধা year 2012 month 06 count 1
+Location কুমিল্লা year 2012 month 06 count 1
+Location খাগড়াছড়ি year 2012 month 06 count 2
+Location গোপালগঞ্জ year 2012 month 06 count 2
+Location ফেনী year 2012 month 06 count 1
+Location মেহেরপুর year 2012 month 06 count 1
+Location সিলেট year 2012 month 06 count 4
+Location খাগড়াছড়ি year 2011 month 08 count 1
+Location চট্টগ্রাম year 2011 month 08 count 1
+Location সিলেট year 2012 month 01 count 1
+Location খাগড়াছড়ি year 2011 month 10 count 2
+Location নেত্রকোনা year 2011 month 06 count 2
+Location রাজশাহী year 2011 month 06 count 1
+Location সিলেট year 2011 month 06 count 5
+Location ঢাকা year 2011 month 11 count 2
+Location খাগড়াছড়ি year 2012 month 05 count 2
+Location সিলেট year 2012 month 01 count 2
+Location খাগড়াছড়ি year 2012 month 11 count 1
+Location সিলেট year 2011 month 10 count 3
+Location খাগড়াছড়ি year 2012 month 11 count 2
+Location সিলেট year 2012 month 08 count 6
+Location সিলেট year 2012 month 03 count 3
+Location সুনামগঞ্জ year 2012 month 03 count 1
+Location হবিগঞ্জ year 2012 month 03 count 1
+Location খাগড়াছড়ি year 2011 month 07 count 1
+Location ঢাকা year 2012 month 09 count 3
+Location সিলেট year 2012 month 09 count 2
+Location হবিগঞ্জ year 2012 month 09 count 1
+Location খাগড়াছড়ি year 2011 month 02 count 2
+Location সিলেট year 2012 month 08 count 7
+Location সিলেট year 2011 month 01 count 2
+Location টাঙ্গাইল year 2012 month 06 count 1
+Location কক্সবাজার year 2012 month 02 count 1
+Location চট্টগ্রাম year 2012 month 02 count 2
+Location মৌলভীবাজার year 2012 month 07 count 1
+Location ময়মনসিংহ year 2011 month 09 count 1
+Location সিলেট year 2011 month 09 count 3
+Location ঢাকা year 2011 month 07 count 5
+Location ব্রাহ্মণবাড়িয়া year 2011 month 03 count 1
+Location চট্টগ্রাম year 2011 month 11 count 4
+Location সিলেট year 2011 month 11 count 2
+Location সিলেট year 2012 month 01 count 3
+Location ঢাকা year 2012 month 02 count 3
+Location ঢাকা year 2011 month 07 count 6
+Location গাজীপুর year 2012 month 01 count 1
+Location বান্দরবন year 2011 month 05 count 1
+Location সিলেট year 2012 month 02 count 3
+Location দিনাজপুর year 2012 month 06 count 1
+Location দিনাজপুর year 2012 month 01 count 2
+Location ব্রাহ্মণবাড়িয়া year 2011 month 02 count 2
+Location নড়াইল year 2012 month 11 count 1
+Location বরিশাল year 2011 month 04 count 1
+Location কক্সবাজার year 2011 month 03 count 2
+Location চট্টগ্রাম year 2011 month 03 count 5
+Location চাঁদপুর year 2011 month 07 count 1
+Location ঢাকা year 2012 month 09 count 4
+Location সিলেট year 2012 month 09 count 3
+Location গোপালগঞ্জ year 2012 month 11 count 1
+Location মেহেরপুর year 2012 month 11 count 1
+Location সিলেট year 2012 month 11 count 3
+Location চট্টগ্রাম year 2011 month 11 count 5
+Location ঢাকা year 2011 month 08 count 6
+Location সিলেট year 2011 month 08 count 4
+Location গোপালগঞ্জ year 2012 month 01 count 1
+Location মেহেরপুর year 2012 month 01 count 1
+Location সিলেট year 2012 month 01 count 4
+Location ঢাকা year 2011 month 10 count 5
+Location চট্টগ্রাম year 2011 month 03 count 6
+Location ঢাকা year 2012 month 03 count 6
+Location ঢাকা year 2012 month 01 count 3
+Location পাবনা year 2011 month 11 count 1
+Location ঢাকা year 2011 month 04 count 1
+Location গাজীপুর year 2011 month 05 count 1
+Location ঢাকা year 2011 month 05 count 7
+Location লক্ষ্মীপুর year 2012 month 04 count 1
+Location গাজীপুর year 2011 month 07 count 3
+Location ঢাকা year 2011 month 07 count 7
+Location ঢাকা year 2011 month 05 count 8
+Location গাজীপুর year 2012 month 06 count 2
+Location ঢাকা year 2012 month 06 count 5
+Location ঢাকা year 2011 month 04 count 2
+Location ঢাকা year 2012 month 03 count 7
+Location জামালপুর year 2012 month 08 count 2
+Location সিলেট year 2012 month 08 count 8
+Location গাজীপুর year 2011 month 06 count 1
+Location নরসিংদী year 2011 month 06 count 2
+Location সিলেট year 2011 month 06 count 6
+Location ভোলা year 2012 month 08 count 1
+Location জামালপুর year 2012 month 09 count 1
+Location সিলেট year 2012 month 09 count 4
+Location ঢাকা year 2011 month 02 count 6
+Location বরগুনা year 2012 month 03 count 2
+Location চট্টগ্রাম year 2011 month 06 count 3
+Location ঢাকা year 2011 month 06 count 3
+Location নরসিংদী year 2011 month 06 count 3
+Location নারায়ণগঞ্জ year 2011 month 06 count 2
+Location সিলেট year 2011 month 06 count 7
+Location ঢাকা year 2012 month 08 count 5
+Location ঢাকা year 2011 month 07 count 8
+Location ঢাকা year 2011 month 03 count 4
+Location নেত্রকোনা year 2012 month 05 count 1
+Location পাবনা year 2012 month 05 count 1
+Location বগুড়া year 2012 month 05 count 1
+Location সিলেট year 2012 month 05 count 1
+Location ব্রাহ্মণবাড়িয়া year 2011 month 05 count 1
+Location কুষ্টিয়া year 2012 month 05 count 1
+Location কক্সবাজার year 2011 month 03 count 3
+Location ঢাকা year 2012 month 11 count 2
+Location ঢাকা year 2011 month 09 count 6
+Location বান্দরবন year 2011 month 06 count 1
+Location গাজীপুর year 2012 month 06 count 3
+Location নরসিংদী year 2012 month 06 count 1
+Location জামালপুর year 2011 month 11 count 1
+Location বগুড়া year 2011 month 11 count 1
+Location রাজশাহী year 2011 month 11 count 1
+Location সিরাজগঞ্জ year 2011 month 11 count 1
+Location সিলেট year 2011 month 11 count 3
+Location গাজীপুর year 2011 month 01 count 2
+Location ঢাকা year 2011 month 01 count 4
+Location ঢাকা year 2011 month 01 count 5
+Location চট্টগ্রাম year 2012 month 06 count 2
+Location জামালপুর year 2012 month 01 count 1
+Location সিলেট year 2012 month 01 count 5
+Location চট্টগ্রাম year 2011 month 09 count 1
+Location ঢাকা year 2011 month 06 count 4
+Location জামালপুর year 2011 month 11 count 2
+Location সিলেট year 2011 month 11 count 4
+Location চট্টগ্রাম year 2012 month 08 count 4
+Location চট্টগ্রাম year 2012 month 05 count 3
+Location ঢাকা year 2012 month 03 count 8
+Location সিলেট year 2012 month 08 count 9
+Location বরগুনা year 2012 month 01 count 1
+Location সিলেট year 2012 month 06 count 5
+Location বরগুনা year 2011 month 04 count 1
+Location চট্টগ্রাম year 2012 month 06 count 3
+Location গাজীপুর year 2011 month 08 count 3
+Location ঢাকা year 2011 month 08 count 7
+Location ঢাকা year 2011 month 08 count 8
+Location ঢাকা year 2011 month 07 count 9
+Location ময়মনসিংহ year 2011 month 07 count 1
+Location চট্টগ্রাম year 2012 month 07 count 3
+Location সিলেট year 2012 month 07 count 1
+Location গাজীপুর year 2011 month 10 count 2
+Location চট্টগ্রাম year 2012 month 08 count 5
+Location নীলফামারী year 2011 month 05 count 1
+Location ফরিদপুর year 2011 month 05 count 1
+Location মেহেরপুর year 2011 month 05 count 1
+Location সিলেট year 2011 month 05 count 2
+Location গাজীপুর year 2011 month 04 count 2
+Location চট্টগ্রাম year 2011 month 04 count 1
+Location কক্সবাজার year 2011 month 09 count 2
+Location চট্টগ্রাম year 2011 month 09 count 2
+Location কক্সবাজার year 2011 month 01 count 1
+Location চট্টগ্রাম year 2011 month 01 count 1
+Location বরিশাল year 2012 month 04 count 2
+Location চট্টগ্রাম year 2012 month 07 count 4
+Location চট্টগ্রাম year 2012 month 09 count 2
+Location নেত্রকোনা year 2012 month 09 count 1
+Location রাজশাহী year 2012 month 09 count 1
+Location সিলেট year 2012 month 09 count 5
+Location জামালপুর year 2012 month 10 count 1
+Location বগুড়া year 2012 month 10 count 1
+Location নেত্রকোনা year 2012 month 09 count 2
+Location রাজশাহী year 2012 month 09 count 2
+Location সিলেট year 2012 month 09 count 6
+Location সিলেট year 2011 month 02 count 4
+Location কক্সবাজার year 2012 month 11 count 2
+Location চট্টগ্রাম year 2012 month 11 count 3
+Location ঢাকা year 2011 month 08 count 9
+Location সিরাজগঞ্জ year 2012 month 03 count 1
+Location সিলেট year 2012 month 03 count 4
+Location নেত্রকোনা year 2012 month 09 count 3
+Location রাজশাহী year 2012 month 09 count 3
+Location সিলেট year 2012 month 09 count 7
+Location জামালপুর year 2011 month 01 count 2
+Location সিলেট year 2011 month 01 count 3
+Location ঢাকা year 2011 month 05 count 9
+Location নড়াইল year 2012 month 10 count 2
+Location ঢাকা year 2012 month 09 count 5
+Location বান্দরবন year 2011 month 06 count 2
+Location গাজীপুর year 2012 month 04 count 1
+Location ঢাকা year 2012 month 04 count 3
+Location গাজীপুর year 2012 month 08 count 1
+Location নরসিংদী year 2012 month 08 count 1
+Location গাজীপুর year 2011 month 04 count 3
+Location ঢাকা year 2011 month 04 count 3
+Location নরসিংদী year 2011 month 04 count 2
+Location সিলেট year 2011 month 04 count 1
+Location টাঙ্গাইল year 2012 month 04 count 1
+Location বান্দরবন year 2011 month 10 count 1
+Location গাজীপুর year 2012 month 10 count 2
+Location টাঙ্গাইল year 2012 month 10 count 1
+Location ঢাকা year 2012 month 10 count 3
+Location জামালপুর year 2012 month 07 count 1
+Location নেত্রকোনা year 2012 month 07 count 1
+Location ঢাকা year 2011 month 07 count 10
+Location কুষ্টিয়া year 2011 month 04 count 1
+Location জামালপুর year 2012 month 11 count 2
+Location বগুড়া year 2012 month 11 count 1
+Location গোপালগঞ্জ year 2011 month 06 count 1
+Location গাজীপুর year 2012 month 03 count 5
+Location ঢাকা year 2012 month 03 count 9
+Location নারায়ণগঞ্জ year 2012 month 03 count 2
+Location সিলেট year 2012 month 03 count 5
+Location গাজীপুর year 2012 month 08 count 2
+Location ঢাকা year 2012 month 08 count 6
+Location নারায়ণগঞ্জ year 2012 month 08 count 1
+Location সিলেট year 2012 month 08 count 10
+Location গাজীপুর year 2011 month 04 count 4
+Location ঢাকা year 2011 month 04 count 4
+Location নারায়ণগঞ্জ year 2011 month 04 count 1
+Location সিলেট year 2011 month 04 count 2
+Location গাজীপুর year 2012 month 05 count 2
+Location ঢাকা year 2012 month 05 count 4
+Location সিলেট year 2012 month 05 count 2
+Location নীলফামারী year 2011 month 01 count 1
+Location ফরিদপুর year 2011 month 01 count 1
+Location মেহেরপুর year 2011 month 01 count 1
+Location সিলেট year 2011 month 01 count 4
+Location কক্সবাজার year 2012 month 09 count 1
+Location কুড়িগ্রাম year 2012 month 09 count 1
+Location টাঙ্গাইল year 2012 month 09 count 1
+Location নারায়ণগঞ্জ year 2012 month 09 count 2
+Location বগুড়া year 2012 month 09 count 1
+Location ব্রাহ্মণবাড়িয়া year 2012 month 09 count 1
+Location লক্ষ্মীপুর year 2012 month 09 count 1
+Location সাতক্ষীরা year 2012 month 09 count 1
+Location হবিগঞ্জ year 2012 month 09 count 2
+Location ব্রাহ্মণবাড়িয়া year 2011 month 03 count 2
+Location ঢাকা year 2012 month 07 count 5
+Location ঢাকা year 2011 month 07 count 11
+Location বান্দরবন year 2012 month 09 count 1
+Location ঢাকা year 2012 month 08 count 7
+Location ঢাকা year 2012 month 06 count 6
+Location মেহেরপুর year 2012 month 06 count 2
+Location সিলেট year 2012 month 06 count 6
+Location ঢাকা year 2011 month 07 count 12
+Location ঢাকা year 2012 month 04 count 4
+Location ঢাকা year 2011 month 08 count 10
+Location ঢাকা year 2011 month 01 count 6
+Location কক্সবাজার year 2011 month 08 count 3
+Location কুড়িগ্রাম year 2011 month 08 count 1
+Location নারায়ণগঞ্জ year 2011 month 08 count 1
+Location নোয়াখালী year 2011 month 08 count 1
+Location নড়াইল year 2011 month 08 count 1
+Location মেহেরপুর year 2011 month 08 count 1
+Location সিলেট year 2011 month 08 count 5
+Location সিলেট year 2011 month 10 count 4
+Location ঢাকা year 2012 month 06 count 7
+Location মৌলভীবাজার year 2012 month 07 count 2
+Location ঢাকা year 2012 month 03 count 10
+Location রাজশাহী year 2012 month 01 count 1
+Location সিলেট year 2012 month 01 count 6
+Location গাজীপুর year 2012 month 04 count 2
+Location নরসিংদী year 2012 month 04 count 1
+Location টাঙ্গাইল year 2012 month 06 count 2
+Location ঢাকা year 2012 month 06 count 8
+Location পাবনা year 2011 month 10 count 1
+Location গাজীপুর year 2012 month 04 count 3
+Location ঢাকা year 2012 month 04 count 5
+Location দিনাজপুর year 2011 month 04 count 2
+Location জামালপুর year 2012 month 11 count 3
+Location সিলেট year 2012 month 06 count 7
+Location সিলেট year 2011 month 05 count 3
+Location বাগেরহাট year 2011 month 01 count 1
+Location ঢাকা year 2012 month 08 count 8
+Location বান্দরবন year 2011 month 05 count 2
+Location বাগেরহাট year 2012 month 09 count 1
+Location ঢাকা year 2011 month 11 count 3
+Location দিনাজপুর year 2011 month 02 count 1
+Location কুষ্টিয়া year 2012 month 09 count 1
+Location ঢাকা year 2012 month 02 count 4
+Location নেত্রকোনা year 2012 month 08 count 2
+Location ঢাকা year 2012 month 02 count 5
+Location ঢাকা year 2011 month 03 count 5
+Location ঢাকা year 2011 month 04 count 5
+Location ঢাকা year 2011 month 06 count 5
+Location ঢাকা year 2012 month 08 count 9
+Location ঢাকা year 2011 month 09 count 7
+Location ঢাকা year 2011 month 01 count 7
+Location নওগাঁ year 2012 month 07 count 1
+Location বগুড়া year 2012 month 07 count 1
+Location নোয়াখালী year 2011 month 09 count 2
+Location চট্টগ্রাম year 2011 month 07 count 1
+Location বরিশাল year 2012 month 07 count 1
+Location হবিগঞ্জ year 2012 month 10 count 1
+Location খুলনা year 2012 month 04 count 1
+Location লক্ষ্মীপুর year 2012 month 07 count 1
+Location বগুড়া year 2012 month 02 count 3
+Location সাতক্ষীরা year 2011 month 08 count 1
+Location নারায়ণগঞ্জ year 2011 month 07 count 1
+Location নারায়ণগঞ্জ year 2012 month 06 count 1
+Location ময়মনসিংহ year 2012 month 07 count 2
+Location গাইবান্ধা year 2011 month 06 count 1
+Location দিনাজপুর year 2011 month 06 count 2
+Location গাজীপুর year 2011 month 02 count 3
+Location ঢাকা year 2011 month 02 count 7
+Location ঢাকা year 2012 month 07 count 6
+Location ঢাকা year 2011 month 09 count 8
+Location নোয়াখালী year 2012 month 09 count 2
+Location গাজীপুর year 2012 month 11 count 1
+Location ঢাকা year 2012 month 11 count 3
+Location বরিশাল year 2011 month 09 count 1
+Location খাগড়াছড়ি year 2012 month 05 count 3
+Location চট্টগ্রাম year 2012 month 05 count 4
+Location রাঙামাটি year 2012 month 05 count 2
+Location নাটোর year 2012 month 04 count 1
+Location খাগড়াছড়ি year 2012 month 05 count 4
+Location চট্টগ্রাম year 2012 month 05 count 5
+Location রাঙামাটি year 2012 month 05 count 3
+Location গাইবান্ধা year 2012 month 05 count 1
+Location দিনাজপুর year 2012 month 03 count 1
+Location খাগড়াছড়ি year 2011 month 11 count 1
+Location চট্টগ্রাম year 2011 month 11 count 6
+Location রাঙামাটি year 2011 month 11 count 1
+Location ঢাকা year 2012 month 11 count 4
+Location নারায়ণগঞ্জ year 2011 month 11 count 1
+Location খাগড়াছড়ি year 2012 month 03 count 1
+Location চট্টগ্রাম year 2012 month 03 count 2
+Location রাঙামাটি year 2012 month 03 count 1
+Location ঢাকা year 2012 month 05 count 5
+Location ঢাকা year 2011 month 11 count 4
+Location সিলেট year 2011 month 11 count 5
+Location ময়মনসিংহ year 2011 month 03 count 1
+Location খাগড়াছড়ি year 2011 month 05 count 1
+Location চট্টগ্রাম year 2011 month 05 count 1
+Location রাঙামাটি year 2011 month 05 count 1
+Location খাগড়াছড়ি year 2012 month 10 count 2
+Location কক্সবাজার year 2012 month 05 count 1
+Location সিলেট year 2011 month 05 count 4
+Location ঢাকা year 2012 month 03 count 11
+Location দিনাজপুর year 2011 month 07 count 1
+Location সিলেট year 2012 month 10 count 4
+Location নওগাঁ year 2011 month 03 count 1
+Location বগুড়া year 2011 month 03 count 1
+Location খাগড়াছড়ি year 2011 month 05 count 2
+Location চাঁদপুর year 2012 month 10 count 1
+Location সিলেট year 2012 month 04 count 2
+Location বরিশাল year 2011 month 04 count 2
+Location মৌলভীবাজার year 2012 month 06 count 1
+Location খাগড়াছড়ি year 2011 month 04 count 1
+Location চট্টগ্রাম year 2011 month 04 count 2
+Location রাঙামাটি year 2011 month 04 count 1
+Location নওগাঁ year 2012 month 08 count 1
+Location সিলেট year 2011 month 09 count 4
+Location ময়মনসিংহ year 2011 month 02 count 1
+Location কক্সবাজার year 2011 month 03 count 4
+Location খাগড়াছড়ি year 2011 month 03 count 2
+Location চট্টগ্রাম year 2011 month 03 count 7
+Location ঢাকা year 2011 month 04 count 6
+Location গাইবান্ধা year 2012 month 07 count 1
+Location দিনাজপুর year 2012 month 07 count 1
+Location খাগড়াছড়ি year 2011 month 01 count 1
+Location চট্টগ্রাম year 2011 month 01 count 2
+Location বরিশাল year 2012 month 11 count 1
+Location সিলেট year 2012 month 05 count 3
+Location ঢাকা year 2011 month 11 count 5
+Location চট্টগ্রাম year 2012 month 05 count 6
+Location খাগড়াছড়ি year 2011 month 01 count 2
+Location গাইবান্ধা year 2012 month 04 count 2
+Location কুমিল্লা year 2011 month 10 count 1
+Location খাগড়াছড়ি year 2011 month 10 count 3
+Location গোপালগঞ্জ year 2011 month 10 count 1
+Location ফেনী year 2011 month 10 count 1
+Location মেহেরপুর year 2011 month 10 count 2
+Location সিলেট year 2011 month 10 count 5
+Location খাগড়াছড়ি year 2011 month 08 count 2
+Location চট্টগ্রাম year 2011 month 08 count 2
+Location সিলেট year 2011 month 10 count 6
+Location খাগড়াছড়ি year 2011 month 04 count 2
+Location নেত্রকোনা year 2012 month 03 count 1
+Location রাজশাহী year 2012 month 03 count 2
+Location সিলেট year 2012 month 03 count 6
+Location ঢাকা year 2011 month 11 count 6
+Location খাগড়াছড়ি year 2012 month 04 count 2
+Location সিলেট year 2012 month 01 count 7
+Location খাগড়াছড়ি year 2011 month 08 count 3
+Location সিলেট year 2012 month 04 count 3
+Location খাগড়াছড়ি year 2011 month 08 count 4
+Location সিলেট year 2011 month 03 count 3
+Location সিলেট year 2012 month 09 count 8
+Location সুনামগঞ্জ year 2012 month 09 count 1
+Location হবিগঞ্জ year 2012 month 09 count 3
+Location খাগড়াছড়ি year 2012 month 09 count 1
+Location ঢাকা year 2011 month 03 count 6
+Location সিলেট year 2011 month 03 count 4
+Location হবিগঞ্জ year 2011 month 03 count 1
+Location খাগড়াছড়ি year 2011 month 10 count 4
+Location সিলেট year 2011 month 09 count 5
+Location সিলেট year 2012 month 11 count 4
+Location টাঙ্গাইল year 2011 month 11 count 1
+Location কক্সবাজার year 2011 month 01 count 2
+Location চট্টগ্রাম year 2011 month 01 count 3
+Location মৌলভীবাজার year 2011 month 08 count 1
+Location ময়মনসিংহ year 2012 month 06 count 1
+Location সিলেট year 2012 month 06 count 8
+Location ঢাকা year 2012 month 01 count 4
+Location ব্রাহ্মণবাড়িয়া year 2012 month 03 count 1
+Location চট্টগ্রাম year 2011 month 02 count 1
+Location সিলেট year 2012 month 08 count 11
+Location সিলেট year 2012 month 09 count 9
+Location ঢাকা year 2012 month 02 count 6
+Location ঢাকা year 2012 month 06 count 9
+Location গাজীপুর year 2011 month 07 count 4
+Location বান্দরবন year 2011 month 03 count 2
+Location সিলেট year 2012 month 05 count 4
+Location দিনাজপুর year 2012 month 04 count 3
+Location দিনাজপুর year 2012 month 07 count 2
+Location রাজশাহী year 2012 month 10 count 1
+Location গাজীপুর year 2011 month 03 count 3
+Location ঢাকা year 2011 month 03 count 7
+Location সিলেট year 2011 month 03 count 5
+Location গোপালগঞ্জ year 2012 month 05 count 1
+Location মেহেরপুর year 2012 month 05 count 1
+Location সিলেট year 2012 month 05 count 5
+Location গাজীপুর year 2011 month 09 count 2
+Location ঢাকা year 2011 month 09 count 9
+Location চট্টগ্রাম year 2011 month 08 count 3
+Location দিনাজপুর year 2011 month 10 count 1
+Location ঢাকা year 2011 month 03 count 8
+Location দিনাজপুর year 2011 month 07 count 2
+Location নেত্রকোনা year 2012 month 02 count 1
+Location কক্সবাজার year 2012 month 05 count 2
+Location চট্টগ্রাম year 2012 month 05 count 7
+Location দিনাজপুর year 2012 month 07 count 3
+Location দিনাজপুর year 2012 month 05 count 1
+Location জামালপুর year 2012 month 03 count 1
+Location দিনাজপুর year 2012 month 07 count 4
+Location নারায়ণগঞ্জ year 2012 month 08 count 2
+Location দিনাজপুর year 2012 month 07 count 5
+Location সাতক্ষীরা year 2012 month 01 count 1
+Location দিনাজপুর year 2012 month 03 count 2
+Location মুন্সিগঞ্জ year 2012 month 09 count 1
+Location ভোলা year 2012 month 07 count 1
+Location দিনাজপুর year 2012 month 07 count 6
+Location বগুড়া year 2012 month 11 count 2
+Location ঢাকা year 2012 month 09 count 6
+Location দিনাজপুর year 2012 month 04 count 4
+Location সাতক্ষীরা year 2012 month 05 count 1
+Location জামালপুর year 2011 month 08 count 3
+Location সিলেট year 2011 month 08 count 6
+Location মুন্সিগঞ্জ year 2011 month 11 count 1
+Location দিনাজপুর year 2012 month 09 count 1
+Location জামালপুর year 2012 month 05 count 1
+Location সিলেট year 2012 month 05 count 6
+Location দিনাজপুর year 2012 month 02 count 1
+Location জামালপুর year 2012 month 04 count 1
+Location সিলেট year 2012 month 04 count 4
+Location দিনাজপুর year 2012 month 03 count 3
+Location জামালপুর year 2011 month 04 count 1
+Location সিলেট year 2011 month 04 count 3
+Location কুড়িগ্রাম year 2012 month 09 count 2
+Location দিনাজপুর year 2012 month 02 count 2
+Location গাজীপুর year 2012 month 08 count 3
+Location সিলেট year 2012 month 08 count 12
+Location ঢাকা year 2012 month 01 count 5
+Location নারায়ণগঞ্জ year 2011 month 07 count 2
+Location সাতক্ষীরা year 2012 month 08 count 1
+Location চট্টগ্রাম year 2011 month 06 count 4
+Location ঢাকা year 2011 month 02 count 8
+Location রাজশাহী year 2011 month 05 count 1
+Location সিলেট year 2011 month 09 count 6
+Location দিনাজপুর year 2012 month 05 count 2
+Location দিনাজপুর year 2012 month 10 count 1
+Location রাজশাহী year 2011 month 03 count 1
+Location পটুয়াখালী year 2011 month 10 count 1
+Location মুন্সিগঞ্জ year 2012 month 04 count 1
+Location রাজশাহী year 2012 month 04 count 1
+Location দিনাজপুর year 2012 month 08 count 2
+Location নেত্রকোনা year 2012 month 04 count 1
+Location দিনাজপুর year 2011 month 06 count 3
+Location নরসিংদী year 2012 month 08 count 2
+Location ঢাকা year 2012 month 08 count 10
+Location দিনাজপুর year 2011 month 11 count 1
+Location সাতক্ষীরা year 2012 month 05 count 2
+Location ঢাকা year 2011 month 02 count 9
+Location মুন্সিগঞ্জ year 2012 month 01 count 1
+Location দিনাজপুর year 2012 month 02 count 3
+Location দিনাজপুর year 2012 month 11 count 2
+Location ফরিদপুর year 2011 month 04 count 1
+Location রাজশাহী year 2012 month 04 count 2
+Location দিনাজপুর year 2012 month 03 count 4
+Location বরগুনা year 2012 month 04 count 1
+Location চট্টগ্রাম year 2011 month 08 count 4
+Location সিলেট year 2012 month 03 count 7
+Location দিনাজপুর year 2012 month 06 count 2
+Location সাতক্ষীরা year 2011 month 07 count 2
+Location দিনাজপুর year 2012 month 05 count 3
+Location পাবনা year 2011 month 07 count 1
+Location ঢাকা year 2012 month 04 count 6
+Location গাজীপুর year 2012 month 11 count 2
+Location ঢাকা year 2012 month 11 count 5
+Location দিনাজপুর year 2012 month 07 count 7
+Location রাজশাহী year 2012 month 06 count 1
+Location ফরিদপুর year 2012 month 06 count 1
+Location ঢাকা year 2011 month 03 count 9
+Location দিনাজপুর year 2012 month 03 count 5
+Location ঢাকা year 2012 month 09 count 7
+Location চট্টগ্রাম year 2011 month 03 count 8
+Location ঢাকা year 2012 month 01 count 6
+Location নারায়ণগঞ্জ year 2012 month 01 count 1
+Location দিনাজপুর year 2012 month 11 count 3
+Location নারায়ণগঞ্জ year 2012 month 02 count 2
+Location দিনাজপুর year 2012 month 09 count 2
+Location দিনাজপুর year 2011 month 08 count 1
+Location ঢাকা year 2011 month 05 count 10
+Location দিনাজপুর year 2012 month 09 count 3
+Location ঢাকা year 2011 month 07 count 13
+Location দিনাজপুর year 2011 month 08 count 2
+Location দিনাজপুর year 2012 month 05 count 4
+Location দিনাজপুর year 2012 month 04 count 5
+Location সাতক্ষীরা year 2012 month 04 count 1
+Location সিলেট year 2012 month 10 count 5
+Location দিনাজপুর year 2011 month 11 count 2
+Location দিনাজপুর year 2012 month 05 count 5
+Location রাজশাহী year 2012 month 10 count 2
+Location পটুয়াখালী year 2011 month 02 count 1
+Location দিনাজপুর year 2012 month 10 count 2
+Location নেত্রকোনা year 2011 month 02 count 1
+Location দিনাজপুর year 2011 month 01 count 1
+Location নরসিংদী year 2012 month 06 count 2
+Location ঢাকা year 2011 month 02 count 10
+Location দিনাজপুর year 2012 month 10 count 3
+Location পাবনা year 2012 month 09 count 1
+Location বরগুনা year 2011 month 02 count 1
+Location দিনাজপুর year 2011 month 06 count 4
+Location নীলফামারী year 2011 month 03 count 1
+Location ফরিদপুর year 2011 month 03 count 1
+Location মেহেরপুর year 2011 month 03 count 1
+Location সিলেট year 2011 month 03 count 6
+Location দিনাজপুর year 2012 month 02 count 4
+Location বরিশাল year 2012 month 01 count 1
+Location দিনাজপুর year 2011 month 02 count 2
+Location কক্সবাজার year 2012 month 11 count 3
+Location চট্টগ্রাম year 2012 month 11 count 4
+Location ঢাকা year 2011 month 08 count 11
+Location ঢাকা year 2012 month 07 count 7
+Location খাগড়াছড়ি year 2011 month 01 count 3
+Location চট্টগ্রাম year 2011 month 01 count 4
+Location রাঙামাটি year 2011 month 01 count 1
+Location নেত্রকোনা year 2012 month 01 count 1
+Location রাজশাহী year 2012 month 01 count 2
+Location সিলেট year 2012 month 01 count 8
+Location কুষ্টিয়া year 2011 month 04 count 2
+Location গাজীপুর year 2012 month 08 count 4
+Location ঢাকা year 2012 month 08 count 11
+Location নেত্রকোনা year 2012 month 08 count 3
+Location রাজশাহী year 2012 month 08 count 2
+Location সিলেট year 2012 month 08 count 13
+Location কুষ্টিয়া year 2012 month 08 count 1
+Location ঝালকাঠি year 2012 month 07 count 1
+Location কক্সবাজার year 2012 month 11 count 4
+Location চট্টগ্রাম year 2012 month 11 count 5
+Location মুন্সিগঞ্জ year 2011 month 04 count 1
+Location নারায়ণগঞ্জ year 2011 month 07 count 3
+Location রাজশাহী year 2011 month 02 count 1
+Location কুষ্টিয়া year 2012 month 03 count 1
+Location দিনাজপুর year 2012 month 04 count 6
+Location ময়মনসিংহ year 2011 month 07 count 2
+Location ব্রাহ্মণবাড়িয়া year 2012 month 05 count 1
+Location কক্সবাজার year 2012 month 08 count 1
+Location চট্টগ্রাম year 2012 month 08 count 6
+Location চট্টগ্রাম year 2011 month 07 count 2
+Location কক্সবাজার year 2012 month 02 count 2
+Location কুড়িগ্রাম year 2012 month 02 count 1
+Location টাঙ্গাইল year 2012 month 02 count 1
+Location নারায়ণগঞ্জ year 2012 month 02 count 3
+Location ব্রাহ্মণবাড়িয়া year 2012 month 02 count 1
+Location লক্ষ্মীপুর year 2012 month 02 count 1
+Location সাতক্ষীরা year 2012 month 02 count 1
+Location জামালপুর year 2012 month 04 count 2
+Location সিলেট year 2012 month 04 count 5
+Location জামালপুর year 2012 month 01 count 2
+Location সিলেট year 2012 month 01 count 9
+Location জামালপুর year 2011 month 04 count 2
+Location বগুড়া year 2011 month 04 count 1
+Location দিনাজপুর year 2011 month 08 count 3
+Location গাজীপুর year 2012 month 08 count 5
+Location ঢাকা year 2012 month 08 count 12
+Location সিলেট year 2012 month 08 count 14
+Location দিনাজপুর year 2011 month 03 count 1
+Location জামালপুর year 2012 month 10 count 2
+Location পটুয়াখালী year 2012 month 10 count 1
+Location বগুড়া year 2012 month 10 count 2
+Location বরিশাল year 2012 month 10 count 1
+Location ভোলা year 2012 month 10 count 1
+Location রাজশাহী year 2012 month 10 count 3
+Location সিরাজগঞ্জ year 2012 month 10 count 1
+Location সিলেট year 2012 month 10 count 6
+Location গোপালগঞ্জ year 2012 month 09 count 1
+Location মেহেরপুর year 2012 month 09 count 1
+Location সিলেট year 2012 month 09 count 10
+Location সিলেট year 2011 month 08 count 7
+Location ঝালকাঠি year 2012 month 01 count 1
+Location নেত্রকোনা year 2011 month 06 count 3
+Location রাজশাহী year 2011 month 06 count 2
+Location সিলেট year 2011 month 06 count 8
+Location কুড়িগ্রাম year 2011 month 06 count 1
+Location জামালপুর year 2011 month 06 count 1
+Location বগুড়া year 2011 month 06 count 3
+Location রাজশাহী year 2011 month 06 count 3
+Location সিরাজগঞ্জ year 2011 month 06 count 1
+Location সিলেট year 2011 month 06 count 9
+Location সুনামগঞ্জ year 2011 month 06 count 1
+Location কুষ্টিয়া year 2011 month 04 count 3
+Location বাগেরহাট year 2012 month 11 count 1
+Location বান্দরবন year 2012 month 06 count 1
+Location দিনাজপুর year 2011 month 07 count 3
+Location ঝালকাঠি year 2012 month 10 count 1
+Location চট্টগ্রাম year 2011 month 08 count 5
+Location সাতক্ষীরা year 2011 month 09 count 1
+Location নওগাঁ year 2012 month 03 count 1
+Location ঝালকাঠি year 2011 month 04 count 1
+Location দিনাজপুর year 2011 month 01 count 2
+Location নেত্রকোনা year 2011 month 05 count 1
+Location চট্টগ্রাম year 2012 month 11 count 6
+Location রাজশাহী year 2011 month 11 count 2
+Location ঝালকাঠি year 2011 month 07 count 1
+Location নীলফামারী year 2011 month 09 count 1
+Location ময়মনসিংহ year 2012 month 04 count 1
+Location সাতক্ষীরা year 2012 month 03 count 1
+Location মুন্সিগঞ্জ year 2012 month 07 count 1
+Location রাজশাহী year 2012 month 07 count 1
+Location নাটোর year 2012 month 03 count 1
+Location রাজশাহী year 2012 month 03 count 3
+Location সাতক্ষীরা year 2012 month 06 count 1
+Location দিনাজপুর year 2012 month 08 count 3
+Location নেত্রকোনা year 2011 month 10 count 1
+Location রাজশাহী year 2011 month 10 count 1
+Location সিলেট year 2011 month 10 count 7
+Location বাগেরহাট year 2012 month 07 count 1
+Location ফরিদপুর year 2011 month 01 count 2
+Location নওগাঁ year 2011 month 05 count 1
+Location বগুড়া year 2012 month 07 count 2
+Location রাজশাহী year 2011 month 08 count 1
+Location মুন্সিগঞ্জ year 2011 month 06 count 1
+Location সাতক্ষীরা year 2011 month 04 count 1
+Location নেত্রকোনা year 2012 month 06 count 1
+Location রাজশাহী year 2012 month 06 count 2
+Location সিলেট year 2012 month 06 count 9
+Location রাজশাহী year 2011 month 05 count 2
+Location সিলেট year 2011 month 05 count 5
+Location রাজশাহী year 2012 month 06 count 3
+Location সিলেট year 2012 month 06 count 10
+Location সিলেট year 2011 month 02 count 5
+Location দিনাজপুর year 2011 month 07 count 4
+Location নেত্রকোনা year 2012 month 07 count 2
+Location সুনামগঞ্জ year 2012 month 07 count 1
+Location হবিগঞ্জ year 2012 month 07 count 1
+Location সিলেট year 2012 month 02 count 4
+Location সুনামগঞ্জ year 2012 month 02 count 1
+Location সুনামগঞ্জ year 2012 month 04 count 1
+Location সিলেট year 2012 month 08 count 15
+Location সিলেট year 2011 month 05 count 6
+Location সাতক্ষীরা year 2011 month 04 count 2
+Location সিলেট year 2011 month 08 count 8
+Location সিলেট year 2011 month 10 count 8
+Location সিলেট year 2012 month 10 count 7
+Location সুনামগঞ্জ year 2012 month 07 count 2
+Location সুনামগঞ্জ year 2011 month 05 count 1
+Location সিলেট year 2012 month 03 count 8
+Location সিলেট year 2012 month 11 count 5
+Location সিলেট year 2011 month 04 count 4
+Location সিলেট year 2012 month 09 count 11
+Location সিলেট year 2012 month 01 count 10
+Location সিলেট year 2011 month 10 count 9
+Location সিলেট year 2011 month 06 count 10
+Location সুনামগঞ্জ year 2011 month 06 count 2
+Location হবিগঞ্জ year 2012 month 06 count 1
+Location সুনামগঞ্জ year 2011 month 05 count 2
+Location সিলেট year 2012 month 04 count 6
+Location সিলেট year 2011 month 06 count 11
+Location সিলেট year 2012 month 10 count 8
+Location সিলেট year 2012 month 07 count 2
+Location সিলেট year 2011 month 09 count 7
+Location সিলেট year 2011 month 07 count 3
+Location সিলেট year 2011 month 01 count 5
+Location সিলেট year 2012 month 11 count 6
+Location সিলেট year 2011 month 01 count 6
+Location সিলেট year 2011 month 02 count 6
+Location সিলেট year 2012 month 02 count 5
+Location ঢাকা year 2012 month 10 count 4
+Location সিলেট year 2012 month 10 count 9
+Location সিলেট year 2012 month 08 count 16
+Location হবিগঞ্জ year 2011 month 09 count 1
+Location গাজীপুর year 2012 month 03 count 6
+Location সিলেট year 2012 month 03 count 9
+Location সিলেট year 2011 month 01 count 7
+Location সিলেট year 2012 month 05 count 7
+Location সিলেট year 2012 month 04 count 7
+Location চট্টগ্রাম year 2012 month 03 count 3
+Location পিরোজপুর year 2011 month 10 count 1
+Location সিলেট year 2012 month 01 count 11
+Location ঢাকা year 2012 month 08 count 13
+Location ঢাকা year 2012 month 01 count 7
+Location চট্টগ্রাম year 2012 month 07 count 5
+Location ঢাকা year 2012 month 07 count 8
+Location নরসিংদী year 2012 month 07 count 1
+Location নারায়ণগঞ্জ year 2012 month 07 count 1
+Location সিলেট year 2012 month 07 count 3
+Location চট্টগ্রাম year 2011 month 10 count 2
+Location ঢাকা year 2011 month 10 count 6
+Location নরসিংদী year 2011 month 10 count 2
+Location নারায়ণগঞ্জ year 2011 month 10 count 1
+Location সিলেট year 2011 month 10 count 10
+Location টাঙ্গাইল year 2012 month 08 count 1
+Location ঢাকা year 2011 month 07 count 14
+Location ঢাকা year 2012 month 09 count 8
+Location ঢাকা year 2011 month 09 count 10
+Location কক্সবাজার year 2012 month 07 count 2
+Location কুমিল্লা year 2012 month 07 count 1
+Location ঢাকা year 2012 month 07 count 9
+Location দিনাজপুর year 2012 month 07 count 8
+Location ব্রাহ্মণবাড়িয়া year 2012 month 07 count 1
+Location মাগুরা year 2012 month 07 count 1
+Location মাদারীপুর year 2012 month 07 count 1
+Location মেহেরপুর year 2012 month 07 count 1
+Location ঢাকা year 2011 month 06 count 6
+Location ঢাকা year 2011 month 08 count 12
+Location নড়াইল year 2011 month 06 count 1
+Location ঢাকা year 2012 month 01 count 8
+Location ঢাকা year 2012 month 04 count 7
+Location ঢাকা year 2011 month 07 count 15
+Location ঢাকা year 2012 month 06 count 10
+Location সিলেট year 2012 month 06 count 11
+Location বান্দরবন year 2011 month 02 count 1
+Location ঢাকা year 2012 month 08 count 14
+Location ময়মনসিংহ year 2012 month 08 count 2
+Location গাজীপুর year 2011 month 03 count 4
+Location ঢাকা year 2011 month 03 count 10
+Location কুমিল্লা year 2011 month 08 count 1
+Location কুড়িগ্রাম year 2011 month 08 count 2
+Location চট্টগ্রাম year 2011 month 08 count 6
+Location ঢাকা year 2011 month 08 count 13
+Location নড়াইল year 2011 month 08 count 2
+Location বগুড়া year 2011 month 08 count 2
+Location ব্রাহ্মণবাড়িয়া year 2011 month 08 count 1
+Location ময়মনসিংহ year 2011 month 08 count 1
+Location রাজশাহী year 2011 month 08 count 2
+Location সিরাজগঞ্জ year 2011 month 08 count 1
+Location ঢাকা year 2012 month 02 count 7
+Location কুড়িগ্রাম year 2011 month 09 count 2
+Location ঢাকা year 2011 month 09 count 11
+Location ঢাকা year 2012 month 02 count 8
+Location নারায়ণগঞ্জ year 2012 month 02 count 4
+Location ঢাকা year 2011 month 11 count 7
+Location ঢাকা year 2011 month 01 count 8
+Location নরসিংদী year 2011 month 01 count 1
+Location ঢাকা year 2012 month 04 count 8
+Location গাজীপুর year 2012 month 06 count 4
+Location নরসিংদী year 2012 month 06 count 3
+Location ঢাকা year 2011 month 05 count 11
+Location টাঙ্গাইল year 2011 month 02 count 2
+Location ঢাকা year 2011 month 05 count 12
+Location বান্দরবন year 2012 month 02 count 2
+Location ঢাকা year 2011 month 02 count 11
+Location গাজীপুর year 2012 month 02 count 2
+Location টাঙ্গাইল year 2012 month 02 count 2
+Location ঢাকা year 2012 month 02 count 9
+Location ঢাকা year 2012 month 01 count 9
+Location ঢাকা year 2011 month 09 count 12
+Location জামালপুর year 2011 month 02 count 2
+Location নেত্রকোনা year 2011 month 02 count 2
+Location ঢাকা year 2011 month 05 count 13
+Location ঢাকা year 2012 month 05 count 6
+Location সিলেট year 2012 month 05 count 8
+Location ঢাকা year 2012 month 11 count 6
+Location সিলেট year 2012 month 11 count 7
+Location ঢাকা year 2011 month 04 count 7
+Location ঢাকা year 2012 month 02 count 10
+Location ঢাকা year 2012 month 09 count 9
+Location ঢাকা year 2012 month 02 count 11
+Location ঢাকা year 2011 month 10 count 7
+Location ঢাকা year 2011 month 01 count 9
+Location ঢাকা year 2012 month 03 count 12
+Location ঢাকা year 2012 month 03 count 13
+Location বরিশাল year 2012 month 03 count 1
+Location সিলেট year 2012 month 03 count 10
+Location ঢাকা year 2011 month 05 count 14
+Location গাজীপুর year 2012 month 07 count 1
+Location নরসিংদী year 2012 month 07 count 2
+Location সিলেট year 2012 month 07 count 4
+Location কুষ্টিয়া year 2011 month 08 count 1
+Location ঢাকা year 2011 month 01 count 10
+Location ঢাকা year 2012 month 01 count 10
+Location গোপালগঞ্জ year 2011 month 09 count 1
+Location ঢাকা year 2011 month 10 count 8
+Location সিলেট year 2011 month 02 count 7
+Location সিলেট year 2011 month 08 count 9
+Location ঢাকা year 2011 month 04 count 8
+Location নেত্রকোনা year 2011 month 04 count 1
+Location সিলেট year 2011 month 04 count 5
+Location গাজীপুর year 2011 month 09 count 3
+Location ঢাকা year 2011 month 09 count 13
+Location নারায়ণগঞ্জ year 2011 month 09 count 2
+Location সিলেট year 2011 month 09 count 8
+Location গাজীপুর year 2011 month 02 count 4
+Location ঢাকা year 2011 month 02 count 12
+Location নারায়ণগঞ্জ year 2011 month 02 count 3
+Location সিলেট year 2011 month 02 count 8
+Location গাজীপুর year 2011 month 03 count 5
+Location ঢাকা year 2011 month 03 count 11
+Location নারায়ণগঞ্জ year 2011 month 03 count 1
+Location সিলেট year 2011 month 03 count 7
+Location গাজীপুর year 2011 month 11 count 3
+Location ঢাকা year 2011 month 11 count 8
+Location সিলেট year 2011 month 11 count 6
+Location নীলফামারী year 2011 month 04 count 1
+Location ফরিদপুর year 2011 month 04 count 2
+Location মেহেরপুর year 2011 month 04 count 1
+Location সিলেট year 2011 month 04 count 6
+Location কক্সবাজার year 2012 month 08 count 2
+Location কুড়িগ্রাম year 2012 month 08 count 1
+Location টাঙ্গাইল year 2012 month 08 count 2
+Location নারায়ণগঞ্জ year 2012 month 08 count 3
+Location বগুড়া year 2012 month 08 count 1
+Location ব্রাহ্মণবাড়িয়া year 2012 month 08 count 2
+Location লক্ষ্মীপুর year 2012 month 08 count 1
+Location সাতক্ষীরা year 2012 month 08 count 2
+Location হবিগঞ্জ year 2012 month 08 count 1
+Location ব্রাহ্মণবাড়িয়া year 2011 month 11 count 1
+Location ঢাকা year 2012 month 10 count 5
+Location ঢাকা year 2012 month 05 count 7
+Location বান্দরবন year 2011 month 04 count 1
+Location ঢাকা year 2011 month 09 count 14
+Location ঢাকা year 2012 month 09 count 10
+Location মেহেরপুর year 2012 month 09 count 2
+Location সিলেট year 2012 month 09 count 12
+Location ঢাকা year 2011 month 05 count 15
+Location ঢাকা year 2011 month 03 count 12
+Location ঢাকা year 2011 month 02 count 13
+Location কক্সবাজার year 2011 month 10 count 1
+Location কুড়িগ্রাম year 2011 month 10 count 1
+Location নারায়ণগঞ্জ year 2011 month 10 count 2
+Location নোয়াখালী year 2011 month 10 count 1
+Location নড়াইল year 2011 month 10 count 1
+Location মেহেরপুর year 2011 month 10 count 3
+Location সিলেট year 2011 month 10 count 11
+Location সিলেট year 2011 month 03 count 8
+Location ঢাকা year 2011 month 03 count 13
+Location মৌলভীবাজার year 2012 month 04 count 1
+Location ঢাকা year 2012 month 07 count 10
+Location হবিগঞ্জ year 2012 month 07 count 2
+Location গাজীপুর year 2012 month 01 count 2
+Location নরসিংদী year 2012 month 01 count 1
+Location টাঙ্গাইল year 2012 month 01 count 1
+Location ঢাকা year 2012 month 01 count 11
+Location গাজীপুর year 2012 month 11 count 3
+Location ঢাকা year 2012 month 11 count 7
+Location দিনাজপুর year 2011 month 03 count 2
+Location জামালপুর year 2011 month 04 count 3
+Location সিলেট year 2012 month 08 count 17
+Location সিলেট year 2011 month 07 count 4
+Location বাগেরহাট year 2011 month 09 count 1
+Location ঢাকা year 2011 month 04 count 9
+Location বান্দরবন year 2012 month 09 count 2
+Location বাগেরহাট year 2011 month 11 count 1
+Location ঢাকা year 2011 month 06 count 7
+Location সিরাজগঞ্জ year 2011 month 06 count 2
+Location চট্টগ্রাম year 2011 month 10 count 3
+Location ঢাকা year 2011 month 10 count 9
+Location নারায়ণগঞ্জ year 2011 month 09 count 3
+Location নারায়ণগঞ্জ year 2011 month 11 count 2
+Location ঢাকা year 2012 month 10 count 6
+Location দিনাজপুর year 2012 month 07 count 9
+Location নারায়ণগঞ্জ year 2011 month 07 count 4
+Location খুলনা year 2012 month 07 count 1
+Location কুষ্টিয়া year 2012 month 05 count 2
+Location পটুয়াখালী year 2011 month 03 count 1
+Location সিলেট year 2012 month 03 count 11
+Location গাজীপুর year 2011 month 04 count 5
+Location ঢাকা year 2011 month 05 count 16
+Location ঢাকা year 2012 month 04 count 9
+Location চট্টগ্রাম year 2011 month 02 count 2
+Location সিলেট year 2012 month 06 count 12
+Location সুনামগঞ্জ year 2012 month 06 count 1
+Location হবিগঞ্জ year 2012 month 06 count 2
+Location ঢাকা year 2011 month 05 count 17
+Location কুড়িগ্রাম year 2011 month 04 count 1
+Location ঢাকা year 2011 month 11 count 9
+Location নওগাঁ year 2011 month 11 count 1
+Location পঞ্চগড় year 2011 month 11 count 1
+Location ময়মনসিংহ year 2011 month 11 count 1
+Location মাদারীপুর year 2011 month 06 count 1
+Location ঢাকা year 2011 month 02 count 14
+Location ঢাকা year 2012 month 05 count 8
+Location পটুয়াখালী year 2012 month 09 count 1
+Location টাঙ্গাইল year 2011 month 03 count 2
+Location লক্ষ্মীপুর year 2011 month 04 count 1
+Location ব্রাহ্মণবাড়িয়া year 2011 month 11 count 2
+Location বান্দরবন year 2011 month 09 count 1
+Location ঢাকা year 2011 month 10 count 10
+Location ঢাকা year 2011 month 09 count 15
+Location সিলেট year 2011 month 07 count 5
+Location নোয়াখালী year 2012 month 01 count 1
+Location দিনাজপুর year 2011 month 10 count 2
+Location দিনাজপুর year 2012 month 08 count 4
+Location রাজশাহী year 2011 month 08 count 3
+Location নেত্রকোনা year 2012 month 09 count 4
+Location ব্রাহ্মণবাড়িয়া year 2012 month 10 count 1
+Location ব্রাহ্মণবাড়িয়া year 2011 month 08 count 2
+Location ঢাকা year 2011 month 07 count 16
+Location নারায়ণগঞ্জ year 2012 month 08 count 4
+Location ঢাকা year 2011 month 01 count 11
+Location ঢাকা year 2012 month 02 count 12
+Location ঢাকা year 2011 month 03 count 14
+Location ঢাকা year 2011 month 09 count 16
+Location গাজীপুর year 2011 month 03 count 6
+Location ঢাকা year 2012 month 02 count 13
+Location ঢাকা year 2012 month 01 count 12
+Location ঢাকা year 2012 month 11 count 8
+Location দিনাজপুর year 2011 month 08 count 4
+Location কুড়িগ্রাম year 2012 month 10 count 1
+Location দিনাজপুর year 2011 month 09 count 1
+Location দিনাজপুর year 2011 month 03 count 3
+Location ঢাকা year 2011 month 09 count 17
+Location দিনাজপুর year 2012 month 06 count 3
+Location নোয়াখালী year 2011 month 11 count 1
+Location চট্টগ্রাম year 2012 month 09 count 3
+Location দিনাজপুর year 2011 month 04 count 3
+Location দিনাজপুর year 2011 month 04 count 4
+Location দিনাজপুর year 2012 month 03 count 6
+Location ঢাকা year 2011 month 02 count 15
+Location দিনাজপুর year 2011 month 04 count 5
+Location বরিশাল year 2011 month 01 count 1
+Location হবিগঞ্জ year 2012 month 07 count 3
+Location দিনাজপুর year 2012 month 11 count 4
+Location সিলেট year 2011 month 06 count 12
+Location দিনাজপুর year 2012 month 03 count 7
+Location লক্ষ্মীপুর year 2012 month 01 count 1
+Location ঢাকা year 2011 month 05 count 18
+Location বগুড়া year 2011 month 02 count 2
+Location দিনাজপুর year 2011 month 02 count 3
+Location দিনাজপুর year 2012 month 04 count 7
+Location দিনাজপুর year 2011 month 05 count 1
+Location সাতক্ষীরা year 2011 month 09 count 2
+Location নারায়ণগঞ্জ year 2012 month 05 count 1
+Location দিনাজপুর year 2011 month 02 count 4
+Location পটুয়াখালী year 2011 month 07 count 1
+Location দিনাজপুর year 2012 month 03 count 8
+Location নারায়ণগঞ্জ year 2011 month 05 count 2
+Location ঢাকা year 2012 month 01 count 13
+Location ময়মনসিংহ year 2011 month 01 count 1
+Location দিনাজপুর year 2012 month 05 count 6
+Location দিনাজপুর year 2012 month 10 count 4
+Location গাজীপুর year 2011 month 01 count 3
+Location ঢাকা year 2011 month 01 count 12
+Location ঢাকা year 2011 month 11 count 10
+Location দিনাজপুর year 2011 month 10 count 3
+Location দিনাজপুর year 2011 month 11 count 3
+Location ঢাকা year 2011 month 02 count 16
+Location নোয়াখালী year 2011 month 11 count 2
+Location দিনাজপুর year 2012 month 05 count 7
+Location দিনাজপুর year 2011 month 05 count 2
+Location চট্টগ্রাম year 2011 month 02 count 3
+Location দিনাজপুর year 2012 month 06 count 4
+Location ঢাকা year 2011 month 07 count 17
+Location দিনাজপুর year 2011 month 05 count 3
+Location দিনাজপুর year 2011 month 09 count 2
+Location দিনাজপুর year 2011 month 05 count 4
+Location গাজীপুর year 2012 month 04 count 4
+Location ঢাকা year 2012 month 04 count 10
+Location দিনাজপুর year 2011 month 07 count 5
+Location বরগুনা year 2012 month 09 count 1
+Location দিনাজপুর year 2012 month 06 count 5
+Location ঢাকা year 2012 month 02 count 14
+Location দিনাজপুর year 2012 month 07 count 10
+Location দিনাজপুর year 2012 month 07 count 11
+Location গাজীপুর year 2011 month 09 count 4
+Location দিনাজপুর year 2011 month 09 count 3
+Location দিনাজপুর year 2012 month 07 count 12
+Location ব্রাহ্মণবাড়িয়া year 2012 month 10 count 2
+Location গাজীপুর year 2011 month 10 count 3
+Location দিনাজপুর year 2012 month 03 count 9
+Location দিনাজপুর year 2011 month 04 count 6
+Location দিনাজপুর year 2012 month 05 count 8
+Location চট্টগ্রাম year 2012 month 06 count 4
+Location দিনাজপুর year 2011 month 05 count 5
+Location গাজীপুর year 2012 month 09 count 1
+Location দিনাজপুর year 2012 month 01 count 3
+Location দিনাজপুর year 2011 month 11 count 4
+Location দিনাজপুর year 2012 month 04 count 8
+Location নারায়ণগঞ্জ year 2011 month 01 count 2
+Location দিনাজপুর year 2012 month 02 count 5
+Location দিনাজপুর year 2011 month 06 count 5
+Location দিনাজপুর year 2011 month 08 count 5
+Location দিনাজপুর year 2011 month 08 count 6
+Location দিনাজপুর year 2012 month 02 count 6
+Location দিনাজপুর year 2011 month 01 count 3
+Location দিনাজপুর year 2012 month 05 count 9
+Location দিনাজপুর year 2012 month 06 count 6
+Location দিনাজপুর year 2011 month 03 count 4
+Location দিনাজপুর year 2012 month 09 count 4
+Location দিনাজপুর year 2012 month 09 count 5
+Location পাবনা year 2011 month 06 count 2
+Location দিনাজপুর year 2012 month 05 count 10
+Location দিনাজপুর year 2012 month 11 count 5
+Location দিনাজপুর year 2011 month 10 count 4
+Location দিনাজপুর year 2011 month 09 count 4
+Location দিনাজপুর year 2012 month 01 count 4
+Location দিনাজপুর year 2011 month 01 count 4
+Location দিনাজপুর year 2011 month 03 count 5
+Location সিলেট year 2012 month 03 count 12
+Location দিনাজপুর year 2011 month 10 count 5
+Location গাজীপুর year 2011 month 04 count 6
+Location দিনাজপুর year 2012 month 11 count 6
+Location দিনাজপুর year 2011 month 02 count 5
+Location দিনাজপুর year 2012 month 04 count 9
+Location ঢাকা year 2012 month 06 count 11
+Location কুড়িগ্রাম year 2012 month 03 count 1
+Location ঢাকা year 2012 month 03 count 14
+Location দিনাজপুর year 2011 month 07 count 6
+Location পটুয়াখালী year 2011 month 06 count 1
+Location দিনাজপুর year 2012 month 02 count 7
+Location ঢাকা year 2012 month 02 count 15
+Location ঢাকা year 2012 month 09 count 11
+Location দিনাজপুর year 2012 month 09 count 6
+Location দিনাজপুর year 2011 month 05 count 6
+Location ঢাকা year 2011 month 06 count 8
+Location ঢাকা year 2012 month 11 count 9
+Location ঢাকা year 2011 month 06 count 9
+Location গাজীপুর year 2012 month 09 count 2
+Location ঢাকা year 2012 month 09 count 12
+Location সাতক্ষীরা year 2011 month 06 count 1
+Location গাজীপুর year 2012 month 10 count 3
+Location ঢাকা year 2012 month 10 count 7
+Location বরগুনা year 2011 month 05 count 1
+Location গাজীপুর year 2012 month 11 count 4
+Location ঢাকা year 2012 month 11 count 10
+Location সাতক্ষীরা year 2011 month 06 count 2
+Location ঢাকা year 2011 month 04 count 10
+Location গাজীপুর year 2011 month 02 count 5
+Location চট্টগ্রাম year 2011 month 02 count 4
+Location ঢাকা year 2011 month 07 count 18
+Location গাজীপুর year 2012 month 10 count 4
+Location ঢাকা year 2012 month 10 count 8
+Location গাজীপুর year 2012 month 01 count 3
+Location চট্টগ্রাম year 2012 month 01 count 2
+Location দিনাজপুর year 2012 month 03 count 10
+Location গাজীপুর year 2012 month 10 count 5
+Location চট্টগ্রাম year 2012 month 10 count 3
+Location বরগুনা year 2011 month 02 count 2
+Location ঢাকা year 2011 month 10 count 11
+Location কুড়িগ্রাম year 2011 month 09 count 3
+Location জামালপুর year 2011 month 09 count 2
+Location ঢাকা year 2011 month 09 count 18
+Location গাজীপুর year 2011 month 04 count 7
+Location চট্টগ্রাম year 2011 month 04 count 3
+Location দিনাজপুর year 2011 month 05 count 7
+Location গাজীপুর year 2012 month 04 count 5
+Location চট্টগ্রাম year 2012 month 04 count 3
+Location ঢাকা year 2011 month 04 count 11
+Location ঢাকা year 2011 month 03 count 15
+Location গাজীপুর year 2011 month 01 count 4
+Location ঢাকা year 2011 month 01 count 13
+Location নরসিংদী year 2011 month 01 count 2
+Location ময়মনসিংহ year 2011 month 01 count 2
+Location সিলেট year 2011 month 01 count 8
+Location ঢাকা year 2012 month 05 count 9
+Location গাজীপুর year 2011 month 09 count 5
+Location চট্টগ্রাম year 2011 month 09 count 3
+Location দিনাজপুর year 2011 month 02 count 6
+Location গাজীপুর year 2012 month 10 count 6
+Location চট্টগ্রাম year 2012 month 10 count 4
+Location ব্রাহ্মণবাড়িয়া year 2012 month 02 count 2
+Location চট্টগ্রাম year 2011 month 10 count 4
+Location ঢাকা year 2012 month 01 count 14
+Location চট্টগ্রাম year 2012 month 01 count 3
+Location ঢাকা year 2012 month 01 count 15
+Location রাঙামাটি year 2012 month 01 count 1
+Location দিনাজপুর year 2011 month 11 count 5
+Location জামালপুর year 2011 month 10 count 1
+Location ঢাকা year 2011 month 09 count 19
+Location কুষ্টিয়া year 2012 month 02 count 1
+Location দিনাজপুর year 2011 month 01 count 5
+Location ঢাকা year 2012 month 01 count 16
+Location ঢাকা year 2011 month 09 count 20
+Location কক্সবাজার year 2011 month 01 count 3
+Location চট্টগ্রাম year 2011 month 01 count 5
+Location রাঙামাটি year 2011 month 01 count 2
+Location ময়মনসিংহ year 2011 month 10 count 1
+Location গাজীপুর year 2011 month 03 count 7
+Location নরসিংদী year 2011 month 03 count 2
+Location দিনাজপুর year 2012 month 05 count 11
+Location গাজীপুর year 2012 month 05 count 3
+Location ঢাকা year 2012 month 05 count 10
+Location খুলনা year 2012 month 07 count 2
+Location সাতক্ষীরা year 2012 month 07 count 1
+Location চট্টগ্রাম year 2012 month 05 count 8
+Location ঢাকা year 2012 month 07 count 11
+Location চট্টগ্রাম year 2011 month 07 count 3
+Location মুন্সিগঞ্জ year 2011 month 07 count 1
+Location চট্টগ্রাম year 2011 month 01 count 6
+Location দিনাজপুর year 2012 month 08 count 5
+Location চট্টগ্রাম year 2012 month 10 count 5
+Location চট্টগ্রাম year 2012 month 08 count 7
+Location ঢাকা year 2012 month 08 count 15
+Location ঢাকা year 2012 month 01 count 17
+Location ঢাকা year 2012 month 06 count 12
+Location চট্টগ্রাম year 2011 month 07 count 4
+Location ঢাকা year 2011 month 05 count 19
+Location দিনাজপুর year 2011 month 02 count 7
+Location চট্টগ্রাম year 2012 month 07 count 6
+Location চট্টগ্রাম year 2011 month 07 count 5
+Location নীলফামারী year 2012 month 07 count 1
+Location মাগুরা year 2011 month 01 count 1
+Location বান্দরবন year 2012 month 07 count 1
+Location গাজীপুর year 2012 month 03 count 7
+Location চট্টগ্রাম year 2012 month 03 count 4
+Location চট্টগ্রাম year 2012 month 04 count 4
+Location দিনাজপুর year 2011 month 11 count 6
+Location ঢাকা year 2011 month 10 count 12
+Location গাজীপুর year 2012 month 02 count 3
+Location চট্টগ্রাম year 2012 month 02 count 3
+Location গাজীপুর year 2011 month 02 count 6
+Location ব্রাহ্মণবাড়িয়া year 2012 month 06 count 1
+Location গাজীপুর year 2012 month 02 count 4
+Location চট্টগ্রাম year 2012 month 02 count 4
+Location দিনাজপুর year 2011 month 01 count 6
+Location চট্টগ্রাম year 2012 month 05 count 9
+Location বান্দরবন year 2011 month 10 count 2
+Location চট্টগ্রাম year 2012 month 10 count 6
+Location দিনাজপুর year 2011 month 07 count 7
+Location বরগুনা year 2012 month 11 count 1
+Location গাজীপুর year 2011 month 03 count 8
+Location চট্টগ্রাম year 2011 month 03 count 9
+Location ঢাকা year 2012 month 05 count 11
+Location ব্রাহ্মণবাড়িয়া year 2011 month 11 count 3
+Location গাজীপুর year 2012 month 01 count 4
+Location চট্টগ্রাম year 2012 month 01 count 4
+Location দিনাজপুর year 2011 month 10 count 6
+Location সিলেট year 2012 month 11 count 8
+Location গাজীপুর year 2011 month 02 count 7
+Location চট্টগ্রাম year 2011 month 02 count 5
+Location ঢাকা year 2012 month 04 count 11
+Location ঢাকা year 2011 month 04 count 12
+Location গাজীপুর year 2011 month 07 count 5
+Location চট্টগ্রাম year 2011 month 07 count 6
+Location বরগুনা year 2011 month 05 count 2
+Location দিনাজপুর year 2011 month 06 count 6
+Location গাজীপুর year 2011 month 07 count 6
+Location চট্টগ্রাম year 2011 month 07 count 7
+Location ঢাকা year 2011 month 10 count 13
+Location ঢাকা year 2011 month 01 count 14
+Location কুড়িগ্রাম year 2012 month 11 count 1
+Location গাজীপুর year 2012 month 09 count 3
+Location চট্টগ্রাম year 2012 month 09 count 4
+Location দিনাজপুর year 2011 month 10 count 7
+Location গাজীপুর year 2011 month 08 count 4
+Location চট্টগ্রাম year 2011 month 08 count 7
+Location ঢাকা year 2012 month 06 count 13
+Location গাজীপুর year 2011 month 03 count 9
+Location চট্টগ্রাম year 2011 month 03 count 10
+Location গাজীপুর year 2011 month 04 count 8
+Location চট্টগ্রাম year 2011 month 04 count 4
+Location চট্টগ্রাম year 2011 month 04 count 5
+Location ঢাকা year 2012 month 10 count 9
+Location গাজীপুর year 2011 month 10 count 4
+Location চট্টগ্রাম year 2011 month 10 count 5
+Location গাজীপুর year 2011 month 08 count 5
+Location ঢাকা year 2011 month 08 count 14
+Location গাজীপুর year 2011 month 11 count 4
+Location চট্টগ্রাম year 2011 month 11 count 7
+Location ঢাকা year 2011 month 06 count 10
+Location ঢাকা year 2011 month 07 count 19
+Location গাজীপুর year 2012 month 10 count 7
+Location চট্টগ্রাম year 2012 month 10 count 7
+Location গাজীপুর year 2012 month 01 count 5
+Location চট্টগ্রাম year 2012 month 01 count 5
+Location সাতক্ষীরা year 2012 month 03 count 2
+Location ঢাকা year 2011 month 01 count 15
+Location নোয়াখালী year 2011 month 03 count 2
+Location গাজীপুর year 2012 month 09 count 4
+Location চট্টগ্রাম year 2012 month 09 count 5
+Location দিনাজপুর year 2011 month 10 count 8
+Location দিনাজপুর year 2011 month 04 count 7
+Location গাজীপুর year 2012 month 07 count 2
+Location চট্টগ্রাম year 2012 month 07 count 7
+Location ঢাকা year 2011 month 02 count 17
+Location খাগড়াছড়ি year 2011 month 10 count 5
+Location গাজীপুর year 2012 month 11 count 5
+Location চট্টগ্রাম year 2012 month 11 count 7
+Location দিনাজপুর year 2012 month 01 count 5
+Location দিনাজপুর year 2012 month 03 count 11
+Location গাজীপুর year 2012 month 03 count 8
+Location চট্টগ্রাম year 2012 month 03 count 5
+Location ঢাকা year 2011 month 02 count 18
+Location সিলেট year 2011 month 02 count 9
+Location ঢাকা year 2011 month 06 count 11
+Location গাজীপুর year 2011 month 02 count 8
+Location চট্টগ্রাম year 2011 month 02 count 6
+Location দিনাজপুর year 2011 month 08 count 7
+Location দিনাজপুর year 2012 month 08 count 6
+Location গাজীপুর year 2011 month 11 count 5
+Location কুড়িগ্রাম year 2011 month 09 count 4
+Location বগুড়া year 2011 month 09 count 2
+Location গাজীপুর year 2011 month 07 count 7
+Location নরসিংদী year 2012 month 11 count 1
+Location গাজীপুর year 2011 month 01 count 5
+Location দিনাজপুর year 2012 month 04 count 10
+Location দিনাজপুর year 2012 month 11 count 7
+Location ঢাকা year 2012 month 05 count 12
+Location ঢাকা year 2011 month 10 count 14
+Location খুলনা year 2012 month 09 count 1
+Location ময়মনসিংহ year 2012 month 02 count 1
+Location দিনাজপুর year 2012 month 09 count 7
+Location দিনাজপুর year 2012 month 01 count 6
+Location নওগাঁ year 2011 month 06 count 2
+Location মেহেরপুর year 2012 month 11 count 2
+Location খুলনা year 2012 month 04 count 2
+Location নরসিংদী year 2011 month 08 count 1
+Location ঢাকা year 2011 month 09 count 21
+Location দিনাজপুর year 2011 month 01 count 7
+Location খুলনা year 2011 month 10 count 1
+Location খুলনা year 2012 month 09 count 2
+Location বান্দরবন year 2011 month 02 count 2
+Location দিনাজপুর year 2012 month 10 count 5
+Location দিনাজপুর year 2011 month 09 count 5
+Location নওগাঁ year 2012 month 03 count 2
+Location নরসিংদী year 2011 month 01 count 3
+Location সাতক্ষীরা year 2011 month 10 count 1
+Location দিনাজপুর year 2011 month 02 count 8
+Location দিনাজপুর year 2012 month 08 count 7
+Location গাজীপুর year 2012 month 10 count 8
+Location ঢাকা year 2012 month 11 count 11
+Location ঢাকা year 2011 month 01 count 16
+Location দিনাজপুর year 2012 month 01 count 7
+Location দিনাজপুর year 2012 month 01 count 8
+Location পাবনা year 2011 month 10 count 2
+Location ঢাকা year 2012 month 04 count 12
+Location দিনাজপুর year 2012 month 10 count 6
+Location দিনাজপুর year 2012 month 05 count 12
+Location বরগুনা year 2012 month 08 count 1
+Location নেত্রকোনা year 2012 month 08 count 4
+Location বগুড়া year 2012 month 08 count 2
+Location সিলেট year 2012 month 08 count 18
+Location দিনাজপুর year 2011 month 10 count 9
+Location দিনাজপুর year 2012 month 02 count 8
+Location ঢাকা year 2011 month 05 count 20
+Location নওগাঁ year 2012 month 03 count 3
+Location ঢাকা year 2011 month 11 count 11
+Location দিনাজপুর year 2012 month 07 count 13
+Location নারায়ণগঞ্জ year 2012 month 09 count 3
+Location ফরিদপুর year 2011 month 10 count 2
+Location দিনাজপুর year 2012 month 11 count 8
+Location দিনাজপুর year 2012 month 02 count 9
+Location ঢাকা year 2011 month 09 count 22
+Location চট্টগ্রাম year 2011 month 09 count 4
+Location দিনাজপুর year 2012 month 09 count 8
+Location বান্দরবন year 2011 month 02 count 3
+Location নারায়ণগঞ্জ year 2011 month 01 count 3
+Location নোয়াখালী year 2011 month 10 count 2
+Location ঢাকা year 2012 month 06 count 14
+Location রাজশাহী year 2012 month 06 count 4
+Location বান্দরবন year 2011 month 05 count 3
+Location বান্দরবন year 2011 month 11 count 2
+Location ঢাকা year 2012 month 04 count 13
+Location মৌলভীবাজার year 2012 month 03 count 1
+Location ঢাকা year 2012 month 02 count 16
+Location বান্দরবন year 2011 month 04 count 2
+Location কক্সবাজার year 2011 month 08 count 4
+Location চট্টগ্রাম year 2011 month 08 count 8
+Location ঢাকা year 2012 month 07 count 12
+Location লক্ষ্মীপুর year 2012 month 07 count 2
+Location ঢাকা year 2012 month 06 count 15
+Location কক্সবাজার year 2012 month 07 count 3
+Location ঢাকা year 2012 month 11 count 12
+Location ঢাকা year 2012 month 07 count 13
+Location নরসিংদী year 2012 month 07 count 3
+Location সিলেট year 2012 month 07 count 5
+Location মানিকগঞ্জ year 2012 month 04 count 1
+Location চট্টগ্রাম year 2011 month 03 count 11
+Location ঢাকা year 2011 month 03 count 16
+Location নরসিংদী year 2011 month 03 count 3
+Location নারায়ণগঞ্জ year 2011 month 03 count 2
+Location সিলেট year 2011 month 03 count 9
+Location ঢাকা year 2011 month 01 count 17
+Location ঢাকা year 2011 month 11 count 12
+Location ঢাকা year 2011 month 07 count 20
+Location ঢাকা year 2011 month 03 count 17
+Location সিলেট year 2011 month 03 count 10
+Location ব্রাহ্মণবাড়িয়া year 2011 month 09 count 1
+Location ঢাকা year 2012 month 03 count 15
+Location নেত্রকোনা year 2012 month 03 count 2
+Location সিলেট year 2012 month 03 count 13
+Location কক্সবাজার year 2012 month 11 count 5
+Location চট্টগ্রাম year 2012 month 11 count 8
+Location কক্সবাজার year 2011 month 04 count 1
+Location চট্টগ্রাম year 2011 month 04 count 6
+Location ব্রাহ্মণবাড়িয়া year 2011 month 10 count 1
+Location ঢাকা year 2012 month 03 count 16
+Location নরসিংদী year 2012 month 03 count 2
+Location সিলেট year 2012 month 03 count 14
+Location বান্দরবন year 2012 month 01 count 1
+Location চট্টগ্রাম year 2012 month 10 count 8
+Location ঢাকা year 2012 month 10 count 10
+Location নরসিংদী year 2012 month 10 count 1
+Location নারায়ণগঞ্জ year 2012 month 10 count 1
+Location সিলেট year 2012 month 10 count 10
+Location কক্সবাজার year 2011 month 10 count 2
+Location চট্টগ্রাম year 2011 month 10 count 6
+Location কক্সবাজার year 2011 month 05 count 1
+Location চট্টগ্রাম year 2011 month 05 count 2
+Location চট্টগ্রাম year 2011 month 06 count 5
+Location ঢাকা year 2011 month 06 count 12
+Location নারায়ণগঞ্জ year 2011 month 06 count 3
+Location রাজবাড়ী year 2011 month 06 count 1
+Location রাজশাহী year 2011 month 06 count 4
+Location সিলেট year 2011 month 06 count 13
+Location সাতক্ষীরা year 2011 month 09 count 3
+Location খুলনা year 2012 month 02 count 1
+Location ঢাকা year 2012 month 02 count 17
+Location সিলেট year 2012 month 02 count 6
+Location ঢাকা year 2011 month 07 count 21
+Location কক্সবাজার year 2011 month 03 count 5
+Location চট্টগ্রাম year 2011 month 03 count 12
+Location কক্সবাজার year 2011 month 09 count 3
+Location চট্টগ্রাম year 2011 month 09 count 5
+Location ঢাকা year 2012 month 08 count 16
+Location গাজীপুর year 2012 month 06 count 5
+Location চট্টগ্রাম year 2012 month 06 count 5
+Location চাঁদপুর year 2012 month 06 count 1
+Location ঢাকা year 2012 month 06 count 16
+Location সিলেট year 2012 month 06 count 13
+Location জামালপুর year 2012 month 08 count 3
+Location রংপুর year 2012 month 08 count 1
+Location ঢাকা year 2012 month 06 count 17
+Location সিলেট year 2012 month 06 count 14
+Location রাঙামাটি year 2011 month 07 count 1
+Location কক্সবাজার year 2011 month 08 count 5
+Location চট্টগ্রাম year 2011 month 08 count 9
+Location কক্সবাজার year 2012 month 06 count 1
+Location চট্টগ্রাম year 2012 month 06 count 6
+Location গাজীপুর year 2011 month 06 count 2
+Location চট্টগ্রাম year 2011 month 06 count 6
+Location ঢাকা year 2011 month 06 count 13
+Location নরসিংদী year 2011 month 06 count 4
+Location সিলেট year 2011 month 06 count 14
+Location লক্ষ্মীপুর year 2012 month 06 count 1
+Location গাজীপুর year 2012 month 05 count 4
+Location চট্টগ্রাম year 2012 month 05 count 10
+Location জামালপুর year 2012 month 05 count 2
+Location ঢাকা year 2012 month 05 count 13
+Location নেত্রকোনা year 2012 month 05 count 2
+Location সিলেট year 2012 month 05 count 9
+Location জয়পুরহাট year 2012 month 09 count 1
+Location কক্সবাজার year 2012 month 06 count 2
+Location চট্টগ্রাম year 2012 month 06 count 7
+Location কক্সবাজার year 2012 month 11 count 6
+Location চট্টগ্রাম year 2012 month 11 count 9
+Location দিনাজপুর year 2011 month 07 count 8
+Location গাজীপুর year 2012 month 06 count 6
+Location চট্টগ্রাম year 2012 month 06 count 8
+Location ঢাকা year 2012 month 06 count 18
+Location নারায়ণগঞ্জ year 2012 month 06 count 2
+Location সিলেট year 2012 month 06 count 15
+Location চুয়াডাঙ্গা year 2012 month 07 count 1
+Location চট্টগ্রাম year 2012 month 03 count 6
+Location ঢাকা year 2012 month 03 count 17
+Location নরসিংদী year 2012 month 03 count 3
+Location নারায়ণগঞ্জ year 2012 month 03 count 3
+Location সিলেট year 2012 month 03 count 15
+Location নওগাঁ year 2012 month 04 count 1
+Location কক্সবাজার year 2011 month 01 count 4
+Location চট্টগ্রাম year 2011 month 01 count 7
+Location কক্সবাজার year 2012 month 09 count 2
+Location চট্টগ্রাম year 2012 month 09 count 6
+Location ঝিনাইদহ year 2012 month 11 count 1
+Location কক্সবাজার year 2012 month 07 count 4
+Location চট্টগ্রাম year 2012 month 07 count 8
+Location কক্সবাজার year 2011 month 11 count 2
+Location চট্টগ্রাম year 2011 month 11 count 8
+Location কক্সবাজার year 2012 month 02 count 3
+Location চট্টগ্রাম year 2012 month 02 count 5
+Location কক্সবাজার year 2012 month 08 count 3
+Location চট্টগ্রাম year 2012 month 08 count 8
+Location ঢাকা year 2012 month 01 count 18
+Location ঢাকা year 2012 month 11 count 13
+Location ঝালকাঠি year 2012 month 11 count 1
+Location কক্সবাজার year 2011 month 11 count 3
+Location চট্টগ্রাম year 2011 month 11 count 9
+Location কক্সবাজার year 2012 month 07 count 5
+Location চট্টগ্রাম year 2012 month 07 count 9
+Location ঢাকা year 2011 month 03 count 18
+Location কক্সবাজার year 2012 month 02 count 4
+Location চট্টগ্রাম year 2012 month 02 count 6
+Location ঢাকা year 2011 month 11 count 13
+Location খুলনা year 2012 month 03 count 1
+Location ঢাকা year 2011 month 01 count 18
+Location ঢাকা year 2011 month 03 count 19
+Location ঢাকা year 2011 month 09 count 23
+Location পাবনা year 2011 month 03 count 1
+Location চট্টগ্রাম year 2012 month 04 count 5
+Location ঢাকা year 2012 month 04 count 14
+Location বান্দরবন year 2012 month 07 count 2
+Location কক্সবাজার year 2011 month 05 count 2
+Location নওগাঁ year 2011 month 01 count 1
+Location বগুড়া year 2011 month 01 count 2
+Location রংপুর year 2011 month 09 count 1
+Location গাইবান্ধা year 2012 month 01 count 1
+Location দিনাজপুর year 2012 month 01 count 9
+Location চট্টগ্রাম year 2011 month 10 count 7
+Location সাতক্ষীরা year 2011 month 11 count 1
+Location ঝিনাইদহ year 2012 month 04 count 1
+Location চট্টগ্রাম year 2012 month 08 count 9
+Location নোয়াখালী year 2012 month 08 count 1
+Location গাজীপুর year 2011 month 05 count 2
+Location নরসিংদী year 2011 month 05 count 1
+Location চট্টগ্রাম year 2011 month 01 count 8
+Location নাটোর year 2012 month 09 count 1
+Location চট্টগ্রাম year 2012 month 10 count 9
+Location সাতক্ষীরা year 2012 month 02 count 2
+Location গাইবান্ধা year 2012 month 10 count 1
+Location ঢাকা year 2012 month 09 count 13
+Location কক্সবাজার year 2012 month 11 count 7
+Location নারায়ণগঞ্জ year 2011 month 07 count 5
+Location ঢাকা year 2012 month 03 count 18
+Location চট্টগ্রাম year 2011 month 09 count 6
+Location চট্টগ্রাম year 2011 month 03 count 13
+Location ময়মনসিংহ year 2012 month 08 count 3
+Location চট্টগ্রাম year 2011 month 06 count 7
+Location কক্সবাজার year 2011 month 07 count 1
+Location নওগাঁ year 2012 month 08 count 2
+Location বগুড়া year 2012 month 08 count 3
+Location কক্সবাজার year 2012 month 07 count 6
+Location ব্রাহ্মণবাড়িয়া year 2011 month 07 count 1
+Location চট্টগ্রাম year 2012 month 05 count 11
+Location সিলেট year 2012 month 05 count 10
+Location চাঁদপুর year 2011 month 01 count 1
+Location নওগাঁ year 2011 month 02 count 1
+Location চট্টগ্রাম year 2012 month 05 count 12
+Location ঢাকা year 2012 month 06 count 19
+Location বগুড়া year 2012 month 10 count 3
+Location ঢাকা year 2011 month 09 count 24
+Location গাজীপুর year 2012 month 03 count 9
+Location গোপালগঞ্জ year 2012 month 03 count 1
+Location চট্টগ্রাম year 2012 month 03 count 7
+Location জামালপুর year 2012 month 03 count 2
+Location ঝালকাঠি year 2012 month 03 count 1
+Location ঢাকা year 2012 month 03 count 19
+Location দিনাজপুর year 2012 month 03 count 12
+Location নেত্রকোনা year 2012 month 03 count 3
+Location মুন্সিগঞ্জ year 2012 month 03 count 1
+Location রাজশাহী year 2012 month 03 count 4
+Location সিলেট year 2012 month 03 count 16
+Location ঢাকা year 2012 month 05 count 14
+Location গাজীপুর year 2011 month 07 count 8
+Location গোপালগঞ্জ year 2011 month 07 count 1
+Location চট্টগ্রাম year 2011 month 07 count 8
+Location জামালপুর year 2011 month 07 count 1
+Location ঝালকাঠি year 2011 month 07 count 2
+Location ঢাকা year 2011 month 07 count 22
+Location দিনাজপুর year 2011 month 07 count 9
+Location নেত্রকোনা year 2011 month 07 count 1
+Location মুন্সিগঞ্জ year 2011 month 07 count 2
+Location রাজশাহী year 2011 month 07 count 1
+Location সিলেট year 2011 month 07 count 6
+Location গাইবান্ধা year 2011 month 07 count 1
+Location দিনাজপুর year 2011 month 07 count 10
+Location রাজশাহী year 2012 month 10 count 4
+Location ভোলা year 2011 month 02 count 1
+Location সিলেট year 2011 month 02 count 10
+Location ঢাকা year 2011 month 04 count 13
+Location গাইবান্ধা year 2011 month 03 count 1
+Location গাজীপুর year 2011 month 03 count 10
+Location গোপালগঞ্জ year 2011 month 03 count 1
+Location চট্টগ্রাম year 2011 month 03 count 14
+Location জামালপুর year 2011 month 03 count 1
+Location ঝালকাঠি year 2011 month 03 count 1
+Location ঢাকা year 2011 month 03 count 20
+Location দিনাজপুর year 2011 month 03 count 6
+Location নেত্রকোনা year 2011 month 03 count 1
+Location মুন্সিগঞ্জ year 2011 month 03 count 1
+Location রাজশাহী year 2011 month 03 count 2
+Location সিলেট year 2011 month 03 count 11
+Location ভোলা year 2011 month 05 count 1
+Location সিলেট year 2011 month 05 count 7
+Location কুড়িগ্রাম year 2012 month 06 count 1
+Location ঢাকা year 2012 month 05 count 15
+Location ঢাকা year 2012 month 11 count 14
+Location পাবনা year 2012 month 09 count 2
+Location ঢাকা year 2011 month 09 count 25
+Location রাজবাড়ী year 2011 month 09 count 1
+Location দিনাজপুর year 2011 month 09 count 6
+Location কুষ্টিয়া year 2012 month 10 count 1
+Location ঢাকা year 2011 month 06 count 14
+Location গাজীপুর year 2012 month 04 count 6
+Location সিলেট year 2012 month 04 count 8
+Location ঢাকা year 2012 month 11 count 15
+Location ঢাকা year 2012 month 11 count 16
+Location ঢাকা year 2011 month 10 count 15
+Location মাগুরা year 2011 month 08 count 1
+Location সিলেট year 2011 month 05 count 8
+Location দিনাজপুর year 2011 month 09 count 7
+Location ঢাকা year 2012 month 07 count 14
+Location টাঙ্গাইল year 2011 month 05 count 1
+Location দিনাজপুর year 2012 month 06 count 7
+Location ঢাকা year 2011 month 03 count 21
+Location চট্টগ্রাম year 2011 month 09 count 7
+Location ঢাকা year 2012 month 02 count 18
+Location সুনামগঞ্জ year 2011 month 04 count 1
+Location নেত্রকোনা year 2011 month 04 count 2
+Location ব্রাহ্মণবাড়িয়া year 2012 month 02 count 3
+Location রাজশাহী year 2011 month 09 count 2
+Location ঢাকা year 2011 month 03 count 22
+Location গাজীপুর year 2011 month 04 count 9
+Location নরসিংদী year 2011 month 04 count 3
+Location মানিকগঞ্জ year 2012 month 01 count 1
+Location ভোলা year 2012 month 05 count 1
+Location সিলেট year 2012 month 05 count 11
+Location ঢাকা year 2012 month 07 count 15
+Location ঢাকা year 2011 month 09 count 26
+Location সাতক্ষীরা year 2011 month 03 count 1
+Location লক্ষ্মীপুর year 2011 month 09 count 1
+Location সিলেট year 2012 month 01 count 12
+Location বগুড়া year 2012 month 06 count 1
+Location ঢাকা year 2012 month 04 count 15
+Location জামালপুর year 2011 month 01 count 3
+Location চট্টগ্রাম year 2011 month 01 count 9
+Location বান্দরবন year 2012 month 08 count 1
+Location গাজীপুর year 2011 month 02 count 9
+Location সিলেট year 2011 month 02 count 11
+Location ঢাকা year 2012 month 11 count 17
+Location ঢাকা year 2012 month 07 count 16
+Location রাজশাহী year 2012 month 01 count 3
+Location কুষ্টিয়া year 2012 month 07 count 1
+Location নারায়ণগঞ্জ year 2012 month 03 count 4
+Location চট্টগ্রাম year 2012 month 02 count 7
+Location বরিশাল year 2011 month 08 count 1
+Location বরিশাল year 2012 month 03 count 2
+Location ঢাকা year 2012 month 03 count 20
+Location চট্টগ্রাম year 2012 month 04 count 6
+Location ঝালকাঠি year 2011 month 09 count 1
+Location বরিশাল year 2012 month 09 count 1
+Location ঢাকা year 2011 month 01 count 19
+Location কুড়িগ্রাম year 2011 month 04 count 2
+Location চট্টগ্রাম year 2011 month 04 count 7
+Location জামালপুর year 2011 month 04 count 4
+Location দিনাজপুর year 2011 month 04 count 8
+Location নওগাঁ year 2011 month 04 count 1
+Location নরসিংদী year 2011 month 04 count 4
+Location নীলফামারী year 2011 month 04 count 2
+Location বগুড়া year 2011 month 04 count 2
+Location বরিশাল year 2011 month 04 count 3
+Location ভোলা year 2011 month 04 count 1
+Location মেহেরপুর year 2011 month 04 count 2
+Location রাজশাহী year 2011 month 04 count 1
+Location লক্ষ্মীপুর year 2011 month 04 count 2
+Location সিরাজগঞ্জ year 2011 month 04 count 1
+Location সিলেট year 2011 month 04 count 7
+Location হবিগঞ্জ year 2011 month 04 count 1
+Location ঢাকা year 2012 month 06 count 20
+Location নীলফামারী year 2012 month 05 count 1
+Location রাজশাহী year 2011 month 02 count 2
+Location নড়াইল year 2011 month 07 count 1
+Location টাঙ্গাইল year 2012 month 01 count 2
+Location চট্টগ্রাম year 2012 month 04 count 7
+Location কুড়িগ্রাম year 2011 month 09 count 5
+Location চট্টগ্রাম year 2011 month 09 count 8
+Location জামালপুর year 2011 month 09 count 3
+Location দিনাজপুর year 2011 month 09 count 8
+Location নরসিংদী year 2011 month 09 count 2
+Location নীলফামারী year 2011 month 09 count 2
+Location বগুড়া year 2011 month 09 count 3
+Location বরিশাল year 2011 month 09 count 2
+Location ভোলা year 2011 month 09 count 1
+Location মেহেরপুর year 2011 month 09 count 2
+Location রাজশাহী year 2011 month 09 count 3
+Location লক্ষ্মীপুর year 2011 month 09 count 2
+Location সিরাজগঞ্জ year 2011 month 09 count 1
+Location সিলেট year 2011 month 09 count 9
+Location হবিগঞ্জ year 2011 month 09 count 2
+Location কিশোরগঞ্জ year 2011 month 02 count 1
+Location গাজীপুর year 2011 month 02 count 10
+Location নড়াইল year 2011 month 02 count 1
+Location বগুড়া year 2011 month 02 count 3
+Location রাজশাহী year 2011 month 02 count 3
+Location সিলেট year 2011 month 02 count 12
+Location সাতক্ষীরা year 2012 month 06 count 2
+Location সিরাজগঞ্জ year 2011 month 08 count 2
+Location নেত্রকোনা year 2011 month 03 count 2
+Location কিশোরগঞ্জ year 2012 month 03 count 1
+Location জামালপুর year 2012 month 03 count 3
+Location নীলফামারী year 2012 month 03 count 1
+Location নড়াইল year 2012 month 03 count 1
+Location বগুড়া year 2012 month 03 count 1
+Location মৌলভীবাজার year 2012 month 03 count 2
+Location রাজশাহী year 2012 month 03 count 5
+Location সিলেট year 2012 month 03 count 17
+Location কিশোরগঞ্জ year 2012 month 03 count 2
+Location চট্টগ্রাম year 2012 month 03 count 8
+Location নরসিংদী year 2012 month 03 count 4
+Location নড়াইল year 2012 month 03 count 2
+Location বগুড়া year 2012 month 03 count 2
+Location রাজশাহী year 2012 month 03 count 6
+Location সিরাজগঞ্জ year 2012 month 03 count 2
+Location সিলেট year 2012 month 03 count 18
+Location ঢাকা year 2012 month 03 count 21
+Location ঢাকা year 2011 month 08 count 15
+Location জামালপুর year 2011 month 05 count 2
+Location কিশোরগঞ্জ year 2011 month 11 count 1
+Location নড়াইল year 2011 month 11 count 1
+Location বগুড়া year 2011 month 11 count 2
+Location রাজশাহী year 2011 month 11 count 3
+Location সিলেট year 2011 month 11 count 7
+Location সাতক্ষীরা year 2012 month 06 count 3
+Location জামালপুর year 2011 month 07 count 2
+Location বরিশাল year 2011 month 05 count 1
+Location মুন্সিগঞ্জ year 2012 month 08 count 1
+Location কিশোরগঞ্জ year 2011 month 01 count 1
+Location নড়াইল year 2011 month 01 count 1
+Location বগুড়া year 2011 month 01 count 3
+Location রাজশাহী year 2011 month 01 count 2
+Location সিলেট year 2011 month 01 count 9
+Location চট্টগ্রাম year 2011 month 01 count 10
+Location কিশোরগঞ্জ year 2011 month 02 count 2
+Location গাজীপুর year 2011 month 02 count 11
+Location জামালপুর year 2011 month 02 count 3
+Location নড়াইল year 2011 month 02 count 2
+Location বগুড়া year 2011 month 02 count 4
+Location রাজশাহী year 2011 month 02 count 4
+Location সিলেট year 2011 month 02 count 13
+Location বগুড়া year 2012 month 02 count 4
+Location গোপালগঞ্জ year 2011 month 03 count 2
+Location ময়মনসিংহ year 2011 month 06 count 1
+Location সাতক্ষীরা year 2012 month 11 count 1
+Location কিশোরগঞ্জ year 2011 month 10 count 1
+Location কুড়িগ্রাম year 2011 month 10 count 2
+Location খাগড়াছড়ি year 2011 month 10 count 6
+Location জামালপুর year 2011 month 10 count 2
+Location নড়াইল year 2011 month 10 count 2
+Location পাবনা year 2011 month 10 count 3
+Location বগুড়া year 2011 month 10 count 1
+Location মৌলভীবাজার year 2011 month 10 count 1
+Location রাজশাহী year 2011 month 10 count 2
+Location সিলেট year 2011 month 10 count 12
+Location রাজশাহী year 2011 month 08 count 4
+Location কিশোরগঞ্জ year 2012 month 07 count 1
+Location নড়াইল year 2012 month 07 count 1
+Location বগুড়া year 2012 month 07 count 3
+Location রাজশাহী year 2012 month 07 count 2
+Location সিলেট year 2012 month 07 count 6
+Location মুন্সিগঞ্জ year 2012 month 05 count 1
+Location ময়মনসিংহ year 2011 month 06 count 2
+Location ঢাকা year 2011 month 04 count 14
+Location কিশোরগঞ্জ year 2012 month 09 count 1
+Location নড়াইল year 2012 month 09 count 2
+Location বগুড়া year 2012 month 09 count 2
+Location রাজশাহী year 2012 month 09 count 4
+Location সিলেট year 2012 month 09 count 13
+Location চট্টগ্রাম year 2012 month 05 count 13
+Location কিশোরগঞ্জ year 2011 month 09 count 1
+Location জামালপুর year 2011 month 09 count 4
+Location নড়াইল year 2011 month 09 count 2
+Location বগুড়া year 2011 month 09 count 4
+Location রাজশাহী year 2011 month 09 count 4
+Location সিরাজগঞ্জ year 2011 month 09 count 2
+Location সিলেট year 2011 month 09 count 10
+Location ঢাকা year 2011 month 01 count 20
+Location ঢাকা year 2012 month 06 count 21
+Location গাজীপুর year 2011 month 08 count 6
+Location সিলেট year 2011 month 08 count 10
+Location কিশোরগঞ্জ year 2011 month 03 count 1
+Location নড়াইল year 2011 month 03 count 1
+Location বগুড়া year 2011 month 03 count 2
+Location রাজশাহী year 2011 month 03 count 3
+Location সিলেট year 2011 month 03 count 12
+Location ঢাকা year 2011 month 06 count 15
+Location কিশোরগঞ্জ year 2012 month 07 count 2
+Location চট্টগ্রাম year 2012 month 07 count 10
+Location নড়াইল year 2012 month 07 count 2
+Location পিরোজপুর year 2012 month 07 count 1
+Location বগুড়া year 2012 month 07 count 4
+Location রাজশাহী year 2012 month 07 count 3
+Location সিলেট year 2012 month 07 count 7
+Location ঢাকা year 2011 month 04 count 15
+Location সাতক্ষীরা year 2011 month 03 count 2
+Location কিশোরগঞ্জ year 2012 month 01 count 1
+Location নওগাঁ year 2012 month 01 count 1
+Location নড়াইল year 2012 month 01 count 1
+Location বগুড়া year 2012 month 01 count 1
+Location রাজশাহী year 2012 month 01 count 4
+Location সিলেট year 2012 month 01 count 13
+Location কুষ্টিয়া year 2012 month 07 count 2
+Location কুড়িগ্রাম year 2012 month 07 count 1
+Location খাগড়াছড়ি year 2012 month 07 count 2
+Location জামালপুর year 2012 month 07 count 2
+Location নরসিংদী year 2012 month 07 count 4
+Location নীলফামারী year 2012 month 07 count 2
+Location নেত্রকোনা year 2012 month 07 count 3
+Location পঞ্চগড় year 2012 month 07 count 1
+Location পাবনা year 2012 month 07 count 1
+Location বগুড়া year 2012 month 07 count 5
+Location মুন্সিগঞ্জ year 2012 month 07 count 2
+Location মেহেরপুর year 2012 month 07 count 2
+Location রাজবাড়ী year 2012 month 07 count 1
+Location সিলেট year 2012 month 07 count 8
+Location কিশোরগঞ্জ year 2011 month 10 count 2
+Location নড়াইল year 2011 month 10 count 3
+Location বগুড়া year 2011 month 10 count 2
+Location রাজশাহী year 2011 month 10 count 3
+Location সিলেট year 2011 month 10 count 13
+Location রাজশাহী year 2012 month 01 count 5
+Location ঢাকা year 2011 month 10 count 16
+Location বরিশাল year 2011 month 01 count 2
+Location রাজশাহী year 2011 month 02 count 5
+Location কিশোরগঞ্জ year 2012 month 08 count 1
+Location খাগড়াছড়ি year 2012 month 08 count 2
+Location নড়াইল year 2012 month 08 count 1
+Location বগুড়া year 2012 month 08 count 4
+Location রাজশাহী year 2012 month 08 count 3
+Location লক্ষ্মীপুর year 2012 month 08 count 2
+Location সিলেট year 2012 month 08 count 19
+Location দিনাজপুর year 2011 month 03 count 7
+Location নারায়ণগঞ্জ year 2011 month 03 count 3
+Location নোয়াখালী year 2011 month 03 count 3
+Location ব্রাহ্মণবাড়িয়া year 2011 month 03 count 3
+Location ময়মনসিংহ year 2011 month 03 count 2
+Location কিশোরগঞ্জ year 2011 month 04 count 1
+Location নড়াইল year 2011 month 04 count 1
+Location বগুড়া year 2011 month 04 count 3
+Location রাজশাহী year 2011 month 04 count 2
+Location সিলেট year 2011 month 04 count 8
+Location মুন্সিগঞ্জ year 2012 month 10 count 1
+Location রাজশাহী year 2012 month 10 count 5
+Location বরিশাল year 2011 month 08 count 2
+Location নেত্রকোনা year 2011 month 11 count 2
+Location কিশোরগঞ্জ year 2011 month 10 count 3
+Location কুড়িগ্রাম year 2011 month 10 count 3
+Location খাগড়াছড়ি year 2011 month 10 count 7
+Location নড়াইল year 2011 month 10 count 4
+Location বগুড়া year 2011 month 10 count 3
+Location রাজশাহী year 2011 month 10 count 4
+Location সিলেট year 2011 month 10 count 14
+Location চট্টগ্রাম year 2012 month 09 count 7
+Location কুষ্টিয়া year 2011 month 03 count 1
+Location গোপালগঞ্জ year 2011 month 03 count 3
+Location ঢাকা year 2011 month 03 count 23
+Location বগুড়া year 2011 month 03 count 3
+Location মেহেরপুর year 2011 month 03 count 2
+Location রংপুর year 2011 month 03 count 1
+Location সিলেট year 2011 month 03 count 13
+Location নরসিংদী year 2011 month 06 count 5
+Location কুষ্টিয়া year 2011 month 03 count 2
+Location গোপালগঞ্জ year 2011 month 03 count 4
+Location ঢাকা year 2011 month 03 count 24
+Location বগুড়া year 2011 month 03 count 4
+Location মেহেরপুর year 2011 month 03 count 3
+Location রংপুর year 2011 month 03 count 2
+Location সিলেট year 2011 month 03 count 14
+Location সাতক্ষীরা year 2012 month 01 count 2
+Location চট্টগ্রাম year 2011 month 06 count 8
+Location কিশোরগঞ্জ year 2011 month 05 count 1
+Location কুড়িগ্রাম year 2011 month 05 count 1
+Location চট্টগ্রাম year 2011 month 05 count 3
+Location চুয়াডাঙ্গা year 2011 month 05 count 1
+Location নড়াইল year 2011 month 05 count 1
+Location পটুয়াখালী year 2011 month 05 count 1
+Location বগুড়া year 2011 month 05 count 1
+Location রাজশাহী year 2011 month 05 count 3
+Location সিলেট year 2011 month 05 count 9
+Location মুন্সিগঞ্জ year 2012 month 08 count 2
+Location গোপালগঞ্জ year 2012 month 05 count 2
+Location চট্টগ্রাম year 2012 month 05 count 14
+Location মেহেরপুর year 2012 month 05 count 2
+Location সিলেট year 2012 month 05 count 12
+Location গোপালগঞ্জ year 2011 month 06 count 2
+Location ঢাকা year 2011 month 06 count 16
+Location মেহেরপুর year 2011 month 06 count 1
+Location সিলেট year 2011 month 06 count 15
+Location দিনাজপুর year 2012 month 02 count 10
+Location কিশোরগঞ্জ year 2012 month 09 count 2
+Location খাগড়াছড়ি year 2012 month 09 count 2
+Location গাজীপুর year 2012 month 09 count 5
+Location নড়াইল year 2012 month 09 count 3
+Location পটুয়াখালী year 2012 month 09 count 2
+Location বগুড়া year 2012 month 09 count 3
+Location রাজশাহী year 2012 month 09 count 5
+Location সিলেট year 2012 month 09 count 14
+Location ঢাকা year 2011 month 05 count 21
+Location রাজশাহী year 2011 month 08 count 5
+Location গোপালগঞ্জ year 2011 month 11 count 1
+Location ঢাকা year 2011 month 11 count 14
+Location মেহেরপুর year 2011 month 11 count 2
+Location সিলেট year 2011 month 11 count 8
+Location গোপালগঞ্জ year 2011 month 01 count 1
+Location মেহেরপুর year 2011 month 01 count 2
+Location সিলেট year 2011 month 01 count 10
+Location চট্টগ্রাম year 2012 month 09 count 8
+Location গাজীপুর year 2011 month 08 count 7
+Location কিশোরগঞ্জ year 2012 month 02 count 1
+Location গাইবান্ধা year 2012 month 02 count 1
+Location জামালপুর year 2012 month 02 count 2
+Location দিনাজপুর year 2012 month 02 count 11
+Location নড়াইল year 2012 month 02 count 1
+Location বগুড়া year 2012 month 02 count 5
+Location রাজশাহী year 2012 month 02 count 2
+Location সিরাজগঞ্জ year 2012 month 02 count 2
+Location সিলেট year 2012 month 02 count 7
+Location ঢাকা year 2011 month 08 count 16
+Location সাতক্ষীরা year 2011 month 08 count 2
+Location গোপালগঞ্জ year 2011 month 09 count 2
+Location ঢাকা year 2011 month 09 count 27
+Location মেহেরপুর year 2011 month 09 count 3
+Location সিলেট year 2011 month 09 count 11
+Location গোপালগঞ্জ year 2012 month 03 count 2
+Location চট্টগ্রাম year 2012 month 03 count 9
+Location মেহেরপুর year 2012 month 03 count 1
+Location সিলেট year 2012 month 03 count 19
+Location পাবনা year 2012 month 01 count 1
+Location কিশোরগঞ্জ year 2011 month 09 count 2
+Location গাজীপুর year 2011 month 09 count 6
+Location জামালপুর year 2011 month 09 count 5
+Location নরসিংদী year 2011 month 09 count 3
+Location নারায়ণগঞ্জ year 2011 month 09 count 4
+Location নড়াইল year 2011 month 09 count 3
+Location বগুড়া year 2011 month 09 count 5
+Location রাজশাহী year 2011 month 09 count 5
+Location সিলেট year 2011 month 09 count 12
+Location গাজীপুর year 2011 month 11 count 6
+Location ঢাকা year 2011 month 11 count 15
+Location গোপালগঞ্জ year 2011 month 05 count 1
+Location মেহেরপুর year 2011 month 05 count 2
+Location সিলেট year 2011 month 05 count 10
+Location গোপালগঞ্জ year 2011 month 08 count 1
+Location মেহেরপুর year 2011 month 08 count 2
+Location সিলেট year 2011 month 08 count 11
+Location কক্সবাজার year 2012 month 11 count 8
+Location কিশোরগঞ্জ year 2012 month 11 count 1
+Location কুড়িগ্রাম year 2012 month 11 count 2
+Location চট্টগ্রাম year 2012 month 11 count 10
+Location নড়াইল year 2012 month 11 count 2
+Location বগুড়া year 2012 month 11 count 3
+Location ব্রাহ্মণবাড়িয়া year 2012 month 11 count 1
+Location রাজশাহী year 2012 month 11 count 1
+Location সিলেট year 2012 month 11 count 9
+Location রাজশাহী year 2011 month 04 count 3
+Location গোপালগঞ্জ year 2011 month 06 count 3
+Location মেহেরপুর year 2011 month 06 count 2
+Location সিলেট year 2011 month 06 count 16
+Location কিশোরগঞ্জ year 2012 month 05 count 1
+Location গোপালগঞ্জ year 2012 month 05 count 3
+Location নওগাঁ year 2012 month 05 count 1
+Location বগুড়া year 2012 month 05 count 2
+Location মাদারীপুর year 2012 month 05 count 1
+Location মেহেরপুর year 2012 month 05 count 3
+Location রংপুর year 2012 month 05 count 1
+Location সিলেট year 2012 month 05 count 13
+Location ঢাকা year 2012 month 07 count 17
+Location গাজীপুর year 2011 month 03 count 11
+Location কিশোরগঞ্জ year 2011 month 10 count 4
+Location নড়াইল year 2011 month 10 count 5
+Location বগুড়া year 2011 month 10 count 4
+Location বরিশাল year 2011 month 10 count 2
+Location ভোলা year 2011 month 10 count 1
+Location রাজশাহী year 2011 month 10 count 5
+Location সিলেট year 2011 month 10 count 15
+Location ঢাকা year 2012 month 02 count 19
+Location গোপালগঞ্জ year 2012 month 09 count 2
+Location নওগাঁ year 2012 month 09 count 1
+Location বগুড়া year 2012 month 09 count 4
+Location মেহেরপুর year 2012 month 09 count 3
+Location সিলেট year 2012 month 09 count 15
+Location গোপালগঞ্জ year 2011 month 04 count 1
+Location দিনাজপুর year 2011 month 04 count 9
+Location নীলফামারী year 2011 month 04 count 3
+Location বগুড়া year 2011 month 04 count 4
+Location মেহেরপুর year 2011 month 04 count 3
+Location রংপুর year 2011 month 04 count 1
+Location সিলেট year 2011 month 04 count 9
+Location চট্টগ্রাম year 2012 month 05 count 15
+Location কিশোরগঞ্জ year 2011 month 10 count 5
+Location নড়াইল year 2011 month 10 count 6
+Location বগুড়া year 2011 month 10 count 5
+Location রাজশাহী year 2011 month 10 count 6
+Location সিলেট year 2011 month 10 count 16
+Location ঢাকা year 2012 month 08 count 17
+Location খুলনা year 2011 month 04 count 1
+Location গোপালগঞ্জ year 2011 month 04 count 2
+Location মেহেরপুর year 2011 month 04 count 4
+Location সিলেট year 2011 month 04 count 10
+Location গোপালগঞ্জ year 2012 month 02 count 1
+Location মেহেরপুর year 2012 month 02 count 1
+Location সিলেট year 2012 month 02 count 8
+Location খুলনা year 2011 month 07 count 1
+Location কিশোরগঞ্জ year 2012 month 05 count 2
+Location নড়াইল year 2012 month 05 count 1
+Location পাবনা year 2012 month 05 count 2
+Location বগুড়া year 2012 month 05 count 3
+Location রাজশাহী year 2012 month 05 count 1
+Location সিরাজগঞ্জ year 2012 month 05 count 1
+Location সিলেট year 2012 month 05 count 14
+Location ঢাকা year 2012 month 06 count 22
+Location কুমিল্লা year 2011 month 09 count 1
+Location খাগড়াছড়ি year 2011 month 09 count 2
+Location গোপালগঞ্জ year 2011 month 09 count 3
+Location ফেনী year 2011 month 09 count 1
+Location মেহেরপুর year 2011 month 09 count 4
+Location সিলেট year 2011 month 09 count 13
+Location গোপালগঞ্জ year 2012 month 04 count 1
+Location মেহেরপুর year 2012 month 04 count 1
+Location সিলেট year 2012 month 04 count 9
+Location কিশোরগঞ্জ year 2012 month 06 count 1
+Location নড়াইল year 2012 month 06 count 1
+Location বগুড়া year 2012 month 06 count 2
+Location মৌলভীবাজার year 2012 month 06 count 2
+Location রাজশাহী year 2012 month 06 count 5
+Location সিলেট year 2012 month 06 count 16
+Location হবিগঞ্জ year 2012 month 06 count 3
+Location কিশোরগঞ্জ year 2012 month 07 count 3
+Location কুমিল্লা year 2012 month 07 count 2
+Location গোপালগঞ্জ year 2012 month 07 count 1
+Location চট্টগ্রাম year 2012 month 07 count 11
+Location টাঙ্গাইল year 2012 month 07 count 1
+Location নারায়ণগঞ্জ year 2012 month 07 count 2
+Location মাদারীপুর year 2012 month 07 count 2
+Location মুন্সিগঞ্জ year 2012 month 07 count 3
+Location মেহেরপুর year 2012 month 07 count 3
+Location ময়মনসিংহ year 2012 month 07 count 3
+Location সিলেট year 2012 month 07 count 9
+Location গোপালগঞ্জ year 2011 month 05 count 2
+Location মেহেরপুর year 2011 month 05 count 3
+Location সিলেট year 2011 month 05 count 11
+Location ব্রাহ্মণবাড়িয়া year 2011 month 11 count 4
+Location কিশোরগঞ্জ year 2011 month 07 count 1
+Location কুড়িগ্রাম year 2011 month 07 count 1
+Location গাইবান্ধা year 2011 month 07 count 2
+Location দিনাজপুর year 2011 month 07 count 11
+Location নীলফামারী year 2011 month 07 count 1
+Location নড়াইল year 2011 month 07 count 2
+Location বগুড়া year 2011 month 07 count 1
+Location রাজশাহী year 2011 month 07 count 2
+Location সিলেট year 2011 month 07 count 7
+Location ঢাকা year 2012 month 01 count 19
+Location গোপালগঞ্জ year 2012 month 06 count 3
+Location মেহেরপুর year 2012 month 06 count 3
+Location সিলেট year 2012 month 06 count 17
+Location গাজীপুর year 2012 month 07 count 3
+Location গোপালগঞ্জ year 2012 month 07 count 2
+Location নরসিংদী year 2012 month 07 count 5
+Location মেহেরপুর year 2012 month 07 count 4
+Location সিলেট year 2012 month 07 count 10
+Location সাতক্ষীরা year 2011 month 04 count 3
+Location ঢাকা year 2011 month 07 count 23
+Location কিশোরগঞ্জ year 2012 month 09 count 3
+Location নড়াইল year 2012 month 09 count 4
+Location বগুড়া year 2012 month 09 count 5
+Location রাজশাহী year 2012 month 09 count 6
+Location সিলেট year 2012 month 09 count 16
+Location ঢাকা year 2012 month 10 count 11
+Location রাজশাহী year 2012 month 05 count 2
+Location গোপালগঞ্জ year 2011 month 11 count 2
+Location মেহেরপুর year 2011 month 11 count 3
+Location সিলেট year 2011 month 11 count 9
+Location গোপালগঞ্জ year 2012 month 05 count 4
+Location মেহেরপুর year 2012 month 05 count 4
+Location সিলেট year 2012 month 05 count 15
+Location নেত্রকোনা year 2012 month 06 count 2
+Location রংপুর year 2011 month 06 count 1
+Location বগুড়া year 2012 month 05 count 4
+Location নরসিংদী year 2012 month 03 count 5
+Location গোপালগঞ্জ year 2012 month 11 count 2
+Location মেহেরপুর year 2012 month 11 count 3
+Location সিলেট year 2012 month 11 count 10
+Location গোপালগঞ্জ year 2011 month 07 count 2
+Location ঢাকা year 2011 month 07 count 24
+Location মেহেরপুর year 2011 month 07 count 1
+Location সিলেট year 2011 month 07 count 8
+Location পাবনা year 2011 month 02 count 1
+Location সিলেট year 2011 month 03 count 15
+Location জামালপুর year 2012 month 06 count 2
+Location বগুড়া year 2012 month 06 count 3
+Location রাজশাহী year 2012 month 06 count 6
+Location সিরাজগঞ্জ year 2012 month 06 count 1
+Location সিলেট year 2012 month 06 count 18
+Location নোয়াখালী year 2011 month 03 count 4
+Location গোপালগঞ্জ year 2011 month 06 count 4
+Location মেহেরপুর year 2011 month 06 count 3
+Location সিলেট year 2011 month 06 count 17
+Location কুষ্টিয়া year 2011 month 06 count 1
+Location গোপালগঞ্জ year 2011 month 06 count 5
+Location মেহেরপুর year 2011 month 06 count 4
+Location সিলেট year 2011 month 06 count 18
+Location বান্দরবন year 2012 month 10 count 1
+Location ব্রাহ্মণবাড়িয়া year 2012 month 08 count 3
+Location নারায়ণগঞ্জ year 2012 month 09 count 4
+Location গোপালগঞ্জ year 2011 month 10 count 2
+Location মেহেরপুর year 2011 month 10 count 4
+Location সিলেট year 2011 month 10 count 17
+Location গোপালগঞ্জ year 2012 month 07 count 3
+Location মেহেরপুর year 2012 month 07 count 5
+Location সিলেট year 2012 month 07 count 11
+Location ঝিনাইদহ year 2011 month 01 count 1
+Location কিশোরগঞ্জ year 2011 month 04 count 2
+Location সাতক্ষীরা year 2012 month 06 count 4
+Location কুষ্টিয়া year 2011 month 09 count 1
+Location গোপালগঞ্জ year 2011 month 01 count 2
+Location মেহেরপুর year 2011 month 01 count 3
+Location সিলেট year 2011 month 01 count 11
+Location গোপালগঞ্জ year 2012 month 07 count 4
+Location মেহেরপুর year 2012 month 07 count 6
+Location সিলেট year 2012 month 07 count 12
+Location সাতক্ষীরা year 2011 month 07 count 3
+Location মাদারীপুর year 2012 month 09 count 1
+Location ঢাকা year 2011 month 03 count 25
+Location গোপালগঞ্জ year 2012 month 06 count 4
+Location ঢাকা year 2012 month 06 count 23
+Location মেহেরপুর year 2012 month 06 count 4
+Location সিলেট year 2012 month 06 count 19
+Location গোপালগঞ্জ year 2012 month 03 count 3
+Location মেহেরপুর year 2012 month 03 count 2
+Location সিলেট year 2012 month 03 count 20
+Location কুষ্টিয়া year 2011 month 07 count 1
+Location ঢাকা year 2012 month 06 count 24
+Location গাইবান্ধা year 2011 month 09 count 1
+Location দিনাজপুর year 2011 month 09 count 9
+Location কুষ্টিয়া year 2012 month 10 count 2
+Location গোপালগঞ্জ year 2012 month 06 count 5
+Location মেহেরপুর year 2012 month 06 count 5
+Location সিলেট year 2012 month 06 count 20
+Location গোপালগঞ্জ year 2011 month 10 count 3
+Location মেহেরপুর year 2011 month 10 count 5
+Location সিলেট year 2011 month 10 count 18
+Location ঝালকাঠি year 2011 month 06 count 1
+Location দিনাজপুর year 2012 month 01 count 10
+Location জামালপুর year 2011 month 01 count 4
+Location বগুড়া year 2011 month 01 count 4
+Location রাজশাহী year 2011 month 01 count 3
+Location সিরাজগঞ্জ year 2011 month 01 count 1
+Location সিলেট year 2011 month 01 count 12
+Location পাবনা year 2011 month 06 count 3
+Location গোপালগঞ্জ year 2012 month 08 count 2
+Location মেহেরপুর year 2012 month 08 count 3
+Location সিলেট year 2012 month 08 count 20
+Location গোপালগঞ্জ year 2012 month 03 count 4
+Location নেত্রকোনা year 2012 month 03 count 4
+Location মেহেরপুর year 2012 month 03 count 3
+Location সিলেট year 2012 month 03 count 21
+Location মুন্সিগঞ্জ year 2012 month 05 count 2
+Location ঢাকা year 2012 month 03 count 22
+Location বগুড়া year 2011 month 02 count 5
+Location ঢাকা year 2012 month 01 count 20
+Location রাজশাহী year 2012 month 07 count 4
+Location গোপালগঞ্জ year 2011 month 09 count 4
+Location ঢাকা year 2011 month 09 count 28
+Location মেহেরপুর year 2011 month 09 count 5
+Location সিলেট year 2011 month 09 count 14
+Location গোপালগঞ্জ year 2012 month 04 count 2
+Location মেহেরপুর year 2012 month 04 count 2
+Location সিলেট year 2012 month 04 count 10
+Location কুষ্টিয়া year 2011 month 10 count 1
+Location বগুড়া year 2012 month 02 count 6
+Location কুষ্টিয়া year 2012 month 06 count 2
+Location গোপালগঞ্জ year 2011 month 11 count 3
+Location মেহেরপুর year 2011 month 11 count 4
+Location সিলেট year 2011 month 11 count 10
+Location ঢাকা year 2011 month 10 count 17
+Location নড়াইল year 2011 month 03 count 2
+Location গোপালগঞ্জ year 2011 month 06 count 6
+Location মেহেরপুর year 2011 month 06 count 5
+Location সিলেট year 2011 month 06 count 19
+Location ঢাকা year 2012 month 09 count 14
+Location ময়মনসিংহ year 2011 month 01 count 3
+Location চট্টগ্রাম year 2012 month 06 count 9
+Location সিলেট year 2011 month 10 count 19
+Location গোপালগঞ্জ year 2011 month 04 count 3
+Location বগুড়া year 2011 month 04 count 5
+Location মেহেরপুর year 2011 month 04 count 5
+Location সিলেট year 2011 month 04 count 11
+Location ঢাকা year 2012 month 02 count 20
+Location গোপালগঞ্জ year 2011 month 07 count 3
+Location মেহেরপুর year 2011 month 07 count 2
+Location সিলেট year 2011 month 07 count 9
+Location দিনাজপুর year 2011 month 09 count 10
+Location গাজীপুর year 2011 month 04 count 10
+Location গোপালগঞ্জ year 2012 month 04 count 3
+Location মেহেরপুর year 2012 month 04 count 3
+Location সিলেট year 2012 month 04 count 11
+Location চট্টগ্রাম year 2011 month 11 count 10
+Location দিনাজপুর year 2011 month 05 count 8
+Location ঢাকা year 2011 month 07 count 25
+Location সিলেট year 2011 month 07 count 10
+Location হবিগঞ্জ year 2011 month 07 count 2
+Location গোপালগঞ্জ year 2012 month 10 count 1
+Location জামালপুর year 2012 month 10 count 3
+Location মেহেরপুর year 2012 month 10 count 1
+Location রংপুর year 2012 month 10 count 1
+Location সিলেট year 2012 month 10 count 11
+Location চট্টগ্রাম year 2012 month 11 count 11
+Location ঢাকা year 2012 month 11 count 18
+Location দিনাজপুর year 2012 month 02 count 12
+Location চট্টগ্রাম year 2012 month 06 count 10
+Location চট্টগ্রাম year 2011 month 09 count 9
+Location দিনাজপুর year 2011 month 07 count 12
+Location মাগুরা year 2012 month 09 count 1
+Location গোপালগঞ্জ year 2012 month 09 count 3
+Location মেহেরপুর year 2012 month 09 count 4
+Location সিলেট year 2012 month 09 count 17
+Location সিলেট year 2012 month 07 count 13
+Location দিনাজপুর year 2011 month 10 count 10
+Location চট্টগ্রাম year 2012 month 04 count 8
+Location কুড়িগ্রাম year 2012 month 10 count 2
+Location চট্টগ্রাম year 2011 month 07 count 9
+Location দিনাজপুর year 2011 month 06 count 7
+Location ঢাকা year 2011 month 02 count 19
+Location গোপালগঞ্জ year 2011 month 04 count 4
+Location মেহেরপুর year 2011 month 04 count 6
+Location সিলেট year 2011 month 04 count 12
+Location ঢাকা year 2011 month 01 count 21
+Location ঢাকা year 2011 month 07 count 26
+Location চট্টগ্রাম year 2012 month 07 count 12
+Location ঢাকা year 2011 month 07 count 27
+Location সাতক্ষীরা year 2011 month 01 count 1
+Location গোপালগঞ্জ year 2011 month 09 count 5
+Location মেহেরপুর year 2011 month 09 count 6
+Location সিলেট year 2011 month 09 count 15
+Location ঢাকা year 2011 month 11 count 16
+Location ঝালকাঠি year 2011 month 03 count 2
+Location ঢাকা year 2011 month 07 count 28
+Location গোপালগঞ্জ year 2011 month 07 count 4
+Location চট্টগ্রাম year 2011 month 07 count 10
+Location মেহেরপুর year 2011 month 07 count 3
+Location সিলেট year 2011 month 07 count 11
+Location সাতক্ষীরা year 2012 month 07 count 2
+Location কুষ্টিয়া year 2012 month 04 count 1
+Location ঢাকা year 2011 month 05 count 22
+Location চট্টগ্রাম year 2012 month 11 count 12
+Location গোপালগঞ্জ year 2011 month 07 count 5
+Location মেহেরপুর year 2011 month 07 count 4
+Location সিলেট year 2011 month 07 count 12
+Location বান্দরবন year 2011 month 03 count 3
+Location চাঁদপুর year 2012 month 01 count 1
+Location গোপালগঞ্জ year 2012 month 08 count 3
+Location চট্টগ্রাম year 2012 month 08 count 10
+Location মেহেরপুর year 2012 month 08 count 4
+Location সিলেট year 2012 month 08 count 21
+Location ঢাকা year 2011 month 07 count 29
+Location সিলেট year 2011 month 01 count 13
+Location নেত্রকোনা year 2012 month 03 count 5
+Location ঢাকা year 2011 month 07 count 30
+Location গোপালগঞ্জ year 2012 month 03 count 5
+Location মেহেরপুর year 2012 month 03 count 4
+Location সিলেট year 2012 month 03 count 22
+Location ঢাকা year 2011 month 09 count 29
+Location ঝালকাঠি year 2012 month 01 count 2
+Location সিলেট year 2011 month 09 count 16
+Location ঢাকা year 2011 month 09 count 30
+Location গোপালগঞ্জ year 2012 month 02 count 2
+Location মেহেরপুর year 2012 month 02 count 2
+Location সিলেট year 2012 month 02 count 9
+Location সাতক্ষীরা year 2011 month 08 count 3
+Location ব্রাহ্মণবাড়িয়া year 2012 month 10 count 3
+Location নওগাঁ year 2012 month 07 count 2
+Location গোপালগঞ্জ year 2012 month 11 count 3
+Location মেহেরপুর year 2012 month 11 count 4
+Location সিলেট year 2012 month 11 count 11
+Location ঝালকাঠি year 2011 month 01 count 1
+Location নেত্রকোনা year 2012 month 11 count 1
+Location গোপালগঞ্জ year 2011 month 11 count 4
+Location মেহেরপুর year 2011 month 11 count 5
+Location সিলেট year 2011 month 11 count 11
+Location রাজশাহী year 2012 month 02 count 3
+Location ঢাকা year 2012 month 02 count 21
+Location ঢাকা year 2012 month 08 count 18
+Location ঝালকাঠি year 2011 month 08 count 1
+Location দিনাজপুর year 2012 month 08 count 8
+Location গোপালগঞ্জ year 2012 month 10 count 2
+Location মেহেরপুর year 2012 month 10 count 2
+Location সিলেট year 2012 month 10 count 12
+Location ফরিদপুর year 2012 month 08 count 1
+Location ঢাকা year 2012 month 09 count 15
+Location জামালপুর year 2012 month 11 count 4
+Location ঢাকা year 2011 month 06 count 17
+Location মুন্সিগঞ্জ year 2012 month 05 count 3
+Location রাজশাহী year 2012 month 05 count 3
+Location গোপালগঞ্জ year 2012 month 08 count 4
+Location মেহেরপুর year 2012 month 08 count 5
+Location সিলেট year 2012 month 08 count 22
+Location রাজশাহী year 2012 month 11 count 2
+Location ঢাকা year 2012 month 02 count 22
+Location নরসিংদী year 2011 month 05 count 2
+Location নারায়ণগঞ্জ year 2011 month 05 count 3
+Location সিলেট year 2011 month 05 count 12
+Location ঢাকা year 2012 month 04 count 16
+Location গোপালগঞ্জ year 2011 month 11 count 5
+Location মেহেরপুর year 2011 month 11 count 6
+Location সিলেট year 2011 month 11 count 12
+Location ঢাকা year 2012 month 03 count 23
+Location চট্টগ্রাম year 2012 month 10 count 10
+Location নড়াইল year 2012 month 03 count 3
+Location কুষ্টিয়া year 2011 month 11 count 1
+Location সাতক্ষীরা year 2011 month 07 count 4
+Location বরগুনা year 2012 month 01 count 2
+Location গোপালগঞ্জ year 2011 month 02 count 2
+Location মেহেরপুর year 2011 month 02 count 2
+Location সিলেট year 2011 month 02 count 14
+Location কিশোরগঞ্জ year 2012 month 01 count 2
+Location নেত্রকোনা year 2012 month 01 count 2
+Location সিলেট year 2012 month 01 count 14
+Location গাজীপুর year 2011 month 05 count 3
+Location কুষ্টিয়া year 2011 month 01 count 2
+Location দিনাজপুর year 2011 month 01 count 8
+Location গোপালগঞ্জ year 2011 month 06 count 7
+Location মেহেরপুর year 2011 month 06 count 6
+Location সিলেট year 2011 month 06 count 20
+Location নেত্রকোনা year 2012 month 08 count 5
+Location রাজশাহী year 2012 month 08 count 4
+Location সিলেট year 2012 month 08 count 23
+Location বান্দরবন year 2012 month 04 count 2
+Location ঢাকা year 2011 month 03 count 26
+Location বান্দরবন year 2011 month 01 count 1
+Location গোপালগঞ্জ year 2012 month 10 count 3
+Location মেহেরপুর year 2012 month 10 count 3
+Location সিলেট year 2012 month 10 count 13
+Location বাগেরহাট year 2012 month 01 count 1
+Location ঢাকা year 2011 month 04 count 16
+Location সিরাজগঞ্জ year 2011 month 08 count 3
+Location ঢাকা year 2012 month 11 count 19
+Location ফরিদপুর year 2012 month 05 count 1
+Location গোপালগঞ্জ year 2012 month 01 count 2
+Location মেহেরপুর year 2012 month 01 count 2
+Location সিলেট year 2012 month 01 count 15
+Location নওগাঁ year 2012 month 03 count 4
+Location সিলেট year 2012 month 07 count 14
+Location বগুড়া year 2012 month 09 count 6
+Location গোপালগঞ্জ year 2012 month 01 count 3
+Location মেহেরপুর year 2012 month 01 count 3
+Location সিলেট year 2012 month 01 count 16
+Location কুমিল্লা year 2011 month 02 count 1
+Location রাজশাহী year 2011 month 10 count 7
+Location গোপালগঞ্জ year 2012 month 10 count 4
+Location মেহেরপুর year 2012 month 10 count 4
+Location সিলেট year 2012 month 10 count 14
+Location মুন্সিগঞ্জ year 2011 month 02 count 1
+Location সাতক্ষীরা year 2012 month 06 count 5
+Location সিলেট year 2011 month 01 count 14
+Location গোপালগঞ্জ year 2011 month 09 count 6
+Location মেহেরপুর year 2011 month 09 count 7
+Location সিলেট year 2011 month 09 count 17
+Location নেত্রকোনা year 2011 month 08 count 2
+Location রাজশাহী year 2011 month 08 count 6
+Location সিলেট year 2011 month 08 count 12
+Location চট্টগ্রাম year 2011 month 08 count 10
+Location চাঁদপুর year 2012 month 09 count 1
+Location গোপালগঞ্জ year 2012 month 09 count 4
+Location মেহেরপুর year 2012 month 09 count 5
+Location সিলেট year 2012 month 09 count 18
+Location রাজশাহী year 2012 month 10 count 6
+Location সিলেট year 2012 month 10 count 15
+Location পাবনা year 2011 month 10 count 4
+Location রাজশাহী year 2012 month 06 count 7
+Location সিলেট year 2012 month 06 count 21
+Location গোপালগঞ্জ year 2012 month 10 count 5
+Location মেহেরপুর year 2012 month 10 count 5
+Location সিলেট year 2012 month 10 count 16
+Location রংপুর year 2012 month 02 count 1
+Location রাজশাহী year 2012 month 02 count 4
+Location গোপালগঞ্জ year 2011 month 08 count 2
+Location মেহেরপুর year 2011 month 08 count 3
+Location সিলেট year 2011 month 08 count 13
+Location মুন্সিগঞ্জ year 2012 month 11 count 1
+Location গোপালগঞ্জ year 2012 month 08 count 5
+Location মেহেরপুর year 2012 month 08 count 6
+Location সিলেট year 2012 month 08 count 24
+Location সাতক্ষীরা year 2012 month 01 count 3
+Location জামালপুর year 2012 month 07 count 3
+Location ঢাকা year 2011 month 09 count 31
+Location গোপালগঞ্জ year 2011 month 07 count 6
+Location মেহেরপুর year 2011 month 07 count 5
+Location সিলেট year 2011 month 07 count 13
+Location চট্টগ্রাম year 2012 month 03 count 10
+Location চট্টগ্রাম year 2011 month 11 count 11
+Location পাবনা year 2012 month 04 count 1
+Location সিরাজগঞ্জ year 2012 month 04 count 1
+Location গোপালগঞ্জ year 2011 month 10 count 4
+Location মেহেরপুর year 2011 month 10 count 6
+Location সিলেট year 2011 month 10 count 20
+Location সিরাজগঞ্জ year 2011 month 10 count 1
+Location ঢাকা year 2012 month 09 count 16
+Location গোপালগঞ্জ year 2011 month 01 count 3
+Location মেহেরপুর year 2011 month 01 count 4
+Location সিলেট year 2011 month 01 count 15
+Location ঢাকা year 2012 month 07 count 18
+Location মেহেরপুর year 2012 month 11 count 5
+Location ঢাকা year 2011 month 02 count 20
+Location গোপালগঞ্জ year 2012 month 09 count 5
+Location মেহেরপুর year 2012 month 09 count 6
+Location সিলেট year 2012 month 09 count 19
+Location গোপালগঞ্জ year 2012 month 08 count 6
+Location মেহেরপুর year 2012 month 08 count 7
+Location সিলেট year 2012 month 08 count 25
+Location চট্টগ্রাম year 2012 month 06 count 11
+Location সিলেট year 2012 month 06 count 22
+Location গাজীপুর year 2012 month 06 count 7
+Location গোপালগঞ্জ year 2011 month 04 count 5
+Location মেহেরপুর year 2011 month 04 count 7
+Location সিলেট year 2011 month 04 count 13
+Location চট্টগ্রাম year 2012 month 07 count 13
+Location ঢাকা year 2012 month 07 count 19
+Location নোয়াখালী year 2012 month 07 count 1
+Location রাজবাড়ী year 2012 month 07 count 2
+Location সিলেট year 2012 month 07 count 15
+Location নড়াইল year 2011 month 02 count 3
+Location সাতক্ষীরা year 2012 month 06 count 6
+Location গোপালগঞ্জ year 2012 month 01 count 4
+Location মেহেরপুর year 2012 month 01 count 4
+Location সিলেট year 2012 month 01 count 17
+Location গোপালগঞ্জ year 2012 month 10 count 6
+Location মেহেরপুর year 2012 month 10 count 6
+Location সিলেট year 2012 month 10 count 17
+Location ঢাকা year 2012 month 06 count 25
+Location নওগাঁ year 2011 month 07 count 1
+Location ঢাকা year 2011 month 05 count 23
+Location গোপালগঞ্জ year 2011 month 05 count 3
+Location মেহেরপুর year 2011 month 05 count 4
+Location রংপুর year 2011 month 05 count 1
+Location সিলেট year 2011 month 05 count 13
+Location ঢাকা year 2011 month 05 count 24
+Location জামালপুর year 2011 month 01 count 5
+Location বগুড়া year 2011 month 01 count 5
+Location রাজশাহী year 2011 month 01 count 4
+Location সিরাজগঞ্জ year 2011 month 01 count 2
+Location সিলেট year 2011 month 01 count 16
+Location বান্দরবন year 2011 month 09 count 2
+Location গোপালগঞ্জ year 2011 month 08 count 3
+Location মেহেরপুর year 2011 month 08 count 4
+Location সিলেট year 2011 month 08 count 14
+Location ঢাকা year 2011 month 10 count 18
+Location জয়পুরহাট year 2012 month 05 count 1
+Location ঢাকা year 2011 month 05 count 25
+Location গোপালগঞ্জ year 2011 month 09 count 7
+Location মেহেরপুর year 2011 month 09 count 8
+Location সিলেট year 2011 month 09 count 18
+Location গোপালগঞ্জ year 2012 month 11 count 4
+Location মেহেরপুর year 2012 month 11 count 6
+Location সিলেট year 2012 month 11 count 12
+Location জামালপুর year 2012 month 07 count 4
+Location গোপালগঞ্জ year 2011 month 06 count 8
+Location মেহেরপুর year 2011 month 06 count 7
+Location সিলেট year 2011 month 06 count 21
+Location কিশোরগঞ্জ year 2012 month 01 count 3
+Location নড়াইল year 2012 month 01 count 2
+Location বগুড়া year 2012 month 01 count 2
+Location রাজশাহী year 2012 month 01 count 6
+Location সিলেট year 2012 month 01 count 18
+Location বরগুনা year 2012 month 08 count 2
+Location দিনাজপুর year 2012 month 09 count 9
+Location রংপুর year 2011 month 06 count 2
+Location ঢাকা year 2012 month 11 count 20
+Location রংপুর year 2011 month 03 count 3
+Location রংপুর year 2011 month 01 count 1
+Location কুড়িগ্রাম year 2012 month 11 count 3
+Location বগুড়া year 2011 month 01 count 6
+Location ঢাকা year 2012 month 03 count 24
+Location নারায়ণগঞ্জ year 2012 month 02 count 5
+Location সাতক্ষীরা year 2011 month 04 count 4
+Location মাদারীপুর year 2011 month 03 count 1
+Location সিলেট year 2011 month 01 count 17
+Location নোয়াখালী year 2012 month 09 count 3
+Location ব্রাহ্মণবাড়িয়া year 2011 month 05 count 2
+Location চট্টগ্রাম year 2011 month 02 count 7
+Location চট্টগ্রাম year 2011 month 06 count 9
+Location পঞ্চগড় year 2011 month 06 count 1
+Location চট্টগ্রাম year 2012 month 10 count 11
+Location ঢাকা year 2012 month 02 count 23
+Location ঝিনাইদহ year 2012 month 09 count 1
+Location সাতক্ষীরা year 2012 month 05 count 3
+Location ঢাকা year 2011 month 08 count 17
+Location রাজশাহী year 2012 month 08 count 5
+Location খুলনা year 2011 month 02 count 1
+Location সাতক্ষীরা year 2012 month 03 count 3
+Location বান্দরবন year 2012 month 11 count 1
+Location পাবনা year 2011 month 07 count 2
+Location বগুড়া year 2012 month 09 count 7
+Location রাজশাহী year 2012 month 10 count 7
+Location বান্দরবন year 2011 month 10 count 3
+Location সিরাজগঞ্জ year 2012 month 11 count 2
+Location সিলেট year 2012 month 08 count 26
+Location ঢাকা year 2011 month 11 count 17
+Location সিলেট year 2011 month 01 count 18
+Location হবিগঞ্জ year 2011 month 01 count 1
+Location ফেনী year 2012 month 08 count 1
+Location হবিগঞ্জ year 2012 month 11 count 1
+Location সিলেট year 2012 month 06 count 23
+Location চট্টগ্রাম year 2011 month 06 count 10
+Location সিলেট year 2012 month 01 count 19
+Location হবিগঞ্জ year 2012 month 01 count 1
+Location ভোলা year 2012 month 08 count 2
+Location সাতক্ষীরা year 2011 month 07 count 5
+Location পটুয়াখালী year 2012 month 10 count 2
+Location ঢাকা year 2011 month 09 count 32
+Location ভোলা year 2011 month 11 count 1
+Location পটুয়াখালী year 2012 month 06 count 1
+Location ঢাকা year 2012 month 09 count 17
+Location বরগুনা year 2012 month 11 count 2
+Location কুড়িগ্রাম year 2012 month 05 count 1
+Location ঢাকা year 2012 month 02 count 24
+Location কিশোরগঞ্জ year 2011 month 10 count 6
+Location গাজীপুর year 2011 month 10 count 5
+Location নরসিংদী year 2011 month 10 count 3
+Location চট্টগ্রাম year 2012 month 11 count 13
+Location ময়মনসিংহ year 2011 month 03 count 3
+Location ঢাকা year 2011 month 02 count 21
+Location চট্টগ্রাম year 2011 month 01 count 11
+Location ঢাকা year 2012 month 10 count 12
+Location জামালপুর year 2011 month 08 count 4
+Location চট্টগ্রাম year 2011 month 09 count 10
+Location ঢাকা year 2011 month 01 count 22
+Location ঢাকা year 2012 month 02 count 25
+Location ঢাকা year 2011 month 05 count 26
+Location লক্ষ্মীপুর year 2012 month 11 count 1
+Location সিলেট year 2012 month 10 count 18
+Location লক্ষ্মীপুর year 2012 month 03 count 1
+Location নোয়াখালী year 2011 month 03 count 5
+Location ঢাকা year 2012 month 04 count 17
+Location সিলেট year 2011 month 02 count 15
+Location সিলেট year 2012 month 07 count 16
+Location বরগুনা year 2011 month 04 count 2
+Location নাটোর year 2011 month 09 count 1
+Location পাবনা year 2011 month 09 count 1
+Location চট্টগ্রাম year 2012 month 01 count 6
+Location সিলেট year 2012 month 06 count 24
+Location মাগুরা year 2012 month 09 count 2
+Location চট্টগ্রাম year 2011 month 09 count 11
+Location চট্টগ্রাম year 2011 month 10 count 8
+Location চট্টগ্রাম year 2012 month 09 count 9
+Location চট্টগ্রাম year 2011 month 02 count 8
+Location নাটোর year 2012 month 04 count 2
+Location নরসিংদী year 2012 month 05 count 1
+Location ঢাকা year 2011 month 09 count 33
+Location সিলেট year 2011 month 04 count 14
+Location ঢাকা year 2011 month 11 count 18
+Location জামালপুর year 2012 month 06 count 3
+Location ঢাকা year 2011 month 11 count 19
+Location দিনাজপুর year 2011 month 03 count 8
+Location নারায়ণগঞ্জ year 2011 month 03 count 4
+Location নোয়াখালী year 2011 month 03 count 6
+Location ব্রাহ্মণবাড়িয়া year 2011 month 03 count 4
+Location ময়মনসিংহ year 2011 month 03 count 4
+Location চট্টগ্রাম year 2011 month 03 count 15
+Location চট্টগ্রাম year 2011 month 07 count 11
+Location জামালপুর year 2012 month 11 count 5
+Location বগুড়া year 2012 month 11 count 4
+Location রাজশাহী year 2012 month 11 count 3
+Location সিরাজগঞ্জ year 2012 month 11 count 3
+Location সিলেট year 2012 month 11 count 13
+Location গাজীপুর year 2012 month 03 count 10
+Location সাতক্ষীরা year 2012 month 03 count 4
+Location চট্টগ্রাম year 2012 month 03 count 11
+Location লক্ষ্মীপুর year 2012 month 11 count 2
+Location সিলেট year 2011 month 05 count 14
+Location খাগড়াছড়ি year 2012 month 04 count 3
+Location ফেনী year 2012 month 05 count 1
+Location পিরোজপুর year 2011 month 06 count 1
+Location বান্দরবন year 2011 month 02 count 4
+Location রংপুর year 2011 month 01 count 2
+Location বরিশাল year 2012 month 03 count 3
+Location নাটোর year 2011 month 07 count 1
+Location ঢাকা year 2012 month 09 count 18
+Location নেত্রকোনা year 2012 month 03 count 6
+Location কুড়িগ্রাম year 2012 month 02 count 2
+Location দিনাজপুর year 2011 month 08 count 8
+Location বান্দরবন year 2011 month 08 count 1
+Location সিলেট year 2011 month 05 count 15
+Location মৌলভীবাজার year 2012 month 05 count 1
+Location নওগাঁ year 2012 month 10 count 2
+Location ঢাকা year 2011 month 01 count 23
+Location ঢাকা year 2011 month 10 count 19
+Location সিলেট year 2011 month 03 count 16
+Location চট্টগ্রাম year 2011 month 05 count 4
+Location ঢাকা year 2011 month 05 count 27
+Location সাতক্ষীরা year 2011 month 10 count 2
+Location নোয়াখালী year 2012 month 01 count 2
+Location ঢাকা year 2012 month 09 count 19
+Location সিলেট year 2011 month 06 count 22
+Location ঢাকা year 2012 month 11 count 21
+Location ঢাকা year 2011 month 04 count 17
+Location ঢাকা year 2012 month 07 count 20
+Location সিলেট year 2012 month 02 count 10
+Location ঢাকা year 2011 month 10 count 20
+Location ঢাকা year 2012 month 06 count 26
+Location সিলেট year 2011 month 02 count 16
+Location ঢাকা year 2012 month 10 count 13
+Location ঢাকা year 2012 month 07 count 21
+Location কিশোরগঞ্জ year 2012 month 04 count 1
+Location গাজীপুর year 2012 month 04 count 7
+Location নড়াইল year 2012 month 04 count 1
+Location বগুড়া year 2012 month 04 count 1
+Location রাজশাহী year 2012 month 04 count 3
+Location সিলেট year 2012 month 04 count 12
+Location সিলেট year 2011 month 03 count 17
+Location দিনাজপুর year 2011 month 09 count 11
+Location দিনাজপুর year 2012 month 03 count 13
+Location রংপুর year 2012 month 05 count 2
+Location নীলফামারী year 2011 month 06 count 1
+Location ঢাকা year 2011 month 05 count 28
+Location লালমনিরহাট year 2011 month 06 count 1
+Location ঢাকা year 2012 month 04 count 18
+Location ঢাকা year 2011 month 11 count 20
+Location বান্দরবন year 2012 month 08 count 2
+Location সিলেট year 2011 month 09 count 19
+Location ঢাকা year 2012 month 04 count 19
+Location রাজশাহী year 2012 month 04 count 4
+Location চট্টগ্রাম year 2011 month 06 count 11
+Location গাইবান্ধা year 2012 month 03 count 1
+Location ঢাকা year 2011 month 04 count 18
+Location পাবনা year 2011 month 09 count 2
+Location চট্টগ্রাম year 2012 month 11 count 14
+Location ঢাকা year 2012 month 08 count 19
+Location হবিগঞ্জ year 2012 month 02 count 1
+Location সিলেট year 2011 month 09 count 20
+Location সিলেট year 2011 month 11 count 13
+Location হবিগঞ্জ year 2011 month 11 count 1
+Location সিলেট year 2012 month 10 count 19
+Location ঢাকা year 2011 month 06 count 18
+Location ঢাকা year 2011 month 03 count 27
+Location সিলেট year 2011 month 01 count 19
+Location মেহেরপুর year 2011 month 04 count 8
+Location সিলেট year 2011 month 04 count 15
+Location জামালপুর year 2012 month 09 count 2
+Location বগুড়া year 2011 month 05 count 2
+Location গাজীপুর year 2012 month 03 count 11
+Location চট্টগ্রাম year 2012 month 08 count 11
+Location জামালপুর year 2011 month 11 count 3
+Location নরসিংদী year 2011 month 04 count 5
+Location ঝিনাইদহ year 2011 month 06 count 1
+Location খুলনা year 2012 month 06 count 2
+Location ঝিনাইদহ year 2012 month 10 count 1
+Location চুয়াডাঙ্গা year 2012 month 05 count 1
+Location বান্দরবন year 2012 month 02 count 3
+Location সিলেট year 2011 month 04 count 16
+Location যশোহর year 2012 month 01 count 1
+Location ঢাকা year 2012 month 08 count 20
+Location বরিশাল year 2011 month 03 count 1
+Location বরিশাল year 2011 month 10 count 3
+Location পাবনা year 2012 month 05 count 3
+Location ভোলা year 2011 month 02 count 2
+Location পিরোজপুর year 2011 month 01 count 1
+Location সিলেট year 2011 month 05 count 16
+Location লক্ষ্মীপুর year 2012 month 04 count 2
+Location নরসিংদী year 2012 month 09 count 1
+Location মুন্সিগঞ্জ year 2012 month 09 count 2
+Location কক্সবাজার year 2011 month 01 count 5
+Location ব্রাহ্মণবাড়িয়া year 2011 month 02 count 3
+Location সিলেট year 2011 month 02 count 17
+Location চট্টগ্রাম year 2011 month 03 count 16
+Location ঢাকা year 2011 month 02 count 22
+Location সাতক্ষীরা year 2012 month 05 count 4
+Location বান্দরবন year 2011 month 02 count 5
+Location নীলফামারী year 2011 month 04 count 4
+Location দিনাজপুর year 2011 month 01 count 9
+Location পিরোজপুর year 2012 month 06 count 1
+Location যশোহর year 2012 month 10 count 1
+Location ভোলা year 2012 month 09 count 1
+Location জামালপুর year 2011 month 04 count 5
+Location বগুড়া year 2011 month 04 count 6
+Location রাজশাহী year 2011 month 04 count 4
+Location সিরাজগঞ্জ year 2011 month 04 count 2
+Location সিলেট year 2011 month 04 count 17
+Location জামালপুর year 2011 month 08 count 5
+Location বগুড়া year 2011 month 08 count 3
+Location রাজশাহী year 2011 month 08 count 7
+Location সিরাজগঞ্জ year 2011 month 08 count 4
+Location সিলেট year 2011 month 08 count 15
+Location চুয়াডাঙ্গা year 2011 month 02 count 1
+Location ঢাকা year 2011 month 02 count 23
+Location বগুড়া year 2012 month 11 count 5
+Location লালমনিরহাট year 2012 month 04 count 1
+Location চট্টগ্রাম year 2011 month 11 count 12
+Location গাজীপুর year 2011 month 09 count 7
+Location নরসিংদী year 2011 month 09 count 4
+Location মৌলভীবাজার year 2012 month 02 count 1
+Location সুনামগঞ্জ year 2011 month 11 count 1
+Location ঢাকা year 2011 month 09 count 34
+Location খাগড়াছড়ি year 2011 month 09 count 3
+Location বাগেরহাট year 2012 month 02 count 2
+Location চট্টগ্রাম year 2012 month 10 count 12
+Location ফেনী year 2011 month 09 count 2
+Location ঢাকা year 2011 month 03 count 28
+Location কুষ্টিয়া year 2011 month 09 count 2
+Location সিলেট year 2012 month 11 count 14
+Location ঢাকা year 2011 month 01 count 24
+Location সিলেট year 2011 month 01 count 20
+Location সাতক্ষীরা year 2011 month 08 count 4
+Location চট্টগ্রাম year 2011 month 11 count 13
+Location চট্টগ্রাম year 2012 month 10 count 13
+Location নারায়ণগঞ্জ year 2012 month 10 count 2
+Location ঢাকা year 2011 month 02 count 24
+Location গাজীপুর year 2012 month 05 count 5
+Location বরিশাল year 2012 month 03 count 4
+Location ঢাকা year 2012 month 08 count 21
+Location গাইবান্ধা year 2012 month 07 count 2
+Location ঢাকা year 2012 month 11 count 22
+Location নাটোর year 2012 month 03 count 2
+Location নোয়াখালী year 2011 month 09 count 3
+Location বরিশাল year 2011 month 09 count 3
+Location চট্টগ্রাম year 2012 month 11 count 15
+Location দিনাজপুর year 2012 month 11 count 9
+Location চট্টগ্রাম year 2012 month 08 count 12
+Location চট্টগ্রাম year 2011 month 03 count 17
+Location ঢাকা year 2011 month 08 count 18
+Location চট্টগ্রাম year 2011 month 05 count 5
+Location বান্দরবন year 2011 month 03 count 4
+Location ব্রাহ্মণবাড়িয়া year 2012 month 09 count 2
+Location বান্দরবন year 2012 month 04 count 3
+Location বান্দরবন year 2012 month 02 count 4
+Location চট্টগ্রাম year 2011 month 10 count 9
+Location বরিশাল year 2012 month 07 count 2
+Location ঢাকা year 2011 month 09 count 35
+Location মানিকগঞ্জ year 2011 month 04 count 1
+Location ঢাকা year 2011 month 04 count 19
+Location সিলেট year 2011 month 03 count 18
+Location ঢাকা year 2011 month 03 count 29
+Location চট্টগ্রাম year 2011 month 01 count 12
+Location ঢাকা year 2011 month 01 count 25
+Location নরসিংদী year 2011 month 01 count 4
+Location নারায়ণগঞ্জ year 2011 month 01 count 4
+Location সিলেট year 2011 month 01 count 21
+Location চট্টগ্রাম year 2012 month 06 count 12
+Location ঢাকা year 2012 month 06 count 27
+Location নরসিংদী year 2012 month 06 count 4
+Location নারায়ণগঞ্জ year 2012 month 06 count 3
+Location সিলেট year 2012 month 06 count 25
+Location টাঙ্গাইল year 2011 month 10 count 1
+Location ঢাকা year 2012 month 01 count 21
+Location ঢাকা year 2012 month 11 count 23
+Location কক্সবাজার year 2012 month 01 count 1
+Location কুমিল্লা year 2012 month 01 count 1
+Location ঢাকা year 2012 month 01 count 22
+Location দিনাজপুর year 2012 month 01 count 11
+Location ব্রাহ্মণবাড়িয়া year 2012 month 01 count 1
+Location মাগুরা year 2012 month 01 count 1
+Location মাদারীপুর year 2012 month 01 count 1
+Location মেহেরপুর year 2012 month 01 count 5
+Location ঢাকা year 2012 month 03 count 25
+Location ঢাকা year 2012 month 09 count 20
+Location ঢাকা year 2011 month 04 count 20
+Location ঢাকা year 2011 month 05 count 29
+Location ঢাকা year 2011 month 01 count 26
+Location সিলেট year 2011 month 01 count 22
+Location ঢাকা year 2012 month 03 count 26
+Location ময়মনসিংহ year 2012 month 03 count 1
+Location গাজীপুর year 2012 month 10 count 9
+Location ঢাকা year 2012 month 10 count 14
+Location কুমিল্লা year 2012 month 01 count 2
+Location কুড়িগ্রাম year 2012 month 01 count 1
+Location চট্টগ্রাম year 2012 month 01 count 7
+Location ঢাকা year 2012 month 01 count 23
+Location নড়াইল year 2012 month 01 count 3
+Location বগুড়া year 2012 month 01 count 3
+Location ব্রাহ্মণবাড়িয়া year 2012 month 01 count 2
+Location ময়মনসিংহ year 2012 month 01 count 1
+Location রাজশাহী year 2012 month 01 count 7
+Location সিরাজগঞ্জ year 2012 month 01 count 1
+Location ঢাকা year 2012 month 10 count 15
+Location কুড়িগ্রাম year 2012 month 10 count 3
+Location ঢাকা year 2012 month 10 count 16
+Location ঢাকা year 2011 month 07 count 31
+Location নারায়ণগঞ্জ year 2011 month 07 count 6
+Location ঢাকা year 2012 month 10 count 17
+Location ঢাকা year 2011 month 11 count 21
+Location নরসিংদী year 2011 month 11 count 2
+Location ঢাকা year 2011 month 11 count 22
+Location ঢাকা year 2012 month 04 count 20
+Location ঢাকা year 2011 month 05 count 30
+Location ঢাকা year 2012 month 04 count 21
+Location ঢাকা year 2011 month 11 count 23
+Location ঢাকা year 2012 month 05 count 16
+Location ঢাকা year 2012 month 07 count 22
+Location ঢাকা year 2011 month 11 count 24
+Location ঢাকা year 2011 month 06 count 19
+Location ঢাকা year 2011 month 04 count 21
+Location বরিশাল year 2011 month 04 count 4
+Location সিলেট year 2011 month 04 count 18
+Location চট্টগ্রাম year 2012 month 05 count 16
+Location ঢাকা year 2012 month 05 count 17
+Location নরসিংদী year 2012 month 05 count 2
+Location নারায়ণগঞ্জ year 2012 month 05 count 2
+Location সিলেট year 2012 month 05 count 16
+Location চট্টগ্রাম year 2012 month 05 count 17
+Location ঢাকা year 2012 month 05 count 18
+Location নরসিংদী year 2012 month 05 count 3
+Location নারায়ণগঞ্জ year 2012 month 05 count 3
+Location সিলেট year 2012 month 05 count 17
+Location টাঙ্গাইল year 2012 month 05 count 1
+Location ঢাকা year 2011 month 01 count 27
+Location নেত্রকোনা year 2011 month 01 count 2
+Location সিলেট year 2011 month 01 count 23
+Location ঢাকা year 2012 month 05 count 19
+Location ঢাকা year 2012 month 05 count 20
+Location কক্সবাজার year 2012 month 05 count 3
+Location কুমিল্লা year 2012 month 05 count 1
+Location ঢাকা year 2012 month 05 count 21
+Location দিনাজপুর year 2012 month 05 count 13
+Location ব্রাহ্মণবাড়িয়া year 2012 month 05 count 2
+Location মাগুরা year 2012 month 05 count 1
+Location মাদারীপুর year 2012 month 05 count 2
+Location মেহেরপুর year 2012 month 05 count 5
+Location ঢাকা year 2012 month 05 count 22
+Location ঢাকা year 2012 month 05 count 23
+Location ঢাকা year 2012 month 05 count 24
+Location ঢাকা year 2012 month 05 count 25
+Location ঢাকা year 2012 month 05 count 26
+Location সিলেট year 2012 month 05 count 18
+Location ঢাকা year 2012 month 05 count 27
+Location ময়মনসিংহ year 2012 month 05 count 1
+Location গাজীপুর year 2012 month 05 count 6
+Location ঢাকা year 2012 month 05 count 28
+Location কুমিল্লা year 2012 month 05 count 2
+Location কুড়িগ্রাম year 2012 month 05 count 2
+Location চট্টগ্রাম year 2012 month 05 count 18
+Location ঢাকা year 2012 month 05 count 29
+Location নড়াইল year 2012 month 05 count 2
+Location বগুড়া year 2012 month 05 count 5
+Location ব্রাহ্মণবাড়িয়া year 2012 month 05 count 3
+Location ময়মনসিংহ year 2012 month 05 count 2
+Location রাজশাহী year 2012 month 05 count 4
+Location সিরাজগঞ্জ year 2012 month 05 count 2
+Location ঢাকা year 2012 month 05 count 30
+Location কুড়িগ্রাম year 2012 month 05 count 3
+Location ঢাকা year 2012 month 05 count 31
+Location ঢাকা year 2012 month 05 count 32
+Location নারায়ণগঞ্জ year 2012 month 05 count 4
+Location ঢাকা year 2012 month 05 count 33
+Location ঢাকা year 2012 month 05 count 34
+Location নরসিংদী year 2012 month 05 count 4
+Location ঢাকা year 2012 month 05 count 35
+Location ঢাকা year 2012 month 05 count 36
+Location ঢাকা year 2012 month 05 count 37
+Location ঢাকা year 2012 month 05 count 38
+Location ঢাকা year 2012 month 05 count 39
+Location ঢাকা year 2012 month 05 count 40
+Location ঢাকা year 2012 month 05 count 41
+Location ঢাকা year 2012 month 05 count 42
+Location চট্টগ্রাম year 2012 month 05 count 19
+Location ঢাকা year 2012 month 05 count 43
+Location নরসিংদী year 2012 month 05 count 5
+Location নারায়ণগঞ্জ year 2012 month 05 count 5
+Location সিলেট year 2012 month 05 count 19
+Location চট্টগ্রাম year 2012 month 05 count 20
+Location ঢাকা year 2012 month 05 count 44
+Location নরসিংদী year 2012 month 05 count 6
+Location নারায়ণগঞ্জ year 2012 month 05 count 6
+Location সিলেট year 2012 month 05 count 20
+Location টাঙ্গাইল year 2012 month 05 count 2
+Location ঢাকা year 2012 month 05 count 45
+Location ঢাকা year 2012 month 05 count 46
+Location কক্সবাজার year 2012 month 05 count 4
+Location কুমিল্লা year 2012 month 05 count 3
+Location ঢাকা year 2012 month 05 count 47
+Location দিনাজপুর year 2012 month 05 count 14
+Location ব্রাহ্মণবাড়িয়া year 2012 month 05 count 4
+Location মাগুরা year 2012 month 05 count 2
+Location মাদারীপুর year 2012 month 05 count 3
+Location মেহেরপুর year 2012 month 05 count 6
+Location ঢাকা year 2012 month 05 count 48
+Location ঢাকা year 2012 month 05 count 49
+Location ঢাকা year 2012 month 05 count 50
+Location ঢাকা year 2012 month 05 count 51
+Location ঢাকা year 2012 month 05 count 52
+Location সিলেট year 2012 month 05 count 21
+Location ঢাকা year 2012 month 05 count 53
+Location ময়মনসিংহ year 2012 month 05 count 3
+Location গাজীপুর year 2012 month 05 count 7
+Location ঢাকা year 2012 month 05 count 54
+Location কুমিল্লা year 2012 month 05 count 4
+Location কুড়িগ্রাম year 2012 month 05 count 4
+Location চট্টগ্রাম year 2012 month 05 count 21
+Location ঢাকা year 2012 month 05 count 55
+Location নড়াইল year 2012 month 05 count 3
+Location বগুড়া year 2012 month 05 count 6
+Location ব্রাহ্মণবাড়িয়া year 2012 month 05 count 5
+Location ময়মনসিংহ year 2012 month 05 count 4
+Location রাজশাহী year 2012 month 05 count 5
+Location সিরাজগঞ্জ year 2012 month 05 count 3
+Location ঢাকা year 2012 month 05 count 56
+Location কুড়িগ্রাম year 2012 month 05 count 5
+Location ঢাকা year 2012 month 05 count 57
+Location ঢাকা year 2012 month 05 count 58
+Location নারায়ণগঞ্জ year 2012 month 05 count 7
+Location ঢাকা year 2012 month 05 count 59
+Location ঢাকা year 2012 month 05 count 60
+Location নরসিংদী year 2012 month 05 count 7
+Location ঢাকা year 2012 month 05 count 61
+Location ঢাকা year 2012 month 05 count 62
+Location ঢাকা year 2012 month 05 count 63
+Location ঢাকা year 2012 month 05 count 64
+Location ঢাকা year 2012 month 05 count 65
+Location ঢাকা year 2012 month 05 count 66
+Location ঢাকা year 2012 month 05 count 67
+Location নড়াইল year 2012 month 05 count 4
+Location ঢাকা year 2012 month 05 count 68
+Location ঢাকা year 2012 month 05 count 69
+Location ঢাকা year 2012 month 05 count 70
+Location বান্দরবন year 2012 month 05 count 1
+Location ঢাকা year 2012 month 05 count 71
+Location ঢাকা year 2012 month 05 count 72
+Location বরিশাল year 2012 month 05 count 2
+Location সিলেট year 2012 month 05 count 22
+Location ঢাকা year 2012 month 05 count 73
+Location গাজীপুর year 2012 month 05 count 8
+Location নরসিংদী year 2012 month 05 count 8
+Location ঢাকা year 2012 month 05 count 74
+Location নেত্রকোনা year 2012 month 05 count 3
+Location সিলেট year 2012 month 05 count 23
+Location টাঙ্গাইল year 2012 month 05 count 3
+Location বান্দরবন year 2012 month 05 count 2
+Location গাজীপুর year 2012 month 05 count 9
+Location টাঙ্গাইল year 2012 month 05 count 4
+Location ঢাকা year 2012 month 05 count 75
+Location জামালপুর year 2012 month 05 count 3
+Location নেত্রকোনা year 2012 month 05 count 4
+Location কুষ্টিয়া year 2012 month 05 count 3
+Location গোপালগঞ্জ year 2012 month 05 count 5
+Location ঢাকা year 2012 month 05 count 76
+Location সিলেট year 2012 month 05 count 24
+Location ঢাকা year 2012 month 05 count 77
+Location সিলেট year 2012 month 05 count 25
+Location ঢাকা year 2012 month 05 count 78
+Location ঢাকা year 2012 month 05 count 79
+Location ঢাকা year 2012 month 05 count 80
+Location ঢাকা year 2012 month 05 count 81
+Location ঢাকা year 2012 month 05 count 82
+Location ঢাকা year 2012 month 05 count 83
+Location গাজীপুর year 2012 month 05 count 10
+Location নরসিংদী year 2012 month 05 count 9
+Location সিলেট year 2012 month 05 count 26
+Location ঢাকা year 2012 month 05 count 84
+Location ঢাকা year 2012 month 05 count 85
+Location ঢাকা year 2012 month 05 count 86
+Location হবিগঞ্জ year 2012 month 05 count 1
+Location ঢাকা year 2012 month 05 count 87
+Location সিলেট year 2012 month 05 count 27
+Location সিলেট year 2012 month 05 count 28
+Location গাজীপুর year 2012 month 05 count 11
+Location ঢাকা year 2012 month 05 count 88
+Location নারায়ণগঞ্জ year 2012 month 05 count 8
+Location সিলেট year 2012 month 05 count 29
+Location গাজীপুর year 2012 month 05 count 12
+Location ঢাকা year 2012 month 05 count 89
+Location নারায়ণগঞ্জ year 2012 month 05 count 9
+Location সিলেট year 2012 month 05 count 30
+Location ঢাকা year 2012 month 05 count 90
+Location সিরাজগঞ্জ year 2012 month 05 count 4
+Location গাজীপুর year 2012 month 05 count 13
+Location ঢাকা year 2012 month 05 count 91
+Location নারায়ণগঞ্জ year 2012 month 05 count 10
+Location সিলেট year 2012 month 05 count 31
+Location চট্টগ্রাম year 2012 month 05 count 22
+Location ঢাকা year 2012 month 05 count 92
+Location গাজীপুর year 2012 month 05 count 14
+Location ঢাকা year 2012 month 05 count 93
+Location সিলেট year 2012 month 05 count 32
+Location ঢাকা year 2012 month 05 count 94
+Location ঢাকা year 2012 month 05 count 95
+Location নীলফামারী year 2012 month 05 count 2
+Location ফরিদপুর year 2012 month 05 count 2
+Location মেহেরপুর year 2012 month 05 count 7
+Location সিলেট year 2012 month 05 count 33
+Location ঢাকা year 2012 month 05 count 96
+Location কক্সবাজার year 2012 month 05 count 5
+Location কুড়িগ্রাম year 2012 month 05 count 6
+Location টাঙ্গাইল year 2012 month 05 count 5
+Location নারায়ণগঞ্জ year 2012 month 05 count 11
+Location বগুড়া year 2012 month 05 count 7
+Location ব্রাহ্মণবাড়িয়া year 2012 month 05 count 6
+Location লক্ষ্মীপুর year 2012 month 05 count 1
+Location সাতক্ষীরা year 2012 month 05 count 5
+Location হবিগঞ্জ year 2012 month 05 count 2
+Location ব্রাহ্মণবাড়িয়া year 2012 month 05 count 7
+Location ঢাকা year 2012 month 05 count 97
+Location ঢাকা year 2012 month 05 count 98
+Location ঢাকা year 2012 month 05 count 99
+Location নওগাঁ year 2012 month 05 count 2
+Location পঞ্চগড় year 2012 month 05 count 1
+Location ময়মনসিংহ year 2012 month 05 count 5
+Location বান্দরবন year 2012 month 05 count 3
+Location ঢাকা year 2012 month 05 count 100
+Location ঢাকা year 2012 month 05 count 101
+Location ঢাকা year 2012 month 05 count 102
+Location মেহেরপুর year 2012 month 05 count 8
+Location সিলেট year 2012 month 05 count 34
+Location ঢাকা year 2012 month 05 count 103
+Location ঢাকা year 2012 month 05 count 104
+Location ঢাকা year 2012 month 05 count 105
+Location কক্সবাজার year 2012 month 05 count 6
+Location কুড়িগ্রাম year 2012 month 05 count 7
+Location নারায়ণগঞ্জ year 2012 month 05 count 12
+Location নোয়াখালী year 2012 month 05 count 1
+Location নড়াইল year 2012 month 05 count 5
+Location মেহেরপুর year 2012 month 05 count 9
+Location সিলেট year 2012 month 05 count 35
+Location সিলেট year 2012 month 05 count 36
+Location ঢাকা year 2012 month 05 count 106
+Location মৌলভীবাজার year 2012 month 05 count 2
+Location গাজীপুর year 2012 month 05 count 15
+Location নরসিংদী year 2012 month 05 count 10
+Location টাঙ্গাইল year 2012 month 05 count 6
+Location ঢাকা year 2012 month 05 count 107
+Location গাজীপুর year 2012 month 05 count 16
+Location ঢাকা year 2012 month 05 count 108
+Location দিনাজপুর year 2012 month 05 count 15
+Location জামালপুর year 2012 month 05 count 4
+Location সিলেট year 2012 month 05 count 37
+Location সিলেট year 2012 month 05 count 38
+Location নারায়ণগঞ্জ year 2012 month 05 count 13
+Location নারায়ণগঞ্জ year 2012 month 05 count 14
+Location নারায়ণগঞ্জ year 2012 month 05 count 15
+Location বাগেরহাট year 2012 month 05 count 1
+Location খুলনা year 2012 month 05 count 1
+Location পটুয়াখালী year 2012 month 05 count 1
+Location ঢাকা year 2012 month 05 count 109
+Location সিলেট year 2012 month 05 count 39
+Location বান্দরবন year 2012 month 05 count 4
+Location গাজীপুর year 2012 month 05 count 17
+Location বাগেরহাট year 2012 month 05 count 2
+Location চট্টগ্রাম year 2012 month 05 count 23
+Location ঢাকা year 2012 month 05 count 110
+Location কুড়িগ্রাম year 2012 month 05 count 8
+Location সিলেট year 2012 month 05 count 40
+Location সুনামগঞ্জ year 2012 month 05 count 1
+Location হবিগঞ্জ year 2012 month 05 count 3
+Location মাদারীপুর year 2012 month 05 count 4
+Location ঢাকা year 2012 month 05 count 111
+Location পটুয়াখালী year 2012 month 05 count 2
+Location টাঙ্গাইল year 2012 month 05 count 7
+Location লক্ষ্মীপুর year 2012 month 05 count 2
+Location ঢাকা year 2012 month 05 count 112
+Location ব্রাহ্মণবাড়িয়া year 2012 month 05 count 8
+Location দিনাজপুর year 2012 month 05 count 16
+Location ঢাকা year 2012 month 05 count 113
+Location বান্দরবন year 2012 month 05 count 5
+Location কুষ্টিয়া year 2012 month 05 count 4
+Location ঢাকা year 2012 month 05 count 114
+Location দিনাজপুর year 2012 month 05 count 17
+Location দিনাজপুর year 2012 month 05 count 18
+Location সিলেট year 2012 month 05 count 41
+Location নোয়াখালী year 2012 month 05 count 2
+Location রাজশাহী year 2012 month 05 count 6
+Location ব্রাহ্মণবাড়িয়া year 2012 month 05 count 9
+Location ব্রাহ্মণবাড়িয়া year 2012 month 05 count 10
+Location ঢাকা year 2012 month 05 count 115
+Location নারায়ণগঞ্জ year 2012 month 05 count 16
+Location ঢাকা year 2012 month 05 count 116
+Location গাজীপুর year 2012 month 05 count 18
+Location দিনাজপুর year 2012 month 05 count 19
+Location দিনাজপুর year 2012 month 05 count 20
+Location কুড়িগ্রাম year 2012 month 05 count 9
+Location দিনাজপুর year 2012 month 05 count 21
+Location দিনাজপুর year 2012 month 05 count 22
+Location ঢাকা year 2012 month 05 count 117
+Location দিনাজপুর year 2012 month 05 count 23
+Location ঢাকা year 2012 month 05 count 118
+Location ঢাকা year 2012 month 05 count 119
+Location সিলেট year 2012 month 05 count 42
+Location দিনাজপুর year 2012 month 05 count 24
+Location দিনাজপুর year 2012 month 05 count 25
+Location ঢাকা year 2012 month 05 count 120
+Location পটুয়াখালী year 2012 month 05 count 3
+Location দিনাজপুর year 2012 month 05 count 26
+Location দিনাজপুর year 2012 month 05 count 27
+Location চট্টগ্রাম year 2012 month 05 count 24
+Location ঢাকা year 2012 month 05 count 121
+Location দিনাজপুর year 2012 month 05 count 28
+Location বরগুনা year 2012 month 05 count 1
+Location দিনাজপুর year 2012 month 05 count 29
+Location দিনাজপুর year 2012 month 05 count 30
+Location ব্রাহ্মণবাড়িয়া year 2012 month 05 count 11
+Location নেত্রকোনা year 2012 month 05 count 5
+Location চট্টগ্রাম year 2012 month 05 count 25
+Location দিনাজপুর year 2012 month 05 count 31
+Location নারায়ণগঞ্জ year 2012 month 05 count 17
+Location দিনাজপুর year 2012 month 05 count 32
+Location ঢাকা year 2012 month 05 count 122
+Location গাজীপুর year 2012 month 05 count 19
+Location দিনাজপুর year 2012 month 05 count 33
+Location গাজীপুর year 2012 month 05 count 20
+Location ঢাকা year 2012 month 05 count 123
+Location দিনাজপুর year 2012 month 05 count 34
+Location গাজীপুর year 2012 month 05 count 21
+Location ঢাকা year 2012 month 05 count 124
+Location কুড়িগ্রাম year 2012 month 05 count 10
+Location ঢাকা year 2012 month 05 count 125
+Location দিনাজপুর year 2012 month 05 count 35
+Location ঢাকা year 2012 month 05 count 126
+Location ঢাকা year 2012 month 05 count 127
+Location দিনাজপুর year 2012 month 05 count 36
+Location সিলেট year 2012 month 05 count 43
+Location ঢাকা year 2012 month 05 count 128
+Location দিনাজপুর year 2012 month 05 count 37
+Location দিনাজপুর year 2012 month 05 count 38
+Location পটুয়াখালী year 2012 month 05 count 4
+Location পাবনা year 2012 month 05 count 4
+Location দিনাজপুর year 2012 month 05 count 39
+Location ঢাকা year 2012 month 05 count 129
+Location দিনাজপুর year 2012 month 05 count 40
+Location ঢাকা year 2012 month 05 count 130
+Location গাজীপুর year 2012 month 05 count 22
+Location ঢাকা year 2012 month 05 count 131
+Location দিনাজপুর year 2012 month 05 count 41
+Location বরগুনা year 2012 month 05 count 2
+Location ঢাকা year 2012 month 05 count 132
+Location দিনাজপুর year 2012 month 05 count 42
+Location ঢাকা year 2012 month 05 count 133
+Location ঢাকা year 2012 month 05 count 134
+Location দিনাজপুর year 2012 month 05 count 43
+Location নোয়াখালী year 2012 month 05 count 3
+Location সাতক্ষীরা year 2012 month 05 count 6
+Location গাজীপুর year 2012 month 05 count 23
+Location ঢাকা year 2012 month 05 count 135
+Location দিনাজপুর year 2012 month 05 count 44
+Location ঢাকা year 2012 month 05 count 136
+Location সাতক্ষীরা year 2012 month 05 count 7
+Location চট্টগ্রাম year 2012 month 05 count 26
+Location ঢাকা year 2012 month 05 count 137
+Location কুড়িগ্রাম year 2012 month 05 count 11
+Location জামালপুর year 2012 month 05 count 5
+Location ঢাকা year 2012 month 05 count 138
+Location দিনাজপুর year 2012 month 05 count 45
+Location ঢাকা year 2012 month 05 count 139
+Location ঢাকা year 2012 month 05 count 140
+Location গাজীপুর year 2012 month 05 count 24
+Location ঢাকা year 2012 month 05 count 141
+Location নরসিংদী year 2012 month 05 count 11
+Location ময়মনসিংহ year 2012 month 05 count 6
+Location সিলেট year 2012 month 05 count 44
+Location দিনাজপুর year 2012 month 05 count 46
+Location চট্টগ্রাম year 2012 month 05 count 27
+Location ঢাকা year 2012 month 05 count 142
+Location ঢাকা year 2012 month 05 count 143
+Location দিনাজপুর year 2012 month 05 count 47
+Location জামালপুর year 2012 month 05 count 6
+Location ঢাকা year 2012 month 05 count 144
+Location বরিশাল year 2012 month 05 count 3
+Location ঢাকা year 2012 month 05 count 145
+Location দিনাজপুর year 2012 month 05 count 48
+Location ঢাকা year 2012 month 05 count 146
+Location হবিগঞ্জ year 2012 month 05 count 4
+Location মাগুরা year 2012 month 05 count 3
+Location ময়মনসিংহ year 2012 month 05 count 7
+Location দিনাজপুর year 2012 month 05 count 49
+Location খুলনা year 2012 month 05 count 2
+Location সাতক্ষীরা year 2012 month 05 count 8
+Location ব্রাহ্মণবাড়িয়া year 2012 month 05 count 12
+Location লক্ষ্মীপুর year 2012 month 05 count 3
+Location মুন্সিগঞ্জ year 2012 month 05 count 4
+Location দিনাজপুর year 2012 month 05 count 50
+Location ঢাকা year 2012 month 05 count 147
+Location ঢাকা year 2012 month 05 count 148
+Location বগুড়া year 2012 month 05 count 8
+Location ঢাকা year 2012 month 05 count 149
+Location ঢাকা year 2012 month 05 count 150
+Location দিনাজপুর year 2012 month 05 count 51
+Location নীলফামারী year 2012 month 05 count 3
+Location ঢাকা year 2012 month 05 count 151
+Location সাতক্ষীরা year 2012 month 05 count 9
+Location ঢাকা year 2012 month 05 count 152
+Location বান্দরবন year 2012 month 05 count 6
+Location দিনাজপুর year 2012 month 05 count 52
+Location গাজীপুর year 2012 month 05 count 25
+Location ঢাকা year 2012 month 05 count 153
+Location নারায়ণগঞ্জ year 2012 month 05 count 18
+Location নারায়ণগঞ্জ year 2012 month 05 count 19
+Location ঢাকা year 2012 month 05 count 154
+Location দিনাজপুর year 2012 month 05 count 53
+Location বান্দরবন year 2012 month 05 count 7
+Location ঢাকা year 2012 month 05 count 155
+Location ময়মনসিংহ year 2012 month 05 count 8
+Location খাগড়াছড়ি year 2012 month 05 count 5
+Location দিনাজপুর year 2012 month 05 count 54
+Location সিলেট year 2012 month 05 count 45
+Location গাজীপুর year 2012 month 05 count 26
+Location ঢাকা year 2012 month 05 count 156
+Location গাজীপুর year 2012 month 05 count 27
+Location খুলনা year 2012 month 05 count 3
+Location ব্রাহ্মণবাড়িয়া year 2012 month 05 count 13
+Location দিনাজপুর year 2012 month 05 count 55
+Location ঢাকা year 2012 month 05 count 157
+Location খুলনা year 2012 month 05 count 4
+Location ঢাকা year 2012 month 05 count 158
+Location খুলনা year 2012 month 05 count 5
+Location দিনাজপুর year 2012 month 05 count 56
+Location ঢাকা year 2012 month 05 count 159
+Location নরসিংদী year 2012 month 05 count 12
+Location ঢাকা year 2012 month 05 count 160
+Location ঢাকা year 2012 month 05 count 161
+Location গাজীপুর year 2012 month 05 count 28
+Location ঢাকা year 2012 month 05 count 162
+Location কুড়িগ্রাম year 2012 month 05 count 12
+Location দিনাজপুর year 2012 month 05 count 57
+Location গাজীপুর year 2012 month 05 count 29
+Location ঢাকা year 2012 month 05 count 163
+Location পাবনা year 2012 month 05 count 5
+Location নোয়াখালী year 2012 month 05 count 4
+Location নেত্রকোনা year 2012 month 05 count 6
+Location বগুড়া year 2012 month 05 count 9
+Location সিলেট year 2012 month 05 count 46
+Location গাজীপুর year 2012 month 05 count 30
+Location ঢাকা year 2012 month 05 count 164
+Location দিনাজপুর year 2012 month 05 count 58
+Location চট্টগ্রাম year 2012 month 05 count 28
+Location ঢাকা year 2012 month 05 count 165
+Location ফরিদপুর year 2012 month 05 count 3
+Location ঢাকা year 2012 month 05 count 166
+Location দিনাজপুর year 2012 month 05 count 59
+Location বরগুনা year 2012 month 05 count 3
+Location চট্টগ্রাম year 2012 month 05 count 29
+Location নোয়াখালী year 2012 month 05 count 5
+Location সাতক্ষীরা year 2012 month 05 count 10
+Location দিনাজপুর year 2012 month 05 count 60
+Location নোয়াখালী year 2012 month 05 count 6
+Location ঢাকা year 2012 month 05 count 167
+Location লক্ষ্মীপুর year 2012 month 05 count 4
+Location ঢাকা year 2012 month 05 count 168
+Location ঢাকা year 2012 month 05 count 169
+Location দিনাজপুর year 2012 month 05 count 61
+Location ব্রাহ্মণবাড়িয়া year 2012 month 05 count 14
+Location মানিকগঞ্জ year 2012 month 05 count 1
+Location ব্রাহ্মণবাড়িয়া year 2012 month 05 count 15
+Location ঢাকা year 2012 month 05 count 170
+Location দিনাজপুর year 2012 month 05 count 62
+Location ঢাকা year 2012 month 05 count 171
+Location বান্দরবন year 2012 month 05 count 8
+Location সাতক্ষীরা year 2012 month 05 count 11
+Location কুষ্টিয়া year 2012 month 05 count 5
+Location কুড়িগ্রাম year 2012 month 05 count 13
+Location বগুড়া year 2012 month 05 count 10
+Location দিনাজপুর year 2012 month 05 count 63
+Location নরসিংদী year 2012 month 05 count 13
+Location ঢাকা year 2012 month 05 count 172
+Location জামালপুর year 2012 month 05 count 7
+Location রংপুর year 2012 month 05 count 3
+Location গাজীপুর year 2012 month 05 count 31
+Location ঢাকা year 2012 month 05 count 173
+Location লক্ষ্মীপুর year 2012 month 05 count 5
+Location গাজীপুর year 2012 month 05 count 32
+Location নরসিংদী year 2012 month 05 count 14
+Location ঢাকা year 2012 month 05 count 174
+Location দিনাজপুর year 2012 month 05 count 64
+Location গাজীপুর year 2012 month 05 count 33
+Location ঢাকা year 2012 month 05 count 175
+Location চুয়াডাঙ্গা year 2012 month 05 count 2
+Location ঢাকা year 2012 month 05 count 176
+Location চট্টগ্রাম year 2012 month 05 count 30
+Location মেহেরপুর year 2012 month 05 count 10
+Location দিনাজপুর year 2012 month 05 count 65
+Location নরসিংদী year 2012 month 05 count 15
+Location চট্টগ্রাম year 2012 month 05 count 31
+Location ঢাকা year 2012 month 05 count 177
+Location দিনাজপুর year 2012 month 05 count 66
+Location খুলনা year 2012 month 05 count 6
+Location চট্টগ্রাম year 2012 month 05 count 32
+Location চট্টগ্রাম year 2012 month 05 count 33
+Location দিনাজপুর year 2012 month 05 count 67
+Location ঢাকা year 2012 month 05 count 178
+Location ঢাকা year 2012 month 05 count 179
+Location দিনাজপুর year 2012 month 05 count 68
+Location দিনাজপুর year 2012 month 05 count 69
+Location ঢাকা year 2012 month 05 count 180
+Location বরগুনা year 2012 month 05 count 4
+Location বরগুনা year 2012 month 05 count 5
+Location দিনাজপুর year 2012 month 05 count 70
+Location সিলেট year 2012 month 05 count 47
+Location বরগুনা year 2012 month 05 count 6
+Location ঢাকা year 2012 month 05 count 181
+Location দিনাজপুর year 2012 month 05 count 71
+Location নওগাঁ year 2012 month 05 count 3
+Location নারায়ণগঞ্জ year 2012 month 05 count 20
+Location দিনাজপুর year 2012 month 05 count 72
+Location ঢাকা year 2012 month 05 count 182
+829
+Location Name 	 Year	 Month	 count
+কক্সবাজার 		 2011	01	1	5
+কক্সবাজার 		 2011	02	1	1
+কক্সবাজার 		 2011	03	1	5
+কক্সবাজার 		 2011	04	1	1
+কক্সবাজার 		 2011	05	1	2
+কক্সবাজার 		 2011	07	1	1
+কক্সবাজার 		 2011	08	1	5
+কক্সবাজার 		 2011	09	1	3
+কক্সবাজার 		 2011	10	1	2
+কক্সবাজার 		 2011	11	1	3
+কক্সবাজার 		 2012	01	1	1
+কক্সবাজার 		 2012	02	1	4
+কক্সবাজার 		 2012	04	1	1
+কক্সবাজার 		 2012	05	1	6
+কক্সবাজার 		 2012	06	1	2
+কক্সবাজার 		 2012	07	1	6
+কক্সবাজার 		 2012	08	1	3
+কক্সবাজার 		 2012	09	1	2
+কক্সবাজার 		 2012	11	1	8
+কিশোরগঞ্জ 		 2011	01	1	1
+কিশোরগঞ্জ 		 2011	02	1	2
+কিশোরগঞ্জ 		 2011	03	1	1
+কিশোরগঞ্জ 		 2011	04	1	2
+কিশোরগঞ্জ 		 2011	05	1	1
+কিশোরগঞ্জ 		 2011	07	1	1
+কিশোরগঞ্জ 		 2011	09	1	2
+কিশোরগঞ্জ 		 2011	10	1	6
+কিশোরগঞ্জ 		 2011	11	1	1
+কিশোরগঞ্জ 		 2012	01	1	3
+কিশোরগঞ্জ 		 2012	02	1	1
+কিশোরগঞ্জ 		 2012	03	1	2
+কিশোরগঞ্জ 		 2012	04	1	1
+কিশোরগঞ্জ 		 2012	05	1	2
+কিশোরগঞ্জ 		 2012	06	1	1
+কিশোরগঞ্জ 		 2012	07	1	3
+কিশোরগঞ্জ 		 2012	08	1	1
+কিশোরগঞ্জ 		 2012	09	1	3
+কিশোরগঞ্জ 		 2012	11	1	1
+কুমিল্লা 		 2011	02	1	1
+কুমিল্লা 		 2011	08	1	1
+কুমিল্লা 		 2011	09	1	1
+কুমিল্লা 		 2011	10	1	1
+কুমিল্লা 		 2012	01	1	2
+কুমিল্লা 		 2012	05	1	4
+কুমিল্লা 		 2012	06	1	1
+কুমিল্লা 		 2012	07	1	2
+কুষ্টিয়া 		 2011	01	1	2
+কুষ্টিয়া 		 2011	03	1	2
+কুষ্টিয়া 		 2011	04	1	3
+কুষ্টিয়া 		 2011	06	1	1
+কুষ্টিয়া 		 2011	07	1	1
+কুষ্টিয়া 		 2011	08	1	1
+কুষ্টিয়া 		 2011	09	1	2
+কুষ্টিয়া 		 2011	10	1	1
+কুষ্টিয়া 		 2011	11	1	1
+কুষ্টিয়া 		 2012	01	1	1
+কুষ্টিয়া 		 2012	02	1	1
+কুষ্টিয়া 		 2012	03	1	1
+কুষ্টিয়া 		 2012	04	1	1
+কুষ্টিয়া 		 2012	05	1	5
+কুষ্টিয়া 		 2012	06	1	2
+কুষ্টিয়া 		 2012	07	1	2
+কুষ্টিয়া 		 2012	08	1	1
+কুষ্টিয়া 		 2012	09	1	1
+কুষ্টিয়া 		 2012	10	1	2
+কুড়িগ্রাম 		 2011	02	1	1
+কুড়িগ্রাম 		 2011	04	1	2
+কুড়িগ্রাম 		 2011	05	1	1
+কুড়িগ্রাম 		 2011	06	1	1
+কুড়িগ্রাম 		 2011	07	1	1
+কুড়িগ্রাম 		 2011	08	1	2
+কুড়িগ্রাম 		 2011	09	1	5
+কুড়িগ্রাম 		 2011	10	1	3
+কুড়িগ্রাম 		 2012	01	1	1
+কুড়িগ্রাম 		 2012	02	1	2
+কুড়িগ্রাম 		 2012	03	1	1
+কুড়িগ্রাম 		 2012	05	1	13
+কুড়িগ্রাম 		 2012	06	1	1
+কুড়িগ্রাম 		 2012	07	1	1
+কুড়িগ্রাম 		 2012	08	1	1
+কুড়িগ্রাম 		 2012	09	1	2
+কুড়িগ্রাম 		 2012	10	1	3
+কুড়িগ্রাম 		 2012	11	1	3
+খাগড়াছড়ি 		 2011	01	1	3
+খাগড়াছড়ি 		 2011	02	1	2
+খাগড়াছড়ি 		 2011	03	1	2
+খাগড়াছড়ি 		 2011	04	1	2
+খাগড়াছড়ি 		 2011	05	1	2
+খাগড়াছড়ি 		 2011	06	1	1
+খাগড়াছড়ি 		 2011	07	1	1
+খাগড়াছড়ি 		 2011	08	1	4
+খাগড়াছড়ি 		 2011	09	1	3
+খাগড়াছড়ি 		 2011	10	1	7
+খাগড়াছড়ি 		 2011	11	1	1
+খাগড়াছড়ি 		 2012	03	1	1
+খাগড়াছড়ি 		 2012	04	1	3
+খাগড়াছড়ি 		 2012	05	1	5
+খাগড়াছড়ি 		 2012	06	1	2
+খাগড়াছড়ি 		 2012	07	1	2
+খাগড়াছড়ি 		 2012	08	1	2
+খাগড়াছড়ি 		 2012	09	1	2
+খাগড়াছড়ি 		 2012	10	1	2
+খাগড়াছড়ি 		 2012	11	1	2
+খুলনা 		 2011	02	1	1
+খুলনা 		 2011	04	1	1
+খুলনা 		 2011	07	1	1
+খুলনা 		 2011	10	1	1
+খুলনা 		 2012	02	1	1
+খুলনা 		 2012	03	1	1
+খুলনা 		 2012	04	1	2
+খুলনা 		 2012	05	1	6
+খুলনা 		 2012	06	1	2
+খুলনা 		 2012	07	1	2
+খুলনা 		 2012	09	1	2
+গাইবান্ধা 		 2011	02	1	1
+গাইবান্ধা 		 2011	03	1	1
+গাইবান্ধা 		 2011	06	1	1
+গাইবান্ধা 		 2011	07	1	2
+গাইবান্ধা 		 2011	09	1	1
+গাইবান্ধা 		 2012	01	1	1
+গাইবান্ধা 		 2012	02	1	1
+গাইবান্ধা 		 2012	03	1	1
+গাইবান্ধা 		 2012	04	1	2
+গাইবান্ধা 		 2012	05	1	1
+গাইবান্ধা 		 2012	06	1	1
+গাইবান্ধা 		 2012	07	1	2
+গাইবান্ধা 		 2012	08	1	1
+গাইবান্ধা 		 2012	10	1	1
+গাজীপুর 		 2011	01	1	5
+গাজীপুর 		 2011	02	1	11
+গাজীপুর 		 2011	03	1	11
+গাজীপুর 		 2011	04	1	10
+গাজীপুর 		 2011	05	1	3
+গাজীপুর 		 2011	06	1	2
+গাজীপুর 		 2011	07	1	8
+গাজীপুর 		 2011	08	1	7
+গাজীপুর 		 2011	09	1	7
+গাজীপুর 		 2011	10	1	5
+গাজীপুর 		 2011	11	1	6
+গাজীপুর 		 2012	01	1	5
+গাজীপুর 		 2012	02	1	4
+গাজীপুর 		 2012	03	1	11
+গাজীপুর 		 2012	04	1	7
+গাজীপুর 		 2012	05	1	33
+গাজীপুর 		 2012	06	1	7
+গাজীপুর 		 2012	07	1	3
+গাজীপুর 		 2012	08	1	5
+গাজীপুর 		 2012	09	1	5
+গাজীপুর 		 2012	10	1	9
+গাজীপুর 		 2012	11	1	5
+গোপালগঞ্জ 		 2011	01	1	3
+গোপালগঞ্জ 		 2011	02	1	2
+গোপালগঞ্জ 		 2011	03	1	4
+গোপালগঞ্জ 		 2011	04	1	5
+গোপালগঞ্জ 		 2011	05	1	3
+গোপালগঞ্জ 		 2011	06	1	8
+গোপালগঞ্জ 		 2011	07	1	6
+গোপালগঞ্জ 		 2011	08	1	3
+গোপালগঞ্জ 		 2011	09	1	7
+গোপালগঞ্জ 		 2011	10	1	4
+গোপালগঞ্জ 		 2011	11	1	5
+গোপালগঞ্জ 		 2012	01	1	4
+গোপালগঞ্জ 		 2012	02	1	2
+গোপালগঞ্জ 		 2012	03	1	5
+গোপালগঞ্জ 		 2012	04	1	3
+গোপালগঞ্জ 		 2012	05	1	5
+গোপালগঞ্জ 		 2012	06	1	5
+গোপালগঞ্জ 		 2012	07	1	4
+গোপালগঞ্জ 		 2012	08	1	6
+গোপালগঞ্জ 		 2012	09	1	5
+গোপালগঞ্জ 		 2012	10	1	6
+গোপালগঞ্জ 		 2012	11	1	4
+চট্টগ্রাম 		 2011	01	1	12
+চট্টগ্রাম 		 2011	02	1	8
+চট্টগ্রাম 		 2011	03	1	17
+চট্টগ্রাম 		 2011	04	1	7
+চট্টগ্রাম 		 2011	05	1	5
+চট্টগ্রাম 		 2011	06	1	11
+চট্টগ্রাম 		 2011	07	1	11
+চট্টগ্রাম 		 2011	08	1	10
+চট্টগ্রাম 		 2011	09	1	11
+চট্টগ্রাম 		 2011	10	1	9
+চট্টগ্রাম 		 2011	11	1	13
+চট্টগ্রাম 		 2012	01	1	7
+চট্টগ্রাম 		 2012	02	1	7
+চট্টগ্রাম 		 2012	03	1	11
+চট্টগ্রাম 		 2012	04	1	8
+চট্টগ্রাম 		 2012	05	1	33
+চট্টগ্রাম 		 2012	06	1	12
+চট্টগ্রাম 		 2012	07	1	13
+চট্টগ্রাম 		 2012	08	1	12
+চট্টগ্রাম 		 2012	09	1	9
+চট্টগ্রাম 		 2012	10	1	13
+চট্টগ্রাম 		 2012	11	1	15
+চাঁদপুর 		 2011	01	1	1
+চাঁদপুর 		 2011	03	1	1
+চাঁদপুর 		 2011	07	1	1
+চাঁদপুর 		 2012	01	1	1
+চাঁদপুর 		 2012	06	1	1
+চাঁদপুর 		 2012	09	1	1
+চাঁদপুর 		 2012	10	1	1
+চাঁদপুর 		 2012	11	1	1
+চুয়াডাঙ্গা 		 2011	02	1	1
+চুয়াডাঙ্গা 		 2011	05	1	1
+চুয়াডাঙ্গা 		 2012	05	1	2
+চুয়াডাঙ্গা 		 2012	07	1	1
+জামালপুর 		 2011	01	1	5
+জামালপুর 		 2011	02	1	3
+জামালপুর 		 2011	03	1	1
+জামালপুর 		 2011	04	1	5
+জামালপুর 		 2011	05	1	2
+জামালপুর 		 2011	06	1	1
+জামালপুর 		 2011	07	1	2
+জামালপুর 		 2011	08	1	5
+জামালপুর 		 2011	09	1	5
+জামালপুর 		 2011	10	1	2
+জামালপুর 		 2011	11	1	3
+জামালপুর 		 2012	01	1	2
+জামালপুর 		 2012	02	1	2
+জামালপুর 		 2012	03	1	3
+জামালপুর 		 2012	04	1	2
+জামালপুর 		 2012	05	1	7
+জামালপুর 		 2012	06	1	3
+জামালপুর 		 2012	07	1	4
+জামালপুর 		 2012	08	1	3
+জামালপুর 		 2012	09	1	2
+জামালপুর 		 2012	10	1	3
+জামালপুর 		 2012	11	1	5
+জয়পুরহাট 		 2012	05	1	1
+জয়পুরহাট 		 2012	09	1	1
+ঝালকাঠি 		 2011	01	1	1
+ঝালকাঠি 		 2011	03	1	2
+ঝালকাঠি 		 2011	04	1	1
+ঝালকাঠি 		 2011	06	1	1
+ঝালকাঠি 		 2011	07	1	2
+ঝালকাঠি 		 2011	08	1	1
+ঝালকাঠি 		 2011	09	1	1
+ঝালকাঠি 		 2012	01	1	2
+ঝালকাঠি 		 2012	03	1	1
+ঝালকাঠি 		 2012	07	1	1
+ঝালকাঠি 		 2012	10	1	1
+ঝালকাঠি 		 2012	11	1	1
+ঝিনাইদহ 		 2011	01	1	1
+ঝিনাইদহ 		 2011	06	1	1
+ঝিনাইদহ 		 2012	04	1	1
+ঝিনাইদহ 		 2012	09	1	1
+ঝিনাইদহ 		 2012	10	1	1
+ঝিনাইদহ 		 2012	11	1	1
+টাঙ্গাইল 		 2011	02	1	2
+টাঙ্গাইল 		 2011	03	1	2
+টাঙ্গাইল 		 2011	05	1	1
+টাঙ্গাইল 		 2011	10	1	1
+টাঙ্গাইল 		 2011	11	1	1
+টাঙ্গাইল 		 2012	01	1	2
+টাঙ্গাইল 		 2012	02	1	2
+টাঙ্গাইল 		 2012	03	1	1
+টাঙ্গাইল 		 2012	04	1	1
+টাঙ্গাইল 		 2012	05	1	7
+টাঙ্গাইল 		 2012	06	1	2
+টাঙ্গাইল 		 2012	07	1	1
+টাঙ্গাইল 		 2012	08	1	2
+টাঙ্গাইল 		 2012	09	1	1
+টাঙ্গাইল 		 2012	10	1	1
+টাঙ্গাইল 		 2012	11	1	1
+ঢাকা 		 2011	01	1	27
+ঢাকা 		 2011	02	1	24
+ঢাকা 		 2011	03	1	29
+ঢাকা 		 2011	04	1	21
+ঢাকা 		 2011	05	1	30
+ঢাকা 		 2011	06	1	19
+ঢাকা 		 2011	07	1	31
+ঢাকা 		 2011	08	1	18
+ঢাকা 		 2011	09	1	35
+ঢাকা 		 2011	10	1	20
+ঢাকা 		 2011	11	1	24
+ঢাকা 		 2012	01	1	23
+ঢাকা 		 2012	02	1	25
+ঢাকা 		 2012	03	1	26
+ঢাকা 		 2012	04	1	21
+ঢাকা 		 2012	05	1	182
+ঢাকা 		 2012	06	1	27
+ঢাকা 		 2012	07	1	22
+ঢাকা 		 2012	08	1	21
+ঢাকা 		 2012	09	1	20
+ঢাকা 		 2012	10	1	17
+ঢাকা 		 2012	11	1	23
+দিনাজপুর 		 2011	01	1	9
+দিনাজপুর 		 2011	02	1	8
+দিনাজপুর 		 2011	03	1	8
+দিনাজপুর 		 2011	04	1	9
+দিনাজপুর 		 2011	05	1	8
+দিনাজপুর 		 2011	06	1	7
+দিনাজপুর 		 2011	07	1	12
+দিনাজপুর 		 2011	08	1	8
+দিনাজপুর 		 2011	09	1	11
+দিনাজপুর 		 2011	10	1	10
+দিনাজপুর 		 2011	11	1	6
+দিনাজপুর 		 2012	01	1	11
+দিনাজপুর 		 2012	02	1	12
+দিনাজপুর 		 2012	03	1	13
+দিনাজপুর 		 2012	04	1	10
+দিনাজপুর 		 2012	05	1	72
+দিনাজপুর 		 2012	06	1	7
+দিনাজপুর 		 2012	07	1	13
+দিনাজপুর 		 2012	08	1	8
+দিনাজপুর 		 2012	09	1	9
+দিনাজপুর 		 2012	10	1	6
+দিনাজপুর 		 2012	11	1	9
+নওগাঁ 		 2011	01	1	1
+নওগাঁ 		 2011	02	1	1
+নওগাঁ 		 2011	03	1	1
+নওগাঁ 		 2011	04	1	1
+নওগাঁ 		 2011	05	1	1
+নওগাঁ 		 2011	06	1	2
+নওগাঁ 		 2011	07	1	1
+নওগাঁ 		 2011	08	1	1
+নওগাঁ 		 2011	11	1	1
+নওগাঁ 		 2012	01	1	1
+নওগাঁ 		 2012	03	1	4
+নওগাঁ 		 2012	04	1	1
+নওগাঁ 		 2012	05	1	3
+নওগাঁ 		 2012	07	1	2
+নওগাঁ 		 2012	08	1	2
+নওগাঁ 		 2012	09	1	1
+নওগাঁ 		 2012	10	1	2
+নরসিংদী 		 2011	01	1	4
+নরসিংদী 		 2011	03	1	3
+নরসিংদী 		 2011	04	1	5
+নরসিংদী 		 2011	05	1	2
+নরসিংদী 		 2011	06	1	5
+নরসিংদী 		 2011	08	1	1
+নরসিংদী 		 2011	09	1	4
+নরসিংদী 		 2011	10	1	3
+নরসিংদী 		 2011	11	1	2
+নরসিংদী 		 2012	01	1	1
+নরসিংদী 		 2012	03	1	5
+নরসিংদী 		 2012	04	1	1
+নরসিংদী 		 2012	05	1	15
+নরসিংদী 		 2012	06	1	4
+নরসিংদী 		 2012	07	1	5
+নরসিংদী 		 2012	08	1	2
+নরসিংদী 		 2012	09	1	1
+নরসিংদী 		 2012	10	1	1
+নরসিংদী 		 2012	11	1	1
+নাটোর 		 2011	07	1	1
+নাটোর 		 2011	09	1	1
+নাটোর 		 2012	03	1	2
+নাটোর 		 2012	04	1	2
+নাটোর 		 2012	06	1	1
+নাটোর 		 2012	09	1	1
+নারায়ণগঞ্জ 		 2011	01	1	4
+নারায়ণগঞ্জ 		 2011	02	1	3
+নারায়ণগঞ্জ 		 2011	03	1	4
+নারায়ণগঞ্জ 		 2011	04	1	1
+নারায়ণগঞ্জ 		 2011	05	1	3
+নারায়ণগঞ্জ 		 2011	06	1	3
+নারায়ণগঞ্জ 		 2011	07	1	6
+নারায়ণগঞ্জ 		 2011	08	1	1
+নারায়ণগঞ্জ 		 2011	09	1	4
+নারায়ণগঞ্জ 		 2011	10	1	2
+নারায়ণগঞ্জ 		 2011	11	1	2
+নারায়ণগঞ্জ 		 2012	01	1	1
+নারায়ণগঞ্জ 		 2012	02	1	5
+নারায়ণগঞ্জ 		 2012	03	1	4
+নারায়ণগঞ্জ 		 2012	05	1	20
+নারায়ণগঞ্জ 		 2012	06	1	3
+নারায়ণগঞ্জ 		 2012	07	1	2
+নারায়ণগঞ্জ 		 2012	08	1	4
+নারায়ণগঞ্জ 		 2012	09	1	4
+নারায়ণগঞ্জ 		 2012	10	1	2
+নীলফামারী 		 2011	01	1	1
+নীলফামারী 		 2011	03	1	1
+নীলফামারী 		 2011	04	1	4
+নীলফামারী 		 2011	05	1	1
+নীলফামারী 		 2011	06	1	1
+নীলফামারী 		 2011	07	1	1
+নীলফামারী 		 2011	09	1	2
+নীলফামারী 		 2011	10	1	1
+নীলফামারী 		 2011	11	1	1
+নীলফামারী 		 2012	03	1	1
+নীলফামারী 		 2012	05	1	3
+নীলফামারী 		 2012	07	1	2
+নেত্রকোনা 		 2011	01	1	2
+নেত্রকোনা 		 2011	02	1	2
+নেত্রকোনা 		 2011	03	1	2
+নেত্রকোনা 		 2011	04	1	2
+নেত্রকোনা 		 2011	05	1	1
+নেত্রকোনা 		 2011	06	1	3
+নেত্রকোনা 		 2011	07	1	1
+নেত্রকোনা 		 2011	08	1	2
+নেত্রকোনা 		 2011	09	1	1
+নেত্রকোনা 		 2011	10	1	1
+নেত্রকোনা 		 2011	11	1	2
+নেত্রকোনা 		 2012	01	1	2
+নেত্রকোনা 		 2012	02	1	1
+নেত্রকোনা 		 2012	03	1	6
+নেত্রকোনা 		 2012	04	1	1
+নেত্রকোনা 		 2012	05	1	6
+নেত্রকোনা 		 2012	06	1	2
+নেত্রকোনা 		 2012	07	1	3
+নেত্রকোনা 		 2012	08	1	5
+নেত্রকোনা 		 2012	09	1	4
+নেত্রকোনা 		 2012	11	1	1
+নোয়াখালী 		 2011	03	1	6
+নোয়াখালী 		 2011	08	1	1
+নোয়াখালী 		 2011	09	1	3
+নোয়াখালী 		 2011	10	1	2
+নোয়াখালী 		 2011	11	1	2
+নোয়াখালী 		 2012	01	1	2
+নোয়াখালী 		 2012	05	1	6
+নোয়াখালী 		 2012	07	1	1
+নোয়াখালী 		 2012	08	1	1
+নোয়াখালী 		 2012	09	1	3
+নড়াইল 		 2011	01	1	1
+নড়াইল 		 2011	02	1	3
+নড়াইল 		 2011	03	1	2
+নড়াইল 		 2011	04	1	1
+নড়াইল 		 2011	05	1	1
+নড়াইল 		 2011	06	1	1
+নড়াইল 		 2011	07	1	2
+নড়াইল 		 2011	08	1	2
+নড়াইল 		 2011	09	1	3
+নড়াইল 		 2011	10	1	6
+নড়াইল 		 2011	11	1	1
+নড়াইল 		 2012	01	1	3
+নড়াইল 		 2012	02	1	1
+নড়াইল 		 2012	03	1	3
+নড়াইল 		 2012	04	1	1
+নড়াইল 		 2012	05	1	5
+নড়াইল 		 2012	06	1	1
+নড়াইল 		 2012	07	1	2
+নড়াইল 		 2012	08	1	1
+নড়াইল 		 2012	09	1	4
+নড়াইল 		 2012	10	1	2
+নড়াইল 		 2012	11	1	2
+পঞ্চগড় 		 2011	06	1	1
+পঞ্চগড় 		 2011	11	1	1
+পঞ্চগড় 		 2012	05	1	1
+পঞ্চগড় 		 2012	07	1	1
+পটুয়াখালী 		 2011	02	1	1
+পটুয়াখালী 		 2011	03	1	1
+পটুয়াখালী 		 2011	05	1	1
+পটুয়াখালী 		 2011	06	1	1
+পটুয়াখালী 		 2011	07	1	1
+পটুয়াখালী 		 2011	10	1	1
+পটুয়াখালী 		 2012	05	1	4
+পটুয়াখালী 		 2012	06	1	1
+পটুয়াখালী 		 2012	09	1	2
+পটুয়াখালী 		 2012	10	1	2
+পাবনা 		 2011	02	1	1
+পাবনা 		 2011	03	1	1
+পাবনা 		 2011	05	1	1
+পাবনা 		 2011	06	1	3
+পাবনা 		 2011	07	1	2
+পাবনা 		 2011	09	1	2
+পাবনা 		 2011	10	1	4
+পাবনা 		 2011	11	1	1
+পাবনা 		 2012	01	1	1
+পাবনা 		 2012	03	1	1
+পাবনা 		 2012	04	1	1
+পাবনা 		 2012	05	1	5
+পাবনা 		 2012	07	1	1
+পাবনা 		 2012	09	1	2
+পিরোজপুর 		 2011	01	1	1
+পিরোজপুর 		 2011	06	1	1
+পিরোজপুর 		 2011	10	1	1
+পিরোজপুর 		 2012	06	1	1
+পিরোজপুর 		 2012	07	1	1
+ফরিদপুর 		 2011	01	1	2
+ফরিদপুর 		 2011	03	1	1
+ফরিদপুর 		 2011	04	1	2
+ফরিদপুর 		 2011	05	1	1
+ফরিদপুর 		 2011	10	1	2
+ফরিদপুর 		 2011	11	1	1
+ফরিদপুর 		 2012	05	1	3
+ফরিদপুর 		 2012	06	1	1
+ফরিদপুর 		 2012	08	1	1
+ফেনী 		 2011	09	1	2
+ফেনী 		 2011	10	1	1
+ফেনী 		 2012	05	1	1
+ফেনী 		 2012	06	1	1
+ফেনী 		 2012	08	1	1
+বগুড়া 		 2011	01	1	6
+বগুড়া 		 2011	02	1	5
+বগুড়া 		 2011	03	1	4
+বগুড়া 		 2011	04	1	6
+বগুড়া 		 2011	05	1	2
+বগুড়া 		 2011	06	1	3
+বগুড়া 		 2011	07	1	1
+বগুড়া 		 2011	08	1	3
+বগুড়া 		 2011	09	1	5
+বগুড়া 		 2011	10	1	5
+বগুড়া 		 2011	11	1	2
+বগুড়া 		 2012	01	1	3
+বগুড়া 		 2012	02	1	6
+বগুড়া 		 2012	03	1	2
+বগুড়া 		 2012	04	1	1
+বগুড়া 		 2012	05	1	10
+বগুড়া 		 2012	06	1	3
+বগুড়া 		 2012	07	1	5
+বগুড়া 		 2012	08	1	4
+বগুড়া 		 2012	09	1	7
+বগুড়া 		 2012	10	1	3
+বগুড়া 		 2012	11	1	5
+বরগুনা 		 2011	02	1	2
+বরগুনা 		 2011	04	1	2
+বরগুনা 		 2011	05	1	2
+বরগুনা 		 2012	01	1	2
+বরগুনা 		 2012	03	1	2
+বরগুনা 		 2012	04	1	1
+বরগুনা 		 2012	05	1	6
+বরগুনা 		 2012	07	1	2
+বরগুনা 		 2012	08	1	2
+বরগুনা 		 2012	09	1	1
+বরগুনা 		 2012	11	1	2
+বরিশাল 		 2011	01	1	2
+বরিশাল 		 2011	03	1	1
+বরিশাল 		 2011	04	1	4
+বরিশাল 		 2011	05	1	1
+বরিশাল 		 2011	06	1	1
+বরিশাল 		 2011	08	1	2
+বরিশাল 		 2011	09	1	3
+বরিশাল 		 2011	10	1	3
+বরিশাল 		 2012	01	1	1
+বরিশাল 		 2012	03	1	4
+বরিশাল 		 2012	04	1	2
+বরিশাল 		 2012	05	1	3
+বরিশাল 		 2012	06	1	1
+বরিশাল 		 2012	07	1	2
+বরিশাল 		 2012	08	1	1
+বরিশাল 		 2012	09	1	1
+বরিশাল 		 2012	10	1	1
+বরিশাল 		 2012	11	1	1
+বাগেরহাট 		 2011	01	1	1
+বাগেরহাট 		 2011	06	1	1
+বাগেরহাট 		 2011	09	1	1
+বাগেরহাট 		 2011	11	1	1
+বাগেরহাট 		 2012	01	1	1
+বাগেরহাট 		 2012	02	1	2
+বাগেরহাট 		 2012	05	1	2
+বাগেরহাট 		 2012	07	1	1
+বাগেরহাট 		 2012	09	1	1
+বাগেরহাট 		 2012	11	1	1
+বান্দরবন 		 2011	01	1	1
+বান্দরবন 		 2011	02	1	5
+বান্দরবন 		 2011	03	1	4
+বান্দরবন 		 2011	04	1	2
+বান্দরবন 		 2011	05	1	3
+বান্দরবন 		 2011	06	1	2
+বান্দরবন 		 2011	07	1	1
+বান্দরবন 		 2011	08	1	1
+বান্দরবন 		 2011	09	1	2
+বান্দরবন 		 2011	10	1	3
+বান্দরবন 		 2011	11	1	2
+বান্দরবন 		 2012	01	1	1
+বান্দরবন 		 2012	02	1	4
+বান্দরবন 		 2012	04	1	3
+বান্দরবন 		 2012	05	1	8
+বান্দরবন 		 2012	06	1	1
+বান্দরবন 		 2012	07	1	2
+বান্দরবন 		 2012	08	1	2
+বান্দরবন 		 2012	09	1	2
+বান্দরবন 		 2012	10	1	1
+বান্দরবন 		 2012	11	1	1
+ব্রাহ্মণবাড়িয়া 		 2011	02	1	3
+ব্রাহ্মণবাড়িয়া 		 2011	03	1	4
+ব্রাহ্মণবাড়িয়া 		 2011	05	1	2
+ব্রাহ্মণবাড়িয়া 		 2011	06	1	2
+ব্রাহ্মণবাড়িয়া 		 2011	07	1	1
+ব্রাহ্মণবাড়িয়া 		 2011	08	1	2
+ব্রাহ্মণবাড়িয়া 		 2011	09	1	1
+ব্রাহ্মণবাড়িয়া 		 2011	10	1	1
+ব্রাহ্মণবাড়িয়া 		 2011	11	1	4
+ব্রাহ্মণবাড়িয়া 		 2012	01	1	2
+ব্রাহ্মণবাড়িয়া 		 2012	02	1	3
+ব্রাহ্মণবাড়িয়া 		 2012	03	1	1
+ব্রাহ্মণবাড়িয়া 		 2012	05	1	15
+ব্রাহ্মণবাড়িয়া 		 2012	06	1	1
+ব্রাহ্মণবাড়িয়া 		 2012	07	1	1
+ব্রাহ্মণবাড়িয়া 		 2012	08	1	3
+ব্রাহ্মণবাড়িয়া 		 2012	09	1	2
+ব্রাহ্মণবাড়িয়া 		 2012	10	1	3
+ব্রাহ্মণবাড়িয়া 		 2012	11	1	1
+ভোলা 		 2011	02	1	2
+ভোলা 		 2011	04	1	1
+ভোলা 		 2011	05	1	1
+ভোলা 		 2011	09	1	1
+ভোলা 		 2011	10	1	1
+ভোলা 		 2011	11	1	1
+ভোলা 		 2012	05	1	1
+ভোলা 		 2012	06	1	1
+ভোলা 		 2012	07	1	1
+ভোলা 		 2012	08	1	2
+ভোলা 		 2012	09	1	1
+ভোলা 		 2012	10	1	1
+মাগুরা 		 2011	01	1	1
+মাগুরা 		 2011	08	1	1
+মাগুরা 		 2012	01	1	1
+মাগুরা 		 2012	05	1	3
+মাগুরা 		 2012	07	1	1
+মাগুরা 		 2012	09	1	2
+মাদারীপুর 		 2011	03	1	1
+মাদারীপুর 		 2011	06	1	1
+মাদারীপুর 		 2012	01	1	1
+মাদারীপুর 		 2012	05	1	4
+মাদারীপুর 		 2012	07	1	2
+মাদারীপুর 		 2012	09	1	1
+মানিকগঞ্জ 		 2011	04	1	1
+মানিকগঞ্জ 		 2012	01	1	1
+মানিকগঞ্জ 		 2012	04	1	1
+মানিকগঞ্জ 		 2012	05	1	1
+মুন্সিগঞ্জ 		 2011	02	1	1
+মুন্সিগঞ্জ 		 2011	03	1	1
+মুন্সিগঞ্জ 		 2011	04	1	1
+মুন্সিগঞ্জ 		 2011	06	1	1
+মুন্সিগঞ্জ 		 2011	07	1	2
+মুন্সিগঞ্জ 		 2011	11	1	1
+মুন্সিগঞ্জ 		 2012	01	1	1
+মুন্সিগঞ্জ 		 2012	03	1	1
+মুন্সিগঞ্জ 		 2012	04	1	1
+মুন্সিগঞ্জ 		 2012	05	1	4
+মুন্সিগঞ্জ 		 2012	07	1	3
+মুন্সিগঞ্জ 		 2012	08	1	2
+মুন্সিগঞ্জ 		 2012	09	1	2
+মুন্সিগঞ্জ 		 2012	10	1	1
+মুন্সিগঞ্জ 		 2012	11	1	1
+মেহেরপুর 		 2011	01	1	4
+মেহেরপুর 		 2011	02	1	2
+মেহেরপুর 		 2011	03	1	3
+মেহেরপুর 		 2011	04	1	8
+মেহেরপুর 		 2011	05	1	4
+মেহেরপুর 		 2011	06	1	7
+মেহেরপুর 		 2011	07	1	5
+মেহেরপুর 		 2011	08	1	4
+মেহেরপুর 		 2011	09	1	8
+মেহেরপুর 		 2011	10	1	6
+মেহেরপুর 		 2011	11	1	6
+মেহেরপুর 		 2012	01	1	5
+মেহেরপুর 		 2012	02	1	2
+মেহেরপুর 		 2012	03	1	4
+মেহেরপুর 		 2012	04	1	3
+মেহেরপুর 		 2012	05	1	10
+মেহেরপুর 		 2012	06	1	5
+মেহেরপুর 		 2012	07	1	6
+মেহেরপুর 		 2012	08	1	7
+মেহেরপুর 		 2012	09	1	6
+মেহেরপুর 		 2012	10	1	6
+মেহেরপুর 		 2012	11	1	6
+মৌলভীবাজার 		 2011	07	1	1
+মৌলভীবাজার 		 2011	08	1	1
+মৌলভীবাজার 		 2011	09	1	1
+মৌলভীবাজার 		 2011	10	1	1
+মৌলভীবাজার 		 2012	02	1	1
+মৌলভীবাজার 		 2012	03	1	2
+মৌলভীবাজার 		 2012	04	1	1
+মৌলভীবাজার 		 2012	05	1	2
+মৌলভীবাজার 		 2012	06	1	2
+মৌলভীবাজার 		 2012	07	1	2
+ময়মনসিংহ 		 2011	01	1	3
+ময়মনসিংহ 		 2011	02	1	1
+ময়মনসিংহ 		 2011	03	1	4
+ময়মনসিংহ 		 2011	06	1	2
+ময়মনসিংহ 		 2011	07	1	2
+ময়মনসিংহ 		 2011	08	1	1
+ময়মনসিংহ 		 2011	09	1	1
+ময়মনসিংহ 		 2011	10	1	1
+ময়মনসিংহ 		 2011	11	1	1
+ময়মনসিংহ 		 2012	01	1	1
+ময়মনসিংহ 		 2012	02	1	1
+ময়মনসিংহ 		 2012	03	1	1
+ময়মনসিংহ 		 2012	04	1	1
+ময়মনসিংহ 		 2012	05	1	8
+ময়মনসিংহ 		 2012	06	1	1
+ময়মনসিংহ 		 2012	07	1	3
+ময়মনসিংহ 		 2012	08	1	3
+ময়মনসিংহ 		 2012	09	1	1
+ময়মনসিংহ 		 2012	11	1	1
+যশোহর 		 2012	01	1	1
+যশোহর 		 2012	10	1	1
+রংপুর 		 2011	01	1	2
+রংপুর 		 2011	03	1	3
+রংপুর 		 2011	04	1	1
+রংপুর 		 2011	05	1	1
+রংপুর 		 2011	06	1	2
+রংপুর 		 2011	09	1	1
+রংপুর 		 2012	02	1	1
+রংপুর 		 2012	05	1	3
+রংপুর 		 2012	08	1	1
+রংপুর 		 2012	10	1	1
+রাঙামাটি 		 2011	01	1	2
+রাঙামাটি 		 2011	04	1	1
+রাঙামাটি 		 2011	05	1	1
+রাঙামাটি 		 2011	06	1	1
+রাঙামাটি 		 2011	07	1	1
+রাঙামাটি 		 2011	10	1	1
+রাঙামাটি 		 2011	11	1	1
+রাঙামাটি 		 2012	01	1	1
+রাঙামাটি 		 2012	03	1	1
+রাঙামাটি 		 2012	04	1	1
+রাঙামাটি 		 2012	05	1	3
+রাঙামাটি 		 2012	07	1	1
+রাঙামাটি 		 2012	10	1	1
+রাজবাড়ী 		 2011	06	1	1
+রাজবাড়ী 		 2011	09	1	1
+রাজবাড়ী 		 2012	07	1	2
+রাজশাহী 		 2011	01	1	4
+রাজশাহী 		 2011	02	1	5
+রাজশাহী 		 2011	03	1	3
+রাজশাহী 		 2011	04	1	4
+রাজশাহী 		 2011	05	1	3
+রাজশাহী 		 2011	06	1	4
+রাজশাহী 		 2011	07	1	2
+রাজশাহী 		 2011	08	1	7
+রাজশাহী 		 2011	09	1	5
+রাজশাহী 		 2011	10	1	7
+রাজশাহী 		 2011	11	1	3
+রাজশাহী 		 2012	01	1	7
+রাজশাহী 		 2012	02	1	4
+রাজশাহী 		 2012	03	1	6
+রাজশাহী 		 2012	04	1	4
+রাজশাহী 		 2012	05	1	6
+রাজশাহী 		 2012	06	1	7
+রাজশাহী 		 2012	07	1	4
+রাজশাহী 		 2012	08	1	5
+রাজশাহী 		 2012	09	1	6
+রাজশাহী 		 2012	10	1	7
+রাজশাহী 		 2012	11	1	3
+লক্ষ্মীপুর 		 2011	02	1	1
+লক্ষ্মীপুর 		 2011	04	1	2
+লক্ষ্মীপুর 		 2011	09	1	2
+লক্ষ্মীপুর 		 2011	11	1	1
+লক্ষ্মীপুর 		 2012	01	1	1
+লক্ষ্মীপুর 		 2012	02	1	1
+লক্ষ্মীপুর 		 2012	03	1	1
+লক্ষ্মীপুর 		 2012	04	1	2
+লক্ষ্মীপুর 		 2012	05	1	5
+লক্ষ্মীপুর 		 2012	06	1	1
+লক্ষ্মীপুর 		 2012	07	1	2
+লক্ষ্মীপুর 		 2012	08	1	2
+লক্ষ্মীপুর 		 2012	09	1	1
+লক্ষ্মীপুর 		 2012	10	1	1
+লক্ষ্মীপুর 		 2012	11	1	2
+লালমনিরহাট 		 2011	06	1	1
+লালমনিরহাট 		 2012	04	1	1
+সাতক্ষীরা 		 2011	01	1	1
+সাতক্ষীরা 		 2011	02	1	1
+সাতক্ষীরা 		 2011	03	1	2
+সাতক্ষীরা 		 2011	04	1	4
+সাতক্ষীরা 		 2011	06	1	2
+সাতক্ষীরা 		 2011	07	1	5
+সাতক্ষীরা 		 2011	08	1	4
+সাতক্ষীরা 		 2011	09	1	3
+সাতক্ষীরা 		 2011	10	1	2
+সাতক্ষীরা 		 2011	11	1	1
+সাতক্ষীরা 		 2012	01	1	3
+সাতক্ষীরা 		 2012	02	1	2
+সাতক্ষীরা 		 2012	03	1	4
+সাতক্ষীরা 		 2012	04	1	1
+সাতক্ষীরা 		 2012	05	1	11
+সাতক্ষীরা 		 2012	06	1	6
+সাতক্ষীরা 		 2012	07	1	2
+সাতক্ষীরা 		 2012	08	1	2
+সাতক্ষীরা 		 2012	09	1	1
+সাতক্ষীরা 		 2012	11	1	1
+সিরাজগঞ্জ 		 2011	01	1	2
+সিরাজগঞ্জ 		 2011	04	1	2
+সিরাজগঞ্জ 		 2011	06	1	2
+সিরাজগঞ্জ 		 2011	08	1	4
+সিরাজগঞ্জ 		 2011	09	1	2
+সিরাজগঞ্জ 		 2011	10	1	1
+সিরাজগঞ্জ 		 2011	11	1	1
+সিরাজগঞ্জ 		 2012	01	1	1
+সিরাজগঞ্জ 		 2012	02	1	2
+সিরাজগঞ্জ 		 2012	03	1	2
+সিরাজগঞ্জ 		 2012	04	1	1
+সিরাজগঞ্জ 		 2012	05	1	4
+সিরাজগঞ্জ 		 2012	06	1	1
+সিরাজগঞ্জ 		 2012	10	1	1
+সিরাজগঞ্জ 		 2012	11	1	3
+সিলেট 		 2011	01	1	23
+সিলেট 		 2011	02	1	17
+সিলেট 		 2011	03	1	18
+সিলেট 		 2011	04	1	18
+সিলেট 		 2011	05	1	16
+সিলেট 		 2011	06	1	22
+সিলেট 		 2011	07	1	13
+সিলেট 		 2011	08	1	15
+সিলেট 		 2011	09	1	20
+সিলেট 		 2011	10	1	20
+সিলেট 		 2011	11	1	13
+সিলেট 		 2012	01	1	19
+সিলেট 		 2012	02	1	10
+সিলেট 		 2012	03	1	22
+সিলেট 		 2012	04	1	12
+সিলেট 		 2012	05	1	47
+সিলেট 		 2012	06	1	25
+সিলেট 		 2012	07	1	16
+সিলেট 		 2012	08	1	26
+সিলেট 		 2012	09	1	19
+সিলেট 		 2012	10	1	19
+সিলেট 		 2012	11	1	14
+সুনামগঞ্জ 		 2011	04	1	1
+সুনামগঞ্জ 		 2011	05	1	2
+সুনামগঞ্জ 		 2011	06	1	2
+সুনামগঞ্জ 		 2011	11	1	1
+সুনামগঞ্জ 		 2012	02	1	1
+সুনামগঞ্জ 		 2012	03	1	1
+সুনামগঞ্জ 		 2012	04	1	1
+সুনামগঞ্জ 		 2012	05	1	1
+সুনামগঞ্জ 		 2012	06	1	1
+সুনামগঞ্জ 		 2012	07	1	2
+সুনামগঞ্জ 		 2012	09	1	1
+হবিগঞ্জ 		 2011	01	1	1
+হবিগঞ্জ 		 2011	02	1	1
+হবিগঞ্জ 		 2011	03	1	1
+হবিগঞ্জ 		 2011	04	1	1
+হবিগঞ্জ 		 2011	07	1	2
+হবিগঞ্জ 		 2011	09	1	2
+হবিগঞ্জ 		 2011	11	1	1
+হবিগঞ্জ 		 2012	01	1	1
+হবিগঞ্জ 		 2012	02	1	1
+হবিগঞ্জ 		 2012	03	1	1
+হবিগঞ্জ 		 2012	05	1	4
+হবিগঞ্জ 		 2012	06	1	3
+হবিগঞ্জ 		 2012	07	1	3
+হবিগঞ্জ 		 2012	08	1	1
+হবিগঞ্জ 		 2012	09	1	3
+হবিগঞ্জ 		 2012	10	1	1
+হবিগঞ্জ 		 2012	11	1	1
+Opps3484
+BUILD SUCCESSFUL (total time: 37 seconds)

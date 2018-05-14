@@ -1,0 +1,43 @@
+করছিলাম কর+ছিলাম VM 
+কলমটি/unknown অকাজ/VM গভীরতা/VM সুন্দরভাবে/unknown 
+কামারনী কামার+নী NN ঠাকুরানী/unknown কাঙালিনি/NN ঠাকুরন/unknown ঠাকুরাইন/unknown বিবাহিতা/NN নিশাচরী/NN বালিকা/NN 
+গরুটা/unknown বইটি/unknown খাতাখানা/unknown বইখানি/unknown কুসুমনিচয়/unknown 
+কাপড়খানা/unknown লাঠিগাছা/unknown চুড়িগাছি/unknown পাথরগুলা/unknown পটলগুলিন/unknown চারটে/unknown দুধটুকুন/unknown দুধটুকু/unknown 
+ছাত্ররা ছাত্র+রা NN শিক্ষকেরা শিক্ষক+েরা fem আমগুলো/unknown টাকাগুলো/unknown দেবগণ দেব+গণ ADJ সুধীবৃন্দ/unknown শিক্ষকমন্ডলী/unknown পন্ডিতবর্গ/unknown কবিকুল/unknown পর্বতসকল/unknown ভাইসব/unknown বৃক্ষসমূহ/unknown 
+বালিরাশি/unknown তারকারাজি/unknown পর্বতমালা/unknown মেঘপুঞ্জ/unknown কমলনিকর/unknown কুসুমদাম/ADJ কবিতাগুচ্ছ/unknown পুস্তকাবলি/unknown হস্তিযূথ/unknown আমাদের/ADJ সাহেবান সাহেব+ান ADJ 
+দুটো/ADJ পুয়াটাক/unknown সেইটেই/unknown 
+অকেজো/ADJ অগারাম অগা+রাম NN অজপুকুর/unknown অনাবৃষ্টি/NN আগাছা/NN আড়চোখ/unknown আনকোরা/NN আবছায়া/unknown ইতিকথা/NN উনপাজুরে/unknown কদবেল/unknown 
+কুঅভ্যাস/unknown নিখুঁত/NN পাতিহাঁস/NN বিপথ/NN ভরপেট/NN রামছাগল/unknown সঠিক/NN সাজিরা সাজি+রা NN সুনাম/NN হাভাতে/NN 
+পরাজয়/NN অপমান/NN সমাগত/NN নিবারণ/NN অবমাননা/unknown অনুশোচনা/NN নিরক্ষর/NN উৎপীড়ন/unknown 
+অধিপতি/NN পরিশেষ/NN প্রতিদিন/NN উপবন/NN অভিযান/NN অতিমানব/NN 
+কারখানা/NN দরদালান/NN নাখোশ/NN নিমরাজি/NN ফি/NN রোজ/NN বদরাগি/unknown বেআদব/NN 
+বরবাদ/NN বকলম/NN কমজোর/NN আমদরবার/NN খাসমহল/unknown লাপাতা/unknown 
+ফুলহাতা/NN হাফহাতা/NN হেডমাস্টার/NN সাবজজ/unknown হররোজ/unknown 
+লোকে লোক+ে NN ঘোড়ায়/unknown পানিতে পানি+তে NN ছেলেরা ছেলে+রা NN লোকেরা লোক+েরা NN পাথরগুলো/unknown গরুগুলি/unknown ছেলের ছেলে+র NN মায়ে মায়+ে PRP 
+ছেলেটিকে/unknown রাজার রাজা+র NN প্রজার প্রজা+র ADJ গাছের গাছ+ের NN পুকুরের পুকুর+ের NN মাছ/NN 
+করি কর+ি VM কর/VM করেছিলাম করে+ছিলাম PRP করেছিলে করে+ছিলে PRP করেছিল করে+ছিল PRP করব কর+ব VM করবে কর+বে VM করছি/unknown করছ কর+ছ VM 
+কাদঁন/unknown খাওন/VM জানানো/VM দোলনা/VM খেলনা/VM চিরুনি/unknown উড়ন্ত/unknown ডুবন্ত/VM 
+মোড়ক/unknown পড়া/unknown বই/VM চড়াই/unknown পাকড়াও/unknown চালান চাল+ান NN চালানো/NN জানানি জানা+নি NN ডুবুরী/unknown 
+মাতাল/NN ভাজি ভাজ+ি NN মরিয়া/NN বলিয়ে/NN ডাকু/unknown ঝাড়ু/unknown উড়ু/unknown পড়ুয়া/unknown উড়ো/unknown ফিরতা/unknown বহতা/NN ঘাটতি/NN কাদঁনা/unknown কান্না/NN 
+জ্ঞাত/NN খ্যাত/NN পঠিত/NN লিখিত/NN করণীয়/NN রক্ষনীয়/unknown দাতা/NN মাতা/NN পাঠক/NN শ্রমী শ্রম+ী NN চলিষ্ণু/NN চোরা/NN বাঘা/NN হাজিরা/NN 
+চাষা/NN বড়াই/unknown ইতরামি/NN ফাজলামো/NN ঘরামি/NN বাহাদুরি/NN ডাক্তারী ডাক্তার+ী NN ভাদরিয়া/unknown পাথরিয়া পাথর+িয়া NN জ্বরুয়া/unknown জ্বরো জ্বর+ো NN বাতুয়া/unknown বেতো/NN 
+টেকো/NN ঢালু/NN বালু/NN লাজুক/NN মিশুক/NN ভিখারী/unknown শাখাঁরী/unknown দাঁতাল/NN 
+ভেজাল/NN ধারাল ধারা+ল NN হাটুরিয়া/unknown হাটুরে/unknown সাপুড়িয়া/unknown সাপুড়ে/unknown কাঠরিয়া/unknown কাঠুরে/unknown লেজুড়/unknown ঘরোয়া/NN জলুয়া/unknown জলো/NN 
+তামাটিয়া/unknown তামাটে/NN ঝগরাটে/unknown ভাড়াটে/unknown রোগাটে/NN ভরাট/NN জমাট/NN মেঘলা/NN 
+বাড়িআলা/unknown দুধওয়ালা/unknown গাড়োয়ান/unknown দারোয়ান/unknown মুনশীআনা/unknown হিন্দুয়ানি/NN 
+ছেলেপনা/unknown বেহেয়াপনা/unknown পানসা পান+সা NN পানসে/NN কালসা কাল+সা NN কালসে/unknown 
+কারিগর/NN বাজিকর/NN খবরদার/NN পাহাড়াদার/unknown কলমবাজ/NN ধোঁকাবাজ/unknown গলাবাজি/NN জবানবন্দী/unknown সারিবন্দী/unknown জুতসই/NN মানানসই/NN 
+কুসুমিত/NN কন্টকিত/unknown নীলিমা/NN পঙ্কিল/NN ফেনিল/NN গরিষ্ঠ/NN লঘিষ্ঠ/unknown জ্ঞানিন/unknown সুখিন/unknown মানিন/unknown জ্ঞানী/NN গুণী/NN জ্ঞানিনী/unknown গুণিনী/unknown 
+বন্ধুতা/NN শত্রুতা/unknown বন্ধুত্ব/NN গুরুত্ব/unknown মধুরতর/unknown মধুরতম/unknown কুলীন/NN 
+নবীন/NN জলীয়/NN বায়বীয়/NN গুণবান/NN দয়াবান/NN বুদ্ধিমান/NN 
+মেধাবী/NN মায়াবী/NN মধুর/NN মুখর/NN শীতল/NN বৎসল/unknown রাবণি/NN দাশরথি/unknown সাহিত্যিক/NN বৈদিক/NN বৈজ্ঞানিক/NN ভাগনেয়/unknown 
+সহজভাবে/unknown সহজে সহজ+ে ADJ যথাযথভাবে/unknown ঠিকভাবে/unknown অবিরত/ADJ স্থিরভাবে/unknown কঠোরভাবে/unknown অদ্ভুতভাবে/unknown স্বাভাবিকভাবে/unknown 
+তারা/ADJ আমরা/ADJ সে/ADJ তাদের তা+দের NN আপনার/NN তা/NN যিনি/NN যা/NN যাহা যা+হা PRP তোমাদিগকে তোমা+দিগকে PRP আপনার/PRP আপনাদের আপনা+দের NN আমাদিগকে আমা+দিগকে PRP 
+এবং/PRP ও/PRP আর/PRP কিন্তু/PRP যেহেুতু/unknown কিংবা/PRP 
+খা/unknown যা/NN ডাক/NN দেখ/NN লেখ/NN কাট/NN কাঁদ/unknown নাচ/NN উঠ/unknown খুজ/unknown জম/unknown ডুব/NN 
+বাজলে বাজ+লে NN মরলে মর+লে ADJ জন্মিলে/unknown ধুয়ে/unknown মিশে মিশ+ে NN চেচিঁয়ে/unknown যেতে যে+তে ADJ দেখতে দেখ+তে VM কাটিতে কাট+িতে NN রাখিতে রাখি+তে NN 
+গোপনীয়/NN গোপনীয়তা/unknown নিষ্ঠুর/NN নিষ্ঠুরতা/NN সমসমতা/unknown জনপ্রিয়/NN জনপ্রিয়তা/NN শত্রুতা/unknown 
+ভদ্র/NN অনুগত/NN গোপনীয়/NN সরল/NN গভীর/NN সমান/NN সক্ষম/NN 
+একটি/NN এত/NN এতই এত+ই ADV কিছুই কিছু+ই PRP শুধুমাত্র/unknown বটে/PRP পছন্দ/PRP হয়তো/PRP যাবৎ/unknown অবশ্যই অবশ্য+ই INT ইশ/unknown শুধু/INT 
+এক/INT দুই/INT তিন/INT একুশ/INT প্রথম/INT দ্বিতীয়/INT তৃতীয়/INT দশম/INT দশই/INT বারই/INT একুশে একুশ+ে ADJ 
+সাতা/ADJ আটা/ADJ সোয়া/unknown দেড়/unknown আধ/ADJ পোয়া/ADJ আড়াই/unknown 

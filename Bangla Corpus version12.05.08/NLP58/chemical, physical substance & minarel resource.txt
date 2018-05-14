@@ -1,0 +1,2960 @@
+﻿
+
+30 	তামা ← দস্তা → গ্যালিয়াম
+-
+↑
+Zn
+↓
+Cd 	
+Zn-TableImage.png
+পর্যায় সারণী
+সাধারণ বৈশিষ্ট্য
+নাম, প্রতীক, পারমাণবিক সংখ্যা 	দস্তা, Zn, 30
+রাসায়নিক শ্রেণী 	transition metals
+গ্রুপ, পর্যায়, ব্লক 	12, 4, d
+ভৌত রূপ 	bluish pale gray
+Zn,30.jpg
+পারমাণবিক ভর 	65.409(4) g/mol
+ইলেক্ট্রন বিন্যাস 	[Ar] 3d10 4s2
+প্রতি শক্তিস্তরে ইলেকট্রন সংখ্যা 	2, 8, 18, 2
+ভৌত বৈশিষ্ট্য
+দশা 	কঠিন
+ঘনত্ব (সাধারণ তাপ ও চাপে) 	7.14 g/cm³
+গলনাংকে তরল ঘনত্ব 	6.57 গ্রাম/সেমি³
+গলনাঙ্ক 	692.68 K
+(419.53 °C, 787.15 °F)
+স্ফুটনাঙ্ক 	1180 K
+(907 °C, 1665 °F)
+গলনের লীন তাপ 	7.32 kJ/mol
+বাষ্পীভবনের লীন তাপ 	123.6 kJ/mol
+তাপধারণ ক্ষমতা 	(২৫ °সে) 25.390 জুল/(মোল·কে)
+বাষ্প চাপ P/প্যাসকেল 	১ 	১০ 	১০০ 	১ কে 	১০ কে 	১০০ কে
+T/কেলভিন তাপমাত্রায় 	610 	670 	750 	852 	990 	(1185)
+পারমাণবিক বৈশিষ্ট্য
+কেলাসীয় গঠন 	hexagonal
+জারণ অবস্থা 	2
+(amphoteric oxide)
+তড়িৎ ঋণাত্মকতা 	1.65 (পাউলিং স্কেল)
+আয়নীকরণ শক্তি
+(বিস্তারিত) 	প্রথম: 906.4 কিলোজুল/মোল
+দ্বিতীয়: 1733.3 কিলোজুল/মোল
+তৃতীয়: 3833 কিলোজুল/মোল
+পারমাণবিক ব্যাসার্ধ 	135 pm
+Atomic radius (calc.) 	142 pm
+Covalent radius 	131 pm
+Van der Waals radius 	139 pm
+অন্যান্য বৈশিষ্ট্য
+Magnetic ordering 	diamagnetic
+Electrical resistivity 	(20 °C) 59.0 nΩ·m
+তাপ পরিবাহিতা 	(300 K) 116 W/(m·K)
+Thermal expansion 	(25 °C) 30.2 µm/(m·K)
+Speed of sound (thin rod) 	(r.t.) (rolled) 3850 m/s
+ইয়ং এর গুণাঙ্ক 	108 GPa
+Shear modulus 	43 GPa
+Bulk modulus 	70 GPa
+Poisson ratio 	0.25
+Mohs hardness 	2.5
+Brinell hardness 	412 MPa
+সি এ এস নিবন্ধন সংখ্যা 	7440-66-6
+কয়েকটি উল্লেখযোগ্য সমস্থানিক
+প্রধান নিবন্ধ: zincের সমস্থানিক iso 	NA 	half-life 	DM 	DE (MeV) 	DP
+64Zn 	48.6% 	Zn 34টি নিউট্রন নিয়ে স্থিত হয়
+65Zn 	syn 	244.26 d 	ε 	- 	65Cu
+γ 	1.1155 	-
+66Zn 	27.9% 	Zn 36টি নিউট্রন নিয়ে স্থিত হয়
+67Zn 	4.1% 	Zn 37টি নিউট্রন নিয়ে স্থিত হয়
+68Zn 	18.8% 	Zn 38টি নিউট্রন নিয়ে স্থিত হয়
+69Zn 	syn 	56.4 min 	β− 	0.906 	69Ga
+70Zn 	0.6% 	Zn 40টি নিউট্রন নিয়ে স্থিত হয়
+References
+
+দস্তা বা জিংক নীলাভ-সাদা ধাতু। লোহা, অ্যালুমিনিয়াম ও তামার পরে দস্তাই সবচেয়ে বেশি ব্যবহৃত ধাতু।
+
+ইস্পাতের মরিচা রোধে দস্তার প্রলেপ দেয়া হয়। পিতল, নিকেল সিলভার, ইত্যাদি সংকর ধাতুতে দস্তা ব্যবহৃত হয়। অ্যাল্কালাইন ব্যাটারিতে অ্যানোড হিসেবে দস্তা ব্যবহৃত হয়। জিংক অক্সাইড সাদা রং হিসেবে এবং রবার শিল্পে সক্রিয়ক হিসেবে ব্যবহার করা হয়। জিঙ্ক ক্লোরাইড দুর্গন্ধনাশক ও কাঠ সংরক্ষক হিসেবে ব্যবহৃত হয়। ক্যলামাইন লোশনে জিংক হাইড্রক্সিকার্বনেট ব্যবহৃত হয়। ভিটামিন ট্যাবলেটেও জারণরোধী বৈশিষ্ট্যের জন্য দস্তা ব্যবহৃত হয়।
+সূচিপত্র
+ [আড়ালে রাখো] 
+
+    ১ আবিষ্কার
+    ২ বৈশিষ্ট্য
+    ৩ যৌগসমূহ
+    ৪ রাসায়নিক বিক্রিয়া
+    ৫ ব্যবহার
+    ৬ উৎস
+    ৭ আরও দেখুন
+    ৮ বহিঃসংযোগ
+
+[সম্পাদনা] আবিষ্কার
+[সম্পাদনা] বৈশিষ্ট্য
+[সম্পাদনা] যৌগসমূহ
+[সম্পাদনা] রাসায়নিক বিক্রিয়া
+[সম্পাদনা] ব্যবহার
+[সম্পাদনা] উৎস
+[সম্পাদনা] আরও দেখুন
+[সম্পাদনা] বহিঃসংযোগ
+এই নিবন্ধটি অসম্পূর্ণ। আপনি চাইলে এটিকে সমৃদ্ধ করে উইকিপিডিয়াকে সাহায্য করতে পারেন।
+বিষয়শ্রেণীসমূহ:
+
+    অসম্পূর্ণ
+    মৌলিক পদার্থ
+
+
+
+41 	জিরকোনিয়াম ← নিওবিয়াম → মলিবডেনাম
+V
+↑
+Nb
+↓
+Ta 	
+Nb-TableImage.png
+পর্যায় সারণী
+সাধারণ বৈশিষ্ট্য
+নাম, প্রতীক, পারমাণবিক সংখ্যা 	নিওবিয়াম, Nb, 41
+রাসায়নিক শ্রেণী 	transition metals
+গ্রুপ, পর্যায়, ব্লক 	5, 5, d
+ভৌত রূপ 	gray metallic
+Nb,41.jpg
+পারমাণবিক ভর 	92.90638(2) g/mol
+ইলেক্ট্রন বিন্যাস 	[Kr] 4d4 5s1
+প্রতি শক্তিস্তরে ইলেকট্রন সংখ্যা 	2, 8, 18, 12, 1
+ভৌত বৈশিষ্ট্য
+দশা 	কঠিন
+ঘনত্ব (সাধারণ তাপ ও চাপে) 	8.57 g/cm³
+গলনাঙ্ক 	2750 K
+(2477 °C, 4491 °F)
+স্ফুটনাঙ্ক 	5017 K
+(4744 °C, 8571 °F)
+গলনের লীন তাপ 	30 kJ/mol
+বাষ্পীভবনের লীন তাপ 	689.9 kJ/mol
+তাপধারণ ক্ষমতা 	(২৫ °সে) 24.60 জুল/(মোল·কে)
+বাষ্প চাপ P/প্যাসকেল 	১ 	১০ 	১০০ 	১ কে 	১০ কে 	১০০ কে
+T/কেলভিন তাপমাত্রায় 	2942 	3207 	3524 	3910 	4393 	5013
+পারমাণবিক বৈশিষ্ট্য
+কেলাসীয় গঠন 	cubic body centered
+জারণ অবস্থা 	5, 3
+(mildly acidic oxide)
+তড়িৎ ঋণাত্মকতা 	1.6 (পাউলিং স্কেল)
+আয়নীকরণ শক্তি
+(বিস্তারিত) 	প্রথম: 652.1 কিলোজুল/মোল
+দ্বিতীয়: 1380 কিলোজুল/মোল
+তৃতীয়: 2416 কিলোজুল/মোল
+পারমাণবিক ব্যাসার্ধ 	145 pm
+Atomic radius (calc.) 	198 pm
+Covalent radius 	137 pm
+অন্যান্য বৈশিষ্ট্য
+Magnetic ordering 	no data
+Electrical resistivity 	(0 °C) 152 nΩ·m
+তাপ পরিবাহিতা 	(300 K) 53.7 W/(m·K)
+Thermal expansion 	(25 °C) 7.3 µm/(m·K)
+Speed of sound (thin rod) 	(20 °C) 3480 m/s
+ইয়ং এর গুণাঙ্ক 	105 GPa
+Shear modulus 	38 GPa
+Bulk modulus 	170 GPa
+Poisson ratio 	0.40
+Mohs hardness 	6.0
+Vickers hardness 	1320 MPa
+Brinell hardness 	736 MPa
+সি এ এস নিবন্ধন সংখ্যা 	7440-03-1
+কয়েকটি উল্লেখযোগ্য সমস্থানিক
+প্রধান নিবন্ধ: niobiumের সমস্থানিক iso 	NA 	half-life 	DM 	DE (MeV) 	DP
+91Nb 	syn 	6.8×102 y 	ε 	- 	91Zr
+91mNb 	syn 	60.86 d 	IT 	0.104e 	91Nb
+92Nb 	syn 	10.15 d 	ε 	- 	92Zr
+γ 	0.934 	-
+92Nb 	syn 	3.47×107y 	ε 	- 	92Zr
+γ 	0.561, 0.934 	-
+93Nb 	100% 	Nb 52টি নিউট্রন নিয়ে স্থিত হয়
+93mNb 	syn 	16.13 y 	IT 	0.031e 	93Nb
+94Nb 	syn 	2.03×104 y 	β- 	0.471 	94Mo
+γ 	0.702, 0.871 	-
+95Nb 	syn 	34.991 d 	β- 	0.159 	95Mo
+γ 	0.765 	-
+95mNb 	syn 	3.61 d 	IT 	0.235 	95Nb
+References
+
+নাইওবিয়াম (রাসায়নিক সংকেত:,Nb পারমাণবিক সংখ্যা ৪১) একটি মৌলিক পদার্থ। ।
+সূচিপত্র
+ [আড়ালে রাখো] 
+
+    ১ আবিষ্কার
+    ২ বৈশিষ্ট্য
+    ৩ ব্যবহার
+    ৪ যৌগসমূহ
+    ৫ রাসায়নিক বিক্রিয়া
+    ৬ উৎস
+    ৭ আরও দেখুন
+
+[সম্পাদনা] আবিষ্কার
+[সম্পাদনা] বৈশিষ্ট্য
+[সম্পাদনা] ব্যবহার
+[সম্পাদনা] যৌগসমূহ
+[সম্পাদনা] রাসায়নিক বিক্রিয়া
+[সম্পাদনা] উৎস
+
+    ব্রিটানিকা বিশ্বকোষ (Encyclopedia Britannica)
+
+[সম্পাদনা] আরও দেখুন
+
+    মৌলিক পদার্থ
+
+
+
+
+নাইট্রিক অক্সাইড
+উইকিপিডিয়া, মুক্ত বিশ্বকোষ থেকে
+ধর্ম
+
+সাধারণ
+নাম 	নাইট্রোজেন মনোক্সাইড
+
+Nitric-oxide-2D.png
+রাসায়নিক সংকেত 	NO
+স্বভাব 	বর্ণহীন গ্যাস
+
+গাঠনিক
+সংকেত ভর 	30.0 এ এম ইউ
+গলনাংক 	109 K (-164 °C)
+স্ফূটনাংক 	121 K (-152 °C)
+Density 	১.৩ ×১০৩ কেজি/মি.৩ (তরল)
+দ্রাব্যতা 	১০০ গ্রাম পানিতে ০.০০৫৬ গ্রাম
+
+তাপ রসায়ন
+ΔfH0gas 	৯০ কিলোজুল/মোল
+ΔfH0তরল 	87.7 কিলোজুল/মোল
+S0gas, 1 bar 	211 জুল/মোল·K
+
+নিরাপত্তা
+Ingestion 	Used for medicinal purposes but has side effects and dangerous in overdose
+Inhalation 	Dangerous, may be fatal.
+ত্বক 	Irritant.
+চোখ 	May cause irritation
+আরও জানুন 	ঝুঁকিপূর্ণ রাসায়নিক পদার্থ
+
+SI units were used where possible. Unless otherwise stated, standard conditions were used.
+
+Disclaimer and references
+বিষয়শ্রেণী:
+
+    যৌগিক পদার্থ
+	
+
+
+
+
+ইনাইট্রোক্সিপ্রোপেন এবং গ্লিসারিল ট্রাইনাইট্রেট নামেও পরিচিত। এটি নাইট্রেটিং গ্লিসারল সমৃদ্ধ একটি ভারী, বর্ণহীন, এবং তৈলাক্ত বিস্ফোরক পদার্থ। ১৮৬০’র দশক থেকে এটি বিস্ফোরক উৎপাদনের জন্য কনস্ট্রাকশন এবং ডিমোলিশন শিল্পকারখানায় একটি কার্যকরী পদার্থ হিসেবে ব্যবহৃত হয়ে আসছে। একই সাথে ১৮৮০’র দশক থেকে এটি সশস্ত্র বাহিনীতেও বিস্ফোরক তৈরিতে ও কিছু কঠিন প্রপেলান্ট যেমন, করডাইট ও ব্যালিসটাইট-এ নাইট্রোসেলুলোজের গ্যালানটিনাইজার হিসেবে ব্যবহৃত হয়ে আসছে। চিকিৎসাশাস্ত্রে হৃদপিণ্ডের বিভিন্ন সুরক্ষায়, যেমন এনজাইনা এবং ক্রনিক হার্ট ফেইলুর-এর ক্ষেত্রেও এর ব্যবহার আছে। ফার্মাকোলজিতে নাইট্রোগ্লিসারিন গ্লিসারিল ট্রাইনাইট্রেট নামে পরিচিত।
+সূচিপত্র
+ [আড়ালে রাখো] 
+
+    ১ ইতিহাস
+    ২ উৎপাদন
+    ৩ প্রপেলান্ট ও বিস্ফোরক হিসেবে ব্যবহার
+    ৪ যুদ্ধের সময় উৎপাদনের হার
+        ৪.১ প্রথম বিশ্বযুদ্ধ
+    ৫ তথ্যসূত্র
+
+[সম্পাদনা] ইতিহাস
+
+ব্লাক পাউডারের পর নাইট্রোগ্লিসারিন-ই প্রথম বিস্ফোরক যেটা সহজে প্রস্তুত করা যায় এবং ব্লাক পাউডার থেকেও শক্তিশালী। রসায়নবিদ অ্যাসকানিও সোবরেরো ১৮৪৭ সালে এটি আবিষ্কার করেন। তিনি তখন টুরিন বিশ্ববিদ্যালয়ে টিজে পিলোউজের অধীনে কাজ করছিলেন। তিনি প্রাথমিকভাবে তাঁর আবিষ্কারের নাম দিয়েছিলেন পাইরোগ্লিসারিন, এবং তিনি এটিকে তাঁর ব্যক্তিগত পত্র ও জার্নালের নিবন্ধে অত্যন্ত বিপজ্জনক বলে উল্লেখ করেছিলেন। তিনি বলেছিলেন যে, এটা নাড়াচাড়া করা খুবই বিপজ্জনক ও অনেকটাই অসম্ভব।
+
+সোবেরোর একজন ফেলো ছাত্র ছিলেন আলফ্রেড নোবেল, যিনি ফর্মুলাটি তাঁর বাড়ি সুইডেনে নিয়ে যান এবং এই বিপজ্জনক পদার্থটিকে কীভাবে নাড়াচাড়া করতে হবে সেই পরীক্ষা করতে থাকেন। ১৮৬৪ সালে হেলেনবোর্গের একটি পারিবারিক অস্ত্র কারখানায় এক নাইট্রোগ্লিসারিন বিস্ফোরণে তাঁর ছোটো ভাই এমিলসহ এবং বেশ কয়েকজন শ্রমিক মারা যান।[১] এক বছর পরে নোবেল আলফ্রেড নোবেল এন্ড কোম্পানির গোঁড়াপত্তন করেন। এ ফ্যাক্টরিতে তিনি নাইট্রোগ্লিসারিন ও গানপাউডারের তরল মিশ্রণ তৈরি উৎপাদন করতেন যার নাম তিনি দেন “ব্লাসটিং ওয়েল” বা বিষ্ফোরক তেল। এটা পরিবহণ করা ছিলো খুবই ঝুকিপূর্ণ। এমনকি ক্রুমেলের এই কারাখানাটিও দুই বার মারাত্নক ভাবে ক্ষতিগ্রস্থ হয়েছিলো।[২]
+
+১৮৬৬ সালের এপ্রিলে তিন ক্রেট (এক প্রকার পাত্র) নাইট্রোগ্লিসারিন জাহাজে করে সেন্ট্রাল প্যাসিফিক রেলরোডের জন্য ক্যালিফোর্নিয়াতে পাঠানো হয়। তাঁরা দেখতে চেয়েছিলেন যে, এটা কতোটা বিস্ফোরণ ক্ষমতাসম্পন্ন এবং এর মাধ্যমে সিয়েরা নেভাদার ভিতর দিয়ে ১,৬৫৯ ফুট (৫০৬ মিটার) দীর্ঘ সামিট টানেল তৈরির প্রকল্পের কাজের গতি বাড়াতে চেয়েছিলেন। কিন্তু একটা ক্রেট বিস্ফোরিত হয়ে সান ফ্রান্সিসকোতে ওয়েলস ফার্গোর অফিস উড়ে যায় এবং ১৫ জন মানুষ নিহত হন। এ ঘটনার পর ক্যালির্ফোনিয়াতে তরল নাইট্রোগ্লিসারিনের পরিবহণ সম্পূর্ণরূপে নিষিদ্ধ করা হয়।
+
+পরবর্তীতে তরল নাইট্রোগ্লিসারিন আরো অনেক স্থানে নিষিদ্ধ করা হয়। এরকম অবস্থায় ১৮৬৭ সালে আলেফ্রেড নোবেল এন্ড কোম্পানি ডিনামাইট তৈরি করে। এতে নাইট্রোগ্লিসারিনের সাথে ক্রুমেল পাহাড়ে পাওয়া ডায়াটোমেসিউয়াস মাটি (জার্মান ভাষায় কাইসেলগার) ব্যবহার করা হয়। একই রকম মিশ্রণে তৈরি অন্যান্য বিস্ফোরক, যেমন ডুয়ালাইন (১৮৬৭), লিথোফ্র্যাকটিউর (১৮৬৯), এবং জেলিগনাইট (১৮৭৫), এছাড়াও
+
+এভাবে আরো একটি আবিস্কার, যেমন অ্যামিল নাইট্রেট বুকের ব্যাথা উপশমে কার্যকর ভূমিকা রাখে। ডাক্তার উইলিয়াম মুরেল পরীক্ষা করে দেখেন যে নাইট্রোগ্লিসারিন এনজাইনা পেকটোরিসের উপশমে এবং রক্তচাপ কমাতে কাজ করে। ১৮৭৮ সালে তিনি তাঁর রোগীদের ঔষধ হিসেবে স্বল্প মাত্রায় নাইট্রোগ্লিসরিন দেওয়া শুরু করেন। ১৮৭৯ সালে দ্য ল্যানসেট পত্রিকায় তাঁর এই পরীক্ষার ফলাফল প্রকাশিত হলে এটি ব্যাপকভাবে ব্যবহৃত হতে থাকে। যে সকল রোগী নাইট্রোগ্লিসারিন বিস্ফোরণের সাথে পরিচিত তাঁদেরকে আতঙ্ক থেকে দূরে রাখতে চিকিৎসাবিজ্ঞানে নাইট্রোগ্লিসারিনকে “গ্লিসারিল ট্রাইনাইট্রেট” বা “ট্রাইনাইট্রিন” নাম দেওয়া হয়।[৩]
+[সম্পাদনা] উৎপাদন
+
+নাইট্রোগ্লিসারিনের শিল্পোৎপাদন সাধারণত সালফিউরিক এসিড ও নাইট্রিক এসিডের ৫০:৫০ মিশ্রণের মাধ্যমে করা হয়। এটি সাদা ধূমায়িত নাইট্রিক এসিড ও গাঢ় সালফিউরিক এসিড () মিশ্রিত করার মাধ্যমেও উৎপাদন করা যায়। উৎপাদন খরচ কমানোর জন্য এ মিশ্রণে প্রায় সময়ই ধূমায়িত নাইট্রিক এসিড হিসেবে অলিয়াম (বেশি পরিমাণ সালফার ট্রাইঅক্সাইড সমৃদ্ধ সালফিউরিক এসিড), এবং অ্যাজিওট্রপিক নাইট্রিক এসিড (যেখানে নাট্রিক এসিডের পরিমাণ শতকরা ৭০ ভাগ ও বাকিটুকু পানি) ব্যবহার করা হয়।
+[সম্পাদনা] প্রপেলান্ট ও বিস্ফোরক হিসেবে ব্যবহার
+
+নাইট্রোগ্লিসারিন থেকে ১৮৭৫ সালে আলফ্রেড নোবেল ব্লাসটিং জিলেটিন (যা জেলিগনাইট নামেও পরিচিত) নামে একটি বিস্ফোরক আবিষ্কার করেন। বিস্ফোরকটি ছিলো নমনীয় এবং এর উৎপাদন খরচ ছিলো তুলনামূলক কম। তিনি এটি উৎপাদনে ব্যবহার করেন নাইট্রোগ্লিসারিন, কাঠের মণ্ড, এবং সোডিয়াম বা পটাশিয়াম নাইট্রেট।
+[সম্পাদনা] যুদ্ধের সময় উৎপাদনের হার
+
+প্রথম ও দ্বিতীয়, উভয় বিশ্বযুদ্ধেই সামরিক কাজে প্রচুর পরিমাণ নাইট্রোগ্লিসারিন উৎপাদিত ও ব্যবহৃত হয়েছিলো।
+[সম্পাদনা] প্রথম বিশ্বযুদ্ধ
+
+প্রথম বিশ্বযুদ্ধে গ্রেটনায় অবস্থিত এইচএম কারখানায়, যেটা ছিলো যুক্তরাজ্যের সবচেয়ে বড়ো প্রপেলান্ট উৎপাদন কারখানা—প্রতি সপ্তাহে ৮১২ টন করডাইট আরডিবি উৎপাদন করতো। আর এর জন্য প্রতি সপ্তাহে ৩৩৬ টন নাইট্রোগ্লিসারিন প্রয়োজন পড়তো। এছাড়া আরডিবি বিস্ফোরক উৎপাদনের জন্য হলটন হিথে রয়্যাল নেভি করডাইট ইন্ডাস্ট্রি নামে যুক্তরাজ্যর রয়্যাল নেভির নিজস্ব কারখানা ছিলো।
+
+কানাডাতে প্রথম বিশ্বযুদ্ধের সময় আরো একটি অধূমায়িত বিস্ফোরক উৎপাদন কারখানা তৈরি হয়েছিলো। কানাডিয়ান এক্সপ্লোসিভ লিমিটেড প্রতি মাসে ১.৫০০,০০০ পাউন্ড (৬৮১ টন) করডাইট উৎপাদনের জন্য ওন্টারিওর নোবেল-এ এই কারখানাটি তৈরি করেছিলো। এর জন্য প্রতি মাসে ২৮৬ টন নাইট্রোগ্লিসারিন প্রয়োজন হতো।
+[সম্পাদনা] তথ্যসূত্র
+
+    ↑ NobelPrize.org: Emil Nobel
+    ↑ NobelPrize.org: Krümmel
+    ↑ Sneader, Walter. Drug Discovery: A History. John Wiley and Sons, 2005 ISBN 0-471-89980-1
+
+বিষয়শ্রেণীসমূহ:
+
+    বিস্ফোরক
+    অজৈব রসায়ন
+
+
+
+
+কার্বন ← নাইট্রোজেন → অক্সিজেন
+-
+↑
+N
+↓
+P 	
+
+
+Element 1: হাইড্রোজেন (H), Other non-metal
+		
+Element 2: হিলিয়াম (He), Noble gas
+Element 3: লিথিয়াম (Li), Alkali metal
+	
+Element 4: বেরিলিয়াম (Be), Alkaline earth metal
+		
+Element 5: বোরন (B), Metalloid
+	
+Element 6: কার্বন (C), Other non-metal
+	
+Element 7: নাইট্রোজেন (N), Other non-metal
+	
+Element 8: অক্সিজেন (O), Other non-metal
+	
+Element 9: ফ্লোরিন (F), Halogen
+	
+Element 10: নিয়ন (Ne), Noble gas
+Element 11: সোডিয়াম (Na), Alkali metal
+	
+Element 12: ম্যাগনেসিয়াম (Mg), Alkaline earth metal
+		
+Element 13: অ্যালুমিনিয়াম (Al), Other metal
+	
+Element 14: সিলিকন (Si), Metalloid
+	
+Element 15: ফসফরাস (P), Other non-metal
+	
+Element 16: সালফার (S), Other non-metal
+	
+Element 17: ক্লোরিন (Cl), Halogen
+	
+Element 18: আর্গন (Ar), Noble gas
+Element 19: পটাশিয়াম (K), Alkali metal
+	
+Element 20: ক্যালসিয়াম (Ca), Alkaline earth metal
+	
+Element 21: স্ক্যানডিয়াম (Sc), Transition metal
+		
+Element 22: টাইটানিয়াম (Ti), Transition metal
+	
+Element 23: ভ্যানাডিয়াম (V), Transition metal
+	
+Element 24: ক্রোমিয়াম (Cr), Transition metal
+	
+Element 25: ম্যাঙ্গানিজ (Mn), Transition metal
+	
+Element 26: লোহা (Fe), Transition metal
+	
+Element 27: কোবাল্ট (Co), Transition metal
+	
+Element 28: নিকেল (Ni), Transition metal
+	
+Element 29: তামা (Cu), Transition metal
+	
+Element 30: দস্তা (Zn), Transition metal
+	
+Element 31: গ্যালিয়াম (Ga), Other metal
+	
+Element 32: জার্মেনিয়াম (Ge), Metalloid
+	
+Element 33: আর্সেনিক (As), Metalloid
+	
+Element 34: সেলেনিয়াম (Se), Other non-metal
+	
+Element 35: ব্রোমিন (Br), Halogen
+	
+Element 36: ক্রিপটন (Kr), Noble gas
+Element 37: রুবিডিআম (Rb), Alkali metal
+	
+Element 38: স্ট্রনসিয়াম (Sr), Alkaline earth metal
+	
+Element 39: ইটরিয়াম (Y), Transition metal
+		
+Element 40: জারকোনিয়াম (Zr), Transition metal
+	
+Element 41: নাইওবিয়াম (Nb), Transition metal
+	
+Element 42: মলিবডিনাম (Mo), Transition metal
+	
+Element 43: টেকনিসিয়াম (Tc), Transition metal
+	
+Element 44: রুথেনিয়াম (Ru), Transition metal
+	
+Element 45: রোহডিয়াম (Rh), Transition metal
+	
+Element 46: প্যালাডিয়াম (Pd), Transition metal
+	
+Element 47: রুপা (Ag), Transition metal
+	
+Element 48: ক্যাডমিয়াম (Cd), Transition metal
+	
+Element 49: ইন্ডিয়াম (In), Other metal
+	
+Element 50: টিন (Sn), Other metal
+	
+Element 51: অ্যান্টিমনি (Sb), Metalloid
+	
+Element 52: টেলুরিয়াম (Te), Metalloid
+	
+Element 53: আয়োডিন (I), Halogen
+	
+Element 54: জেনন (Xe), Noble gas
+Element 55: সিজিয়াম (Cs), Alkali metal
+	
+Element 56: বেরিয়াম (Ba), Alkaline earth metal
+	
+Element 57: ল্যান্থানাম (La), Lanthanoid
+	
+Element 58: সিরিয়াম (Ce), Lanthanoid
+	
+Element 59: প্রাসিওডিমিয়াম (Pr), Lanthanoid
+	
+Element 60: নিওডিমিয়াম (Nd), Lanthanoid
+	
+Element 61: প্রমিথিয়াম (Pm), Lanthanoid
+	
+Element 62: সামারিয়াম (Sm), Lanthanoid
+	
+Element 63: ইউরোপিয়াম (Eu), Lanthanoid
+	
+Element 64: গ্যাডোলিনিয়াম (Gd), Lanthanoid
+	
+Element 65: টারবিয়াম (Tb), Lanthanoid
+	
+Element 66: ডিসপ্রোসিয়াম (Dy), Lanthanoid
+	
+Element 67: হলমিয়াম (Ho), Lanthanoid
+	
+Element 68: এরবিয়াম (Er), Lanthanoid
+	
+Element 69: থুলিয়াম (Tm), Lanthanoid
+	
+Element 70: ইটারবিয়াম (Yb), Lanthanoid
+	
+Element 71: লুটেসিয়াম (Lu), Lanthanoid
+	
+Element 72: হ্যাফনিয়াম (Hf), Transition metal
+	
+Element 73: ট্যানটালাম (Ta), Transition metal
+	
+Element 74: টাংস্টেন (W), Transition metal
+	
+Element 75: রিনিয়াম (Re), Transition metal
+	
+Element 76: অসমিয়াম (Os), Transition metal
+	
+Element 77: ইরিডিয়াম (Ir), Transition metal
+	
+Element 78: প্লাটিনাম (Pt), Transition metal
+	
+Element 79: সোনা (Au), Transition metal
+	
+Element 80: পারদ (Hg), Transition metal
+	
+Element 81: থ্যালিয়াম (Tl), Other metal
+	
+Element 82: সীসা (Pb), Other metal
+	
+Element 83: বিসমাথ (Bi), Other metal
+	
+Element 84: পোলোনিয়াম (Po), Other metal
+	
+Element 85: এস্টাটিন (At), Halogen
+	
+Element 86: রেডন (Rn), Noble gas
+Element 87: ফ্রান্সিয়াম (Fr), Alkali metal
+	
+Element 88: রেডিয়াম (Ra), Alkaline earth metal
+	
+Element 89: অ্যাক্টিনিয়াম (Ac), Actinoid
+	
+Element 90: থোরিয়াম (Th), Actinoid
+	
+Element 91: প্রোটেক্টিনিয়াম (Pa), Actinoid
+	
+Element 92: ইউরেনিয়াম (U), Actinoid
+	
+Element 93: নেপচুনিয়াম (Np), Actinoid
+	
+Element 94: প্লুটোনিয়াম (Pu), Actinoid
+	
+Element 95: অ্যামেরিসিয়াম (Am), Actinoid
+	
+Element 96: কুরিয়াম (Cm), Actinoid
+	
+Element 97: বার্কেলিয়াম (Bk), Actinoid
+	
+Element 98: ক্যালিফোর্নিয়াম (Cf), Actinoid
+	
+Element 99: আইনস্টাইনিয়াম (Es), Actinoid
+	
+Element 100: ফার্মিয়াম (Fm), Actinoid
+	
+Element 101: মেন্ডেলেভিয়াম (Md), Actinoid
+	
+Element 102: নোবেলিয়াম (No), Actinoid
+	
+Element 103: লরেনসিয়াম (Lr), Actinoid
+	
+Element 104: রাদারফোর্ডিয়াম (Rf), Transition metal
+	
+Element 105: ডুবনিয়াম (Db), Transition metal
+	
+Element 106: সিবোরজিয়াম (Sg), Transition metal
+	
+Element 107: বোহরিয়াম (Bh), Transition metal
+	
+Element 108: হ্যাসিয়াম (Hs), Transition metal
+	
+Element 109: মিটনেরিয়াম (Mt), Transition metal
+	
+Element 110: ডার্মস্টেটিয়াম (Ds), Transition metal
+	
+Element 111: রন্টজেনিয়াম (Rg), Transition metal
+	
+Element 112: কোপার্নিসিয়াম (Cn), Transition metal
+	
+Element 113: ইউনুনট্রিয়াম (Uut)
+	
+Element 114: ইউনুনকোয়াডিয়াম (Uuq)
+	
+Element 115: ইউনুনপেন্টিয়াম (Uup)
+	
+Element 116: ইউনুনহেক্সিয়াম (Uuh)
+	
+Element 117: ইউনুনসেপটিয়াম (Uus)
+	
+Element 118: ইউনুনকটিয়াম (Uuo)
+নাইট্রোজেন has a Hexagonal crystal structure
+7N
+পর্যায় সারণী
+ভৌত রূপ
+বর্ণহীন গ্যাস, তরল অথবা কঠিন
+
+
+Spectral lines of Nitrogen
+সাধারণ বৈশিষ্ট
+নাম, প্রতীক, পারমাণবিক সংখ্যা 	নাইট্রোজেন, N, 7
+উচ্চারণ 	/ˈnaɪtrɵdʒɨn/ NYE-tro-jin
+রাসায়নিক শ্রেণী 	nonmetal
+শ্রেণী, পর্যায়, ব্লক 	15, 2, p
+পারমাণবিক ওজন 	14.0067(2)
+ইলেকট্রন বিন্যাস 	1s2 2s2 2p3
+শক্তিস্তরে ইলেকট্রন সংখ্যা 	2, 5 (ছবিতে দেখুন)
+ভৌত বৈশিষ্ট্য
+দশা 	গ্যাস
+ঘনত্ব 	(0 °C, 101.325 kPa)
+1.251 g/L
+স্ফুটনাংকে তরলের ঘনত্ব 	0.808 g·cm−3
+গলনাংক 	63.15 K, -210.00 °C, -346.00 °F
+স্ফুটনাংক 	77.36 K, -195.79 °C, -320.33 °F
+ত্রৈধ বিন্দু 	63.1526 K (-210°C), 12.53 kPa
+Critical point 	126.19 K, 3.3978 MPa
+ফিউশনের এনথালপি 	(N2) 0.72 kJ·mol−1
+Heat of vaporization 	(N2) 5.56 kJ·mol−1
+তাপ ধারকত্ব 	(N2)
+29.124 J·mol−1·K−1
+Vapor pressure
+P (Pa) 	1 	10 	100 	1 k 	10 k 	100 k
+at T (K) 	37 	41 	46 	53 	62 	77
+পারমাণবিক বৈশিষ্ট্য
+জারন সংখ্যা 	5, 4, 3, 2, 1, -1, -2, -3
+(strongly acidic oxide)
+তাড়িৎচুম্বকত্ব 	3.04 (Pauling scale)
+আয়নীকরণ শক্তি
+(বিস্তারিত) 	প্রথম: 1402.3 kJ·mol−1
+দ্বিতীয়: 2856 kJ·mol−1
+তৃতীয়: 4578.1 kJ·mol−1
+Covalent radius 	71±1 pm
+Van der Waals radius 	155 pm
+অন্যান্য বৈশিষ্ট্য
+কেলাসের গঠন 	হেক্সাগোনাল
+চুম্বকত্ব 	diamagnetic
+তাপ পরিবহকত্ব 	25.83 × 10−3 W·m−1·K−1
+Speed of sound 	(gas, 27 °C) 353 m·s−1
+ক্যাস নিবন্ধন নম্বর 	7727-37-9
+কয়েকটি উল্লেখযোগ্য সমস্থানিক
+মূল নিবন্ধ: Isotopes of nitrogen
+iso 	NA 	half-life 	DM 	DE (MeV) 	DP
+13N 	syn 	9.965 min 	ε 	2.220 	13C
+14N 	99.634% 	N 7টি নিউট্রন নিয়ে স্থিত হয়
+15N 	0.366% 	N 8টি নিউট্রন নিয়ে স্থিত হয়
+প্র • আ • স
+· r
+
+
+নাইট্রোজেন বা যবক্ষারজান একটি মৌল। এর প্রতীক N ও পারমানবিক সংখ্যা ৭।
+সূচিপত্র
+ [আড়ালে রাখো] 
+
+    ১ আবিষ্কার
+    ২ বৈশিষ্ট্য
+    ৩ যৌগসমূহ
+    ৪ রাসায়নিক বিক্রিয়া
+    ৫ ব্যবহার
+    ৬ তথ্যসূত্র
+    ৭ আরও দেখুন
+    ৮ বহিঃসংযোগ
+
+
+
+
+পর্যায় সারণীর রাসায়নিক শ্রেণীসমূহ ক্ষার ধাতু 	মৃৎক্ষার ধাতু 	ল্যান্থানাইড 	অ্যাক্টিনাইড 	অবস্থান্তর ধাতু
+দুর্বল ধাতু 	অপধাতু 	অধাতু 	হ্যালোজেন 	নিষ্ক্রিয় গ্যাস
+নাম 	প্রতীক 	পারমানবিক সংখ্যা 	পারমানবিক ভর 	শ্রেণী 	পর্যায়
+Actinium 	Ac 	89 	[227][১] 	  	7
+Aluminium (Aluminum) 	Al 	13 	26.9815386(8) 	13 	3
+Aluminum; see Aluminium 	Al
+Americium 	Am 	95 	[243][১] 	  	7
+Antimony (Stibium) 	Sb 	51 	121.760(1)[২] 	15 	5
+Argentum—see Silver 	Ag
+Argon 	Ar 	18 	39.948(1)[২] [৩] 	18 	3
+Arsenic 	As 	33 	74.92160(2) 	15 	4
+Astatine 	At 	85 	[210][১] 	17 	6
+Aurum—see Gold 	Au
+Barium 	Ba 	56 	137.327(7) 	2 	6
+Berkelium 	Bk 	97 	[247][১] 	  	7
+Beryllium 	Be 	4 	9.012182(3) 	2 	2
+Bismuth 	Bi 	83 	208.98040(1) 	15 	6
+Bohrium 	Bh 	107 	[264][১] 	7 	7
+Boron 	B 	5 	10.811(7)[২] [৪] [৩] 	13 	2
+Bromine 	Br 	35 	79.904(1) 	17 	4
+Cadmium 	Cd 	48 	112.411(8)[২] 	12 	5
+Caesium (Cesium) 	Cs 	55 	132.9054519(2) 	1 	6
+Calcium 	Ca 	20 	40.078(4)[২] 	2 	4
+Californium 	Cf 	98 	[251][১] 	  	7
+Carbon 	C 	6 	12.0107(8)[২] [৩] 	14 	2
+Cerium 	Ce 	58 	140.116(1)[২] 	  	6
+Cesium—see Caesium 	Cs
+Chlorine 	Cl 	17 	35.453(2)[২] [৪] [৩] 	17 	3
+Chromium 	Cr 	24 	51.9961(6) 	6 	4
+Cobalt 	Co 	27 	58.933195(5) 	9 	4
+Copper (Cuprum) 	Cu 	29 	63.546(3)[৩] 	11 	4
+Curium 	Cm 	96 	[247][১] 	  	7
+Darmstadtium 	Ds 	110 	[271][১] 	10 	7
+Dubnium 	Db 	105 	[262][১] 	5 	7
+Dysprosium 	Dy 	66 	162.500(1)[২] 	  	6
+Einsteinium 	Es 	99 	[252][১] 	  	7
+Erbium 	Er 	68 	167.259(3)[২] 	  	6
+Europium 	Eu 	63 	151.964(1)[২] 	  	6
+Fermium 	Fm 	100 	[257][১] 	  	7
+Ferrum—see Iron 	Fe
+Fluorine 	F 	9 	18.9984032(5) 	17 	2
+Francium 	Fr 	87 	[223][১] 	1 	7
+Gadolinium 	Gd 	64 	157.25(3)[২] 	  	6
+Gallium 	Ga 	31 	69.723(1) 	13 	4
+Germanium 	Ge 	32 	72.64(1) 	14 	4
+Gold (Aurum) 	Au 	79 	196.966569(4) 	11 	6
+Hafnium 	Hf 	72 	178.49(2) 	4 	6
+Hassium 	Hs 	108 	[277][১] 	8 	7
+Helium 	He 	2 	4.002602(2)[২] [৩] 	18 	1
+Holmium 	Ho 	67 	164.930 32(2) 	  	6
+Hydrargyrum—see Mercury 	Hg
+Hydrogen 	H 	1 	1.00794(7)[২] [৪] [৩] 	1 	1
+Indium 	In 	49 	114.818(3) 	13 	5
+Iodine 	I 	53 	126.904 47(3) 	17 	5
+Iridium 	Ir 	77 	192.217(3) 	9 	6
+Iron (Ferrum) 	Fe 	26 	55.845(2) 	8 	4
+Kalium—see Potassium 	K
+Krypton 	Kr 	36 	83.798(2)[২] [৪] 	18 	4
+Lanthanum 	La 	57 	138.90547(7)[২] 	  	6
+Lawrencium 	Lr 	103 	[262][১] 	3 	7
+Lead (Plumbum) 	Pb 	82 	207.2(1)[২] [৩] 	14 	6
+Lithium 	Li 	3 	6.941(2)[২] [৪] [৩] [৫] 	1 	2
+Lutetium 	Lu 	71 	174.967(1)[২] 	3 	6
+Magnesium 	Mg 	12 	24.3050(6) 	2 	3
+Manganese 	Mn 	25 	54.938045(5) 	7 	4
+Meitnerium 	Mt 	109 	[268][১] 	9 	7
+Mendelevium 	Md 	101 	[258][১] 	  	7
+Mercury (Hydrargyrum) 	Hg 	80 	200.59(2) 	12 	6
+Molybdenum 	Mo 	42 	95.94(2)[২] 	6 	5
+Natrium—see Sodium 	Na
+Neodymium 	Nd 	60 	144.242(3)[২] 	  	6
+Neon 	Ne 	10 	20.1797(6)[২] [৪] 	18 	2
+Neptunium 	Np 	93 	[237][১] 	  	7
+Nickel 	Ni 	28 	58.6934(2) 	10 	4
+Niobium 	Nb 	41 	92.906 38(2) 	5 	5
+Nitrogen 	N 	7 	14.0067(2)[২] [৩] 	15 	2
+Nobelium 	No 	102 	[259][১] 	  	7
+Osmium 	Os 	76 	190.23(3)[২] 	8 	6
+Oxygen 	O 	8 	15.9994(3)[২] [৩] 	16 	2
+Palladium 	Pd 	46 	106.42(1)[২] 	10 	5
+Plumbum—see Lead 	Pb
+Phosphorus 	P 	15 	30.973762(2) 	15 	3
+Platinum 	Pt 	78 	195.084(9) 	10 	6
+Plutonium 	Pu 	94 	[244][১] 	  	7
+Polonium 	Po 	84 	[210][১] 	16 	6
+Potassium (Kalium) 	K 	19 	39.0983(1) 	1 	4
+Praseodymium 	Pr 	59 	140.90765(2) 	  	6
+Promethium 	Pm 	61 	[145][১] 	  	6
+Protactinium 	Pa 	91 	231.03588(2)[১] 	  	7
+Radium 	Ra 	88 	[226][১] 	2 	7
+Radon 	Rn 	86 	[220][১] 	18 	6
+Rhenium 	Re 	75 	186.207(1) 	7 	6
+Rhodium 	Rh 	45 	102.905 50(2) 	9 	5
+Roentgenium 	Rg 	111 	[272][১] 	11 	7
+Rubidium 	Rb 	37 	85.4678(3)[২] 	1 	5
+Ruthenium 	Ru 	44 	101.07(2)[২] 	8 	5
+Rutherfordium 	Rf 	104 	261[১] 	4 	7
+Samarium 	Sm 	62 	150.36(2)[২] 	  	6
+Scandium 	Sc 	21 	44.955912(6) 	3 	4
+Seaborgium 	Sg 	106 	[266][১] 	6 	7
+Selenium 	Se 	34 	78.96(3)[৩] 	16 	4
+Silicon 	Si 	14 	28.0855(3)[৩] 	14 	3
+Silver (Argentum) 	Ag 	47 	107.8682(2)[২] 	11 	5
+Sodium (Natrium) 	Na 	11 	22.98976928(2) 	1 	3
+Stannum—see Tin 	Sn
+Stibium—see Antimony 	Sb
+Strontium 	Sr 	38 	87.62(1)[২] [৩] 	2 	5
+Sulfur 	S 	16 	32.065(5)[২] [৩] 	16 	3
+Tantalum 	Ta 	73 	180.94788(2) 	5 	6
+Technetium 	Tc 	43 	[98][১] 	7 	5
+Tellurium 	Te 	52 	127.60(3)[২] 	16 	5
+Terbium 	Tb 	65 	158.92535(2) 	  	6
+Thallium 	Tl 	81 	204.3833(2) 	13 	6
+Thorium 	Th 	90 	232.03806(2)[১] [২] 	  	7
+Thulium 	Tm 	69 	168.93421(2) 	  	6
+Tin (Stannum) 	Sn 	50 	118.710(7)[২] 	14 	5
+Titanium 	Ti 	22 	47.867(1) 	4 	4
+Tungsten (Wolfram) 	W 	74 	183.84(1) 	6 	6
+Ununbium 	Uub 	112 	[285][১] 	12 	7
+Ununhexium 	Uuh 	116 	[292][১] 	16 	7
+Ununoctium 	Uuo 	118 	[294][১] 	18 	7
+Ununpentium 	Uup 	115 	[288][১] 	15 	7
+Ununquadium 	Uuq 	114 	[289][১] 	14 	7
+Ununtrium 	Uut 	113 	[284][১] 	13 	7
+Uranium 	U 	92 	238.02891(3)[১] [২] [৪] 	  	7
+Vanadium 	V 	23 	50.9415(1) 	5 	4
+Wolfram—see Tungsten 	W
+Xenon 	Xe 	54 	131.293(6)[২] [৪] 	18 	5
+Ytterbium 	Yb 	70 	173.04(3)[২] 	  	6
+Yttrium 	Y 	39 	88.90585(2) 	3 	5
+Zinc 	Zn 	30 	65.409(4) 	12 	4
+Zirconium 	Zr 	40 	91.224(2)[২] 	4 	5
+পর্যায় সারণীর রাসায়নিক শ্রেণীসমূহ ক্ষার ধাতু 	মৃৎক্ষার ধাতু 	ল্যান্থানাইড 	অ্যাক্টিনাইড 	অবস্থান্তর ধাতু
+দুর্বল ধাতু 	অপধাতু 	অধাতু 	হ্যালোজেন 	নিষ্ক্রিয় গ্যাস
+[সম্পাদনা] মন্তব্য
+
+    ↑ ১.০০ ১.০১ ১.০২ ১.০৩ ১.০৪ ১.০৫ ১.০৬ ১.০৭ ১.০৮ ১.০৯ ১.১০ ১.১১ ১.১২ ১.১৩ ১.১৪ ১.১৫ ১.১৬ ১.১৭ ১.১৮ ১.১৯ ১.২০ ১.২১ ১.২২ ১.২৩ ১.২৪ ১.২৫ ১.২৬ ১.২৭ ১.২৮ ১.২৯ ১.৩০ ১.৩১ ১.৩২ ১.৩৩ ১.৩৪ ১.৩৫ The element does not have any stable nuclides, and a value in brackets, e.g. [209], indicates the mass number of the longest-lived isotope of the element. However, three elements, Thorium, Protactinium, and Uranium, have a characteristic terrestrial isotopic composition, and thus their atomic mass given.
+    ↑ ২.০০ ২.০১ ২.০২ ২.০৩ ২.০৪ ২.০৫ ২.০৬ ২.০৭ ২.০৮ ২.০৯ ২.১০ ২.১১ ২.১২ ২.১৩ ২.১৪ ২.১৫ ২.১৬ ২.১৭ ২.১৮ ২.১৯ ২.২০ ২.২১ ২.২২ ২.২৩ ২.২৪ ২.২৫ ২.২৬ ২.২৭ ২.২৮ ২.২৯ ২.৩০ ২.৩১ ২.৩২ ২.৩৩ ২.৩৪ ২.৩৫ ২.৩৬ ২.৩৭ ২.৩৮ The isotopic composition of this element varies in some geological specimens, and the variation may exceed the uncertainty stated in the table.
+    ↑ ৩.০০ ৩.০১ ৩.০২ ৩.০৩ ৩.০৪ ৩.০৫ ৩.০৬ ৩.০৭ ৩.০৮ ৩.০৯ ৩.১০ ৩.১১ ৩.১২ ৩.১৩ ৩.১৪ The isotopic composition varies in terrestrial material such that a more precise atomic weight can not be given.
+    ↑ ৪.০ ৪.১ ৪.২ ৪.৩ ৪.৪ ৪.৫ ৪.৬ ৪.৭ The isotopic composition of the element can vary in commercial materials, which can cause the atomic weight to deviate significantly from the given value.
+    ↑ The atomic weight of commercial Lithium can vary between 6.939 and 6.996—analysis of the specific material is necessary to find a more accurate value.
+
+[সম্পাদনা] তথ্যসূত্র
+
+    Atomic Weights of the Elements 2001, Pure Appl. Chem. 75(8), 1107-1122, 2003. Retrieved June 30, 2005. Atomic weights of elements with atomic numbers from 1-109 taken from this source.
+    IUPAC Standard Atomic Weights Revised (2005).
+    WebElements Periodic Table. Retrieved June 30, 2005. Atomic weights of elements with atomic numbers 110-116 taken from this source.
+
+[সম্পাদনা] আরও দেখুন
+
+পর্যায় সারণী
+আদর্শ সারণী | উল্লম্ব সারণী | নাম সম্বলিত সারণী | নাম ও পারমানবিক ভরসহ সারণী | নাম ও পারমানবিক ভরসহ আরেকটি সংস্করণ | শুধু নাম ও পারমানবিক ভর সম্বলিত সারণী | ইনলাইন এফ-ব্লক | ২১৮ পর্যন্ত মৌল | ইলেকট্রন বিন্যাস | ধাতু ও অধাতু | ব্লক অনুসারে সারণী | বিকল্পসমূহ
+
+রাসায়নিক মৌলসমূহের তালিকা
+নাম | পারমানবিক প্রতীক | পারমানবিক সংখ্যা | স্ফুটনাংক | গলনাংক | ঘনত্ব | পারমানবিক ভর
+শ্রেণীসমূহ:   ১ -  ২ -  ৩ -  ৪ -  ৫ -  ৬ -  ৭ -  ৮ -  ৯ - ১০ - ১১ - ১২ - ১৩ - ১৪ - ১৫ - ১৬ - ১৭ - ১৮
+পর্যায়সমূহ:  ১  -  ২  -  ৩  -  ৪  -  ৫  -  ৬  -  ৭  -  ৮  -  ৯
+রাসায়নিক শ্রেণীসমূহ:   ক্ষার  -  মৃৎ ক্ষার  -  ল্যান্থানাইড  -  এক্টিনাইড  -  অবস্থান্তর ধাতু  -  দুর্বল ধাতু  -  অপধাতু  -  অধাতু  -  হ্যালোজেন  -  নিষ্ক্রিয় গ্যাস
+ব্লকসমূহ:  এস-ব্লক  -  পি-ব্লক  -  ডি-ব্লক  -  এফ-ব্লক  -  জি-ব্লক
+বিষয়শ্রেণীসমূহ:
+
+    পর্যায় সারণী
+    মৌলিক পদার্থ
+
+
+
+
+28 	কোবাল্ট ← নিকেলl → তামা
+-
+↑
+Ni
+↓
+Pd 	
+Ni-TableImage.png
+পর্যায় সারণী
+সাধারণ বৈশিষ্ট্য
+নাম, প্রতীক, পারমাণবিক সংখ্যা 	নিকেলl, Ni, 28
+রাসায়নিক শ্রেণী 	transition metals
+গ্রুপ, পর্যায়, ব্লক 	10, 4, d
+ভৌত রূপ 	lustrous, metallic
+Ni,28.jpg
+পারমাণবিক ভর 	58.6934(2) g/mol
+ইলেক্ট্রন বিন্যাস 	[Ar] 3d8 4s2
+প্রতি শক্তিস্তরে ইলেকট্রন সংখ্যা 	2, 8, 16, 2
+ভৌত বৈশিষ্ট্য
+দশা 	কঠিন
+ঘনত্ব (সাধারণ তাপ ও চাপে) 	8.908 g/cm³
+গলনাংকে তরল ঘনত্ব 	7.81 গ্রাম/সেমি³
+গলনাঙ্ক 	1728 K
+(1455 °C, 2651 °F)
+স্ফুটনাঙ্ক 	3186 K
+(2913 °C, 5275 °F)
+গলনের লীন তাপ 	17.48 kJ/mol
+বাষ্পীভবনের লীন তাপ 	377.5 kJ/mol
+তাপধারণ ক্ষমতা 	(২৫ °সে) 26.07 জুল/(মোল·কে)
+বাষ্প চাপ P/প্যাসকেল 	১ 	১০ 	১০০ 	১ কে 	১০ কে 	১০০ কে
+T/কেলভিন তাপমাত্রায় 	1783 	1950 	2154 	2410 	2741 	3184
+পারমাণবিক বৈশিষ্ট্য
+কেলাসীয় গঠন 	cubic face centered
+জারণ অবস্থা 	2, 3
+(mildly basic oxide)
+তড়িৎ ঋণাত্মকতা 	1.91 (পাউলিং স্কেল)
+আয়নীকরণ শক্তি
+(বিস্তারিত) 	প্রথম: 737.1 কিলোজুল/মোল
+দ্বিতীয়: 1753.0 কিলোজুল/মোল
+তৃতীয়: 3395 কিলোজুল/মোল
+পারমাণবিক ব্যাসার্ধ 	135 pm
+Atomic radius (calc.) 	149 pm
+Covalent radius 	121 pm
+Van der Waals radius 	163 pm
+অন্যান্য বৈশিষ্ট্য
+Magnetic ordering 	ferromagnetic
+Electrical resistivity 	(20 °C) 69.3 nΩ·m
+তাপ পরিবাহিতা 	(300 K) 90.9 W/(m·K)
+Thermal expansion 	(25 °C) 13.4 µm/(m·K)
+Speed of sound (thin rod) 	(r.t.) 4900 m/s
+ইয়ং এর গুণাঙ্ক 	200 GPa
+Shear modulus 	76 GPa
+Bulk modulus 	180 GPa
+Poisson ratio 	0.31
+Mohs hardness 	4.0
+Vickers hardness 	638 MPa
+Brinell hardness 	700 MPa
+সি এ এস নিবন্ধন সংখ্যা 	7440-02-0
+কয়েকটি উল্লেখযোগ্য সমস্থানিক
+প্রধান নিবন্ধ: nickelের সমস্থানিক iso 	NA 	half-life 	DM 	DE (MeV) 	DP
+56Ni 	syn 	6.075 d 	ε 	- 	56Co
+γ 	0.158, 0.811 	-
+58Ni 	68.077% 	Ni 30টি নিউট্রন নিয়ে স্থিত হয়
+59Ni 	syn 	76000 y 	ε 	- 	59Co
+60Ni 	26.233% 	Ni 32টি নিউট্রন নিয়ে স্থিত হয়
+61Ni 	1.14% 	Ni 33টি নিউট্রন নিয়ে স্থিত হয়
+62Ni 	3.634% 	Ni 34টি নিউট্রন নিয়ে স্থিত হয়
+63Ni 	syn 	100.1 y 	β- 	0.0669 	63Cu
+64Ni 	0.926% 	Ni 36টি নিউট্রন নিয়ে স্থিত হয়
+References
+
+
+নিকেল (রাসায়নিক সংকেত:,Ni পারমাণবিক সংখ্যা ২৮) একটি মৌলিক পদার্থ। ।
+
+
+
+
+
+ফ্লুরিন ← নিয়ন → সোডিয়াম
+He
+↑
+Ne
+↓
+Ar 	
+
+
+Element 1: হাইড্রোজেন (H), Other non-metal
+		
+Element 2: হিলিয়াম (He), Noble gas
+Element 3: লিথিয়াম (Li), Alkali metal
+	
+Element 4: বেরিলিয়াম (Be), Alkaline earth metal
+		
+Element 5: বোরন (B), Metalloid
+	
+Element 6: কার্বন (C), Other non-metal
+	
+Element 7: নাইট্রোজেন (N), Other non-metal
+	
+Element 8: অক্সিজেন (O), Other non-metal
+	
+Element 9: ফ্লোরিন (F), Halogen
+	
+Element 10: নিয়ন (Ne), Noble gas
+Element 11: সোডিয়াম (Na), Alkali metal
+	
+Element 12: ম্যাগনেসিয়াম (Mg), Alkaline earth metal
+		
+Element 13: অ্যালুমিনিয়াম (Al), Other metal
+	
+Element 14: সিলিকন (Si), Metalloid
+	
+Element 15: ফসফরাস (P), Other non-metal
+	
+Element 16: সালফার (S), Other non-metal
+	
+Element 17: ক্লোরিন (Cl), Halogen
+	
+Element 18: আর্গন (Ar), Noble gas
+Element 19: পটাশিয়াম (K), Alkali metal
+	
+Element 20: ক্যালসিয়াম (Ca), Alkaline earth metal
+	
+Element 21: স্ক্যানডিয়াম (Sc), Transition metal
+		
+Element 22: টাইটানিয়াম (Ti), Transition metal
+	
+Element 23: ভ্যানাডিয়াম (V), Transition metal
+	
+Element 24: ক্রোমিয়াম (Cr), Transition metal
+	
+Element 25: ম্যাঙ্গানিজ (Mn), Transition metal
+	
+Element 26: লোহা (Fe), Transition metal
+	
+Element 27: কোবাল্ট (Co), Transition metal
+	
+Element 28: নিকেল (Ni), Transition metal
+	
+Element 29: তামা (Cu), Transition metal
+	
+Element 30: দস্তা (Zn), Transition metal
+	
+Element 31: গ্যালিয়াম (Ga), Other metal
+	
+Element 32: জার্মেনিয়াম (Ge), Metalloid
+	
+Element 33: আর্সেনিক (As), Metalloid
+	
+Element 34: সেলেনিয়াম (Se), Other non-metal
+	
+Element 35: ব্রোমিন (Br), Halogen
+	
+Element 36: ক্রিপটন (Kr), Noble gas
+Element 37: রুবিডিআম (Rb), Alkali metal
+	
+Element 38: স্ট্রনসিয়াম (Sr), Alkaline earth metal
+	
+Element 39: ইটরিয়াম (Y), Transition metal
+		
+Element 40: জারকোনিয়াম (Zr), Transition metal
+	
+Element 41: নাইওবিয়াম (Nb), Transition metal
+	
+Element 42: মলিবডিনাম (Mo), Transition metal
+	
+Element 43: টেকনিসিয়াম (Tc), Transition metal
+	
+Element 44: রুথেনিয়াম (Ru), Transition metal
+	
+Element 45: রোহডিয়াম (Rh), Transition metal
+	
+Element 46: প্যালাডিয়াম (Pd), Transition metal
+	
+Element 47: রুপা (Ag), Transition metal
+	
+Element 48: ক্যাডমিয়াম (Cd), Transition metal
+	
+Element 49: ইন্ডিয়াম (In), Other metal
+	
+Element 50: টিন (Sn), Other metal
+	
+Element 51: অ্যান্টিমনি (Sb), Metalloid
+	
+Element 52: টেলুরিয়াম (Te), Metalloid
+	
+Element 53: আয়োডিন (I), Halogen
+	
+Element 54: জেনন (Xe), Noble gas
+Element 55: সিজিয়াম (Cs), Alkali metal
+	
+Element 56: বেরিয়াম (Ba), Alkaline earth metal
+	
+Element 57: ল্যান্থানাম (La), Lanthanoid
+	
+Element 58: সিরিয়াম (Ce), Lanthanoid
+	
+Element 59: প্রাসিওডিমিয়াম (Pr), Lanthanoid
+	
+Element 60: নিওডিমিয়াম (Nd), Lanthanoid
+	
+Element 61: প্রমিথিয়াম (Pm), Lanthanoid
+	
+Element 62: সামারিয়াম (Sm), Lanthanoid
+	
+Element 63: ইউরোপিয়াম (Eu), Lanthanoid
+	
+Element 64: গ্যাডোলিনিয়াম (Gd), Lanthanoid
+	
+Element 65: টারবিয়াম (Tb), Lanthanoid
+	
+Element 66: ডিসপ্রোসিয়াম (Dy), Lanthanoid
+	
+Element 67: হলমিয়াম (Ho), Lanthanoid
+	
+Element 68: এরবিয়াম (Er), Lanthanoid
+	
+Element 69: থুলিয়াম (Tm), Lanthanoid
+	
+Element 70: ইটারবিয়াম (Yb), Lanthanoid
+	
+Element 71: লুটেসিয়াম (Lu), Lanthanoid
+	
+Element 72: হ্যাফনিয়াম (Hf), Transition metal
+	
+Element 73: ট্যানটালাম (Ta), Transition metal
+	
+Element 74: টাংস্টেন (W), Transition metal
+	
+Element 75: রিনিয়াম (Re), Transition metal
+	
+Element 76: অসমিয়াম (Os), Transition metal
+	
+Element 77: ইরিডিয়াম (Ir), Transition metal
+	
+Element 78: প্লাটিনাম (Pt), Transition metal
+	
+Element 79: সোনা (Au), Transition metal
+	
+Element 80: পারদ (Hg), Transition metal
+	
+Element 81: থ্যালিয়াম (Tl), Other metal
+	
+Element 82: সীসা (Pb), Other metal
+	
+Element 83: বিসমাথ (Bi), Other metal
+	
+Element 84: পোলোনিয়াম (Po), Other metal
+	
+Element 85: এস্টাটিন (At), Halogen
+	
+Element 86: রেডন (Rn), Noble gas
+Element 87: ফ্রান্সিয়াম (Fr), Alkali metal
+	
+Element 88: রেডিয়াম (Ra), Alkaline earth metal
+	
+Element 89: অ্যাক্টিনিয়াম (Ac), Actinoid
+	
+Element 90: থোরিয়াম (Th), Actinoid
+	
+Element 91: প্রোটেক্টিনিয়াম (Pa), Actinoid
+	
+Element 92: ইউরেনিয়াম (U), Actinoid
+	
+Element 93: নেপচুনিয়াম (Np), Actinoid
+	
+Element 94: প্লুটোনিয়াম (Pu), Actinoid
+	
+Element 95: অ্যামেরিসিয়াম (Am), Actinoid
+	
+Element 96: কুরিয়াম (Cm), Actinoid
+	
+Element 97: বার্কেলিয়াম (Bk), Actinoid
+	
+Element 98: ক্যালিফোর্নিয়াম (Cf), Actinoid
+	
+Element 99: আইনস্টাইনিয়াম (Es), Actinoid
+	
+Element 100: ফার্মিয়াম (Fm), Actinoid
+	
+Element 101: মেন্ডেলেভিয়াম (Md), Actinoid
+	
+Element 102: নোবেলিয়াম (No), Actinoid
+	
+Element 103: লরেনসিয়াম (Lr), Actinoid
+	
+Element 104: রাদারফোর্ডিয়াম (Rf), Transition metal
+	
+Element 105: ডুবনিয়াম (Db), Transition metal
+	
+Element 106: সিবোরজিয়াম (Sg), Transition metal
+	
+Element 107: বোহরিয়াম (Bh), Transition metal
+	
+Element 108: হ্যাসিয়াম (Hs), Transition metal
+	
+Element 109: মিটনেরিয়াম (Mt), Transition metal
+	
+Element 110: ডার্মস্টেটিয়াম (Ds), Transition metal
+	
+Element 111: রন্টজেনিয়াম (Rg), Transition metal
+	
+Element 112: কোপার্নিসিয়াম (Cn), Transition metal
+	
+Element 113: ইউনুনট্রিয়াম (Uut)
+	
+Element 114: ইউনুনকোয়াডিয়াম (Uuq)
+	
+Element 115: ইউনুনপেন্টিয়াম (Uup)
+	
+Element 116: ইউনুনহেক্সিয়াম (Uuh)
+	
+Element 117: ইউনুনসেপটিয়াম (Uus)
+	
+Element 118: ইউনুনকটিয়াম (Uuo)
+নিয়ন has a face-centered cubic crystal structure
+10Ne
+পর্যায় সারণী
+ভৌত রূপ
+colorless gas exhibiting an orange-red glow when placed in a high voltage electric field
+
+
+Spectral lines of Neon
+সাধারণ বৈশিষ্ট
+নাম, প্রতীক, পারমাণবিক সংখ্যা 	নিয়ন, Ne, 10
+উচ্চারণ 	/ˈniːɒn/
+রাসায়নিক শ্রেণী 	নিষ্ক্রিয় গ্যাস
+শ্রেণী, পর্যায়, ব্লক 	১৮, 2, p
+পারমাণবিক ওজন 	20.1797(6)
+ইলেকট্রন বিন্যাস 	1s2 2s2 2p6
+শক্তিস্তরে ইলেকট্রন সংখ্যা 	2, 8 (ছবিতে দেখুন)
+ভৌত বৈশিষ্ট্য
+দশা 	গ্যাস
+ঘনত্ব 	(0 °C, 101.325 kPa)
+0.9002 g/L
+স্ফুটনাংকে তরলের ঘনত্ব 	1.207[১] g·cm−3
+গলনাংক 	24.56 K, -248.59 °C, -415.46 °F
+স্ফুটনাংক 	27.07 K, -246.08 °C, -410.94 °F
+ত্রৈধ বিন্দু 	24.5561 K (-249°C), 43[২][৩] kPa
+Critical point 	44.4 K, 2.76 MPa
+ফিউশনের এনথালপি 	0.335 kJ·mol−1
+Heat of vaporization 	1.71 kJ·mol−1
+তাপ ধারকত্ব 	5R/2 = 20.786 J·mol−1·K−1
+Vapor pressure
+P (Pa) 	1 	10 	100 	1 k 	10 k 	100 k
+at T (K) 	12 	13 	15 	18 	21 	27
+পারমাণবিক বৈশিষ্ট্য
+জারন সংখ্যা 	no data
+আয়নীকরণ শক্তি
+(বিস্তারিত) 	প্রথম: 2080.7 kJ·mol−1
+দ্বিতীয়: 3952.3 kJ·mol−1
+তৃতীয়: 6122 kJ·mol−1
+Covalent radius 	58 pm
+Van der Waals radius 	154 pm
+অন্যান্য বৈশিষ্ট্য
+কেলাসের গঠন 	কেন্দ্রমূখী ঘনক
+চুম্বকত্ব 	diamagnetic[৪]
+তাপ পরিবহকত্ব 	49.1x10-3  W·m−1·K−1
+Speed of sound 	(gas, 0 °C) 435 m·s−1
+Bulk modulus 	654 GPa
+ক্যাস নিবন্ধন নম্বর 	7440-01-9
+কয়েকটি উল্লেখযোগ্য সমস্থানিক
+মূল নিবন্ধ: Isotopes of neon
+iso 	NA 	half-life 	DM 	DE (MeV) 	DP
+20Ne 	90.48% 	Ne 10টি নিউট্রন নিয়ে স্থিত হয়
+21Ne 	0.27% 	Ne 11টি নিউট্রন নিয়ে স্থিত হয়
+22Ne 	9.25% 	Ne 12টি নিউট্রন নিয়ে স্থিত হয়
+প্র • আ • স
+· r
+
+নিয়ন পর্যায় সারণীর ০ গ্রুপ (নিষ্ক্রিয় গ্যাস) এবং ২য় পর্যায়ে অবস্থিত একটি মৌলিক পদার্থ।
+সূচিপত্র
+ [আড়ালে রাখো] 
+
+    ১ আবিষ্কার
+    ২ বৈশিষ্ট্য
+    ৩ যৌগসমূহ
+    ৪ রাসায়নিক বিক্রিয়া
+    ৫ ব্যবহার
+    ৬ তথ্যসূত্র
+    ৭ আরও দেখুন
+    ৮ বহিঃসংযোগ
+
+[সম্পাদনা] আবিষ্কার
+[সম্পাদনা] বৈশিষ্ট্য
+[সম্পাদনা] যৌগসমূহ
+[সম্পাদনা] রাসায়নিক বিক্রিয়া
+[সম্পাদনা] ব্যবহার
+[সম্পাদনা] তথ্যসূত্র
+
+    ↑ Hammond, C.R. (2000)। The Elements, in Handbook of Chemistry and Physics 81st edition। প্রকাশক: CRC press। পৃ. 19। আইএসবিএন 0849304814।
+    ↑ Preston-Thomas, H. (1990); “The International Temperature Scale of 1990 (ITS-90)”। Metrologia 27: পৃ. 3–10। ডিওআই:10.1088/0026-1394/27/1/002।
+    ↑ Section 4, Properties of the Elements and Inorganic Compounds; Melting, boiling, triple, and critical temperatures of the elements। CRC Handbook of Chemistry and Physics (85th edition সম্পাদিত)। প্রকাশক: CRC Press। (Boca Raton, Florida)। 2005।
+    ↑ Magnetic susceptibility of the elements and inorganic compounds, in Handbook of Chemistry and Physics 81st edition, CRC press.
+
+
+
+
+
+
+নিষ্ক্রিয় গ্যাস বলতে পর্যায় সারণীর ১৮তম শ্রেণীর[১] মৌলগুলোকে বোঝায়। কখনওবা একে অষ্টম শ্রেণী, হিলিয়াম পরিবার বা নিয়ন পরিবার নামে ডাকা হয়। ইংরেজীতে সচরাচর [Gas] হিসাবে অভিহিত। এই শ্রেণীতে অবস্থিত গ্যাসগুলো রাসায়নিকভাবে খুবই নিষ্ক্রিয়, কারণ এদের সর্ববহিরিস্থ পরিমণ্ডলে ইলেকট্রনের সংখ্যা পরমাণুর সর্বোচ্চ ধারণ ক্ষমতার সমান অর্থাৎ ৮টি। ইতিমধ্যে সুস্থিত ইলেক্ট্রণসমূহ অন্য কোন মৌলের সাথে সহজে বিক্রিয়া করতে চায় না। সাধারণ অবস্থায় এগুলো বর্ণহীন, গন্ধহীন এবং এক পরমাণুক গ্যাস। উপরন্তু এগুলোর স্ফুটনাংক ও গলনাংক খুবই কাছাকাছি। আলোকসজ্জা, ওয়েল্ডিং এবং মহাশূন্য প্রযুক্তিতে এই গ্যাসগুলোর প্রভূত ভূমিকা রয়েছে। নিষ্ক্রিয় গ্যাস সাতটির নাম হল: হিলিয়াম, নিয়ন, আর্গন, ক্রিপ্টন, জেনন, র‌্যাডন এবং ইউনুনোকটিয়াম।[২]
+সূচিপত্র
+ [আড়ালে রাখো] 
+
+    ১ আবিষ্কারের ইতিহাস
+    ২ অবস্থান ও উৎস
+    ৩ ইলেকট্রন বিন্যাস ও রাসায়নিক নিষ্ক্রিয়তা
+    ৪ ধর্ম
+        ৪.১ রাসায়নিক ধর্ম
+    ৫ গুরুত্ব
+    ৬ ব্যবহার
+        ৬.১ হিলিযাম
+        ৬.২ নিয়ন
+        ৬.৩ আর্গন
+        ৬.৪ ক্রিপটন
+        ৬.৫ জেনন
+        ৬.৬ রেডন
+    ৭ বর্ণ বিচ্ছুরণ
+    ৮ তথ্যসূত্র ও পাদটীকা
+
+[সম্পাদনা] আবিষ্কারের ইতিহাস
+
+নিষ্ক্রিয় গ্যাস মৌলসমূহের আবিষ্কার রসায়নের ইতিহাসে একটি বিশেষ উল্লেখযোগ্য ঘটনা। ১৭৮৫ খ্রিস্টাব্দে বিজ্ঞানী ক্যাভেনডিস একটি আবদ্ধ পাত্রে কস্টিক সোডা দ্রবণের উপর অতিরিক্ত অক্সিজেনযুক্ত বায়ুতে বার বার বিদ্যুৎ স্ফুলিংগ প্রয়োগ করে অতি সামান্য পরিমাণ বায়ুর মূল আয়তনের প্রায় ১২০/১ ভাগ গ্যাসীয় অবশেষ পেলেন। তিনি পর্যবেক্ষণ করলেন যে, এই প্রক্রিয়ায় সমস্ত নাইট্রোজেনই অক্সাইডে পরিণত হয় এবং দ্রবণে অবশোষিত হয়ে সামান্য পরিমাণ গ্যাসীয় অবশেষ থাকে। তিনি আরও পর্যবেক্ষণ করলেন যে,এই অবিশষ্ট গ্যাস নাইট্রোজেন অপেক্ষাও নিষ্ক্রিয়। ক্যাভেনডিসের এই পরীক্ষার তাৎপর্য বিজ্ঞানীদের নিকট পরবর্তী প্রায় একশত বর্ষ উপেক্ষিত ছিল।
+১৮৯৪ খ্রিস্টাব্দে নাইট্রোজেন, অক্সিজেন প্রভৃতি বিভিন্ন গ্যাসীয় পদার্থের ঘনত্ব পরিমাপ করতে গিয়ে লর্ড রেলে (Lord Rayleigh) পর্যবেক্ষণ করেন যে, বিভিন্ন উৎস থেকে প্রাপ্ত অক্সিজেনের ঘনত্ব প্রতি ক্ষেত্রে অভিন্ন হলেও নাইট্রোজেনের ক্ষেত্রে ফলাফল ভিন্নরূপ। তিনি তিন পদ্ধতিতে নাইট্রোজেন আহরণ করলেন। যথাঃ (ক) অ্যামোনিয়াম নাইট্রাইটকে উত্তাপিত করে, (খ)নাইট্রোজেন অক্সাইডকে উত্তপ্ত লৌহ যোগে বিজারিত ক'রে ও (গ) সোডিয়াম হাইপোব্রোমাইটের ক্রিয়ায় ইউরিয়া থেকে নাইট্রোজেন সংগ্রহ করা। বিস্ময়ের সঙ্গে তিনি লক্ষ্য করলেন যে বায়ু হতে প্রাপ্ত নাইট্রোজেন রাসায়নিক উপায়ে প্রাপ্ত নাইট্রোজেন অপেক্ষা ভারী। এতে প্রতীয়মান হলো যে, বায়বীয় নাইট্রোজেনে নাইট্রোজেন ব্যতীত ভিন্ন কোন উপাদান রয়েছে। অতঃপর রেলে ক্যাভেনডিসের অনুরূপ পরীক্ষাকার্য চালিয়ে প্রাপ্ত গ্যাসীয় অবশেষে (residual gas) বর্ণালী বিশ্লেষণ ক'রে বায়ুতে বিদ্যমান, নাইট্রোজেন অপেক্ষা ভারী অথচ তদাবধি অনাবিষ্কৃত কোন গ্যাসের অস্তিত্ব কল্পনা করেন। পরে বিজ্ঞানী রেলে'এর অনুমতিক্রমে রামজে (Ramsay) গ্যাসীয় অবশেষটি পৃথক করতে চেষ্টা করেন। কার্বন ডাই-অক্সাইড ও জলীয় বাষ্পবিহীন বায়ু নিয়ে সেই বায়ু বার বার তপ্ত ম্যাগনেসিয়ামের ওপর দিয়ে প্রবাহিত করে নাইট্রোজেনকে ম্যাগনেসিয়াম নাইট্রাইড হিসেবে দ্রবীভূত করা হয়ঃ 3Mg +N2 = Mg3N2; এবং পরিলক্ষিত হয় যে, মূল আয়তনের ৮০/১ ভাগ গ্যাসীয় অবশেষে থেকে যায়। অথচ NO, N2O, NH4NO2 প্রভৃতি থেকে উৎসারিত নাইট্রোজেনকে ক্রমান্বয়ে উত্তপ্ত তামা ও ম্যাগনেসিয়ামের ওপর দিয়ে চালনা করে পরিলক্ষিত হয় যে, কোন গ্যাসীয় অবশেষ আদৌ থাকে না। রেলে ও রামজে প্রাপ্ত গ্যাসীয় অবশেষের বর্ণালী বিশ্লেষণে সম্পূর্ণ অজ্ঞাত সবুজ ও লাল রেখা বর্ণালীর সন্ধান লাভ করেন। পরিলক্ষিত হলো যে, এর ঘনত্ব ১৯.৯৪ (H-1), পারমাণবিক ভর ৪০ এবং এটি রাসায়নিক বিক্রিয়ায় এটি সম্পূর্ণ নিষ্ক্রিয় ভূমিকা পালন করে। এমনকী বিদ্যুৎ স্ফুলিঙ্গ প্রয়োগেও ক্লোরিন বা ফ্লোরিনের সাথে এর কোন রাসয়নিক বিক্রিয়া সংঘটিত হয় না। রেলে ও রামজে রাসায়নিক নিষ্ক্রিয়তার কারণে নতুন গ্যাস মৌলের নামাকরণ করেন আর্গন বা অলস। কিন্তু পরবর্তীকালে প্রমাণিত হয় যে, উক্ত গ্যাসীয় অবশেষটি বিশুদ্ধ আর্গন নয় এবং এতে আরও বিভিন্ন গ্যাস মৌল রয়েছে।
+১৮৬৮ খ্রিস্টাব্দের ১৮ই আগস্ট তারিখে ফরাসি জ্যোতির্বিদ জানসেন (Janssen) ভারতে দৃষ্ট পূর্ণ সূর্য গ্রহণের সময় গ্যাসীয় সৌর আবরণের মধ্যে বর্ণালী পর্যবেক্ষণ করে একটি স্পষ্ট পীত রেখা D3 আবিষ্কার করেন। এই রেখা সোডিয়ামের D1 ও D2 রেখা থেকে সম্পূর্ণ স্বতন্ত্র। পরে লকিয়ার (LocKyer) ও ফ্রাঙ্কল্যান্ড (Frankland) বিবিধ পরীক্ষা-নিরীক্ষার সাহায্যে এমত সিদ্ধান্তে উপনীত হন যে, যে উক্ত রেখা কোন অপার্থিব মৌলের সূচক—যা কেবল গ্যাসীয় সৌর আবরণেই বিদ্যমান। এ কারণে গ্রীক ‘হেলিওস’ (halios-সূর্য) শব্দানুক্রমে এর নামাকরণ করা হয় হিলিয়াম (Helium)।
+A line spectrum chart of the visible spectrum showing sharp lines on top.
+Helium was first detected in the Sun due to its characteristic spectral lines.
+
+অপর দিকে বিজ্ঞানী রামজে বায়ু ছাড়া ভিন্ন কোন উৎসে আর্গন সন্ধান অব্যাহত রাখলেন। ১৮৮৮ খ্রিস্টাব্দে বিজ্ঞানী হিলেব্রাণ্ড (Hillebrand) ক্লিভাইট (clevite) নামক ইউরেনিয়াম আকরিককে লঘু সালফিউরিক এসিডে উত্তপ্ত করে আকরিকে অন্তর্ধৃত (occluded) একটি গ্যাসের অস্তিত্ব প্রমাণ করেণ। তিনি এই গ্যাসকে ভুলক্রমে নাইট্রোজেন জ্ঞান করেন; ফলে নতুন গ্যাস মৌল হিলিয়াম আবিষ্কারের গৌরব লাভে অসমর্থত হয়। রামজে হিলেব্রাণ্ডের প্রণালী অনুসারে ক্লিভাইটকে লঘু সালফিউরিক এসিড সহযোগে উত্তপ্ত ক'রে প্রাপ্ত গ্যাসে ২০% নাইট্রোজেনের অস্তিত্ব লাভ করেন। উপরন্তু কস্টিক অ্যালকালির উপর বিদ্যুৎ স্ফুলিঙ্গ প্রয়োগে নাইট্রোজেন বিদূরিত ক'রে বর্ণালী বিশ্লেষণেও D3-রেখা প্রাপ্ত হন। এটি ছিল জানসেন কর্তৃক গ্যাসীর সৌর আবরণে প্রাপ্ত D3-রেখা ব্যতীত আর কিছুই নয়। এবূপে প্রথম পার্থিব হিলিয়াম আবিষ্কৃত হয়। হিলিয়ামের ঘনত্ব, পারমাণবিক ভর ও এক পরমাণুকতা নির্ণীত হল। দেখা গেল এর ঘনত্ব ও পারমাণবিক ভর যথাক্রমে ১.৯৯ ও ৪। রামজে ও ট্রাভার্স (Travers) হিলিয়ামের ঘনত্ব পর্যবেক্ষণ করতে গিয়ে দেখেন যে বিভিন্ন আকরিক হতে প্রাপ্ত হিলিয়ামের ঘনত্ব বিভিন্ন। কাজেই তাঁরা প্রাপ্ত গ্যাসকে ব্যাপন (diffusion) প্রণালীর সাহায্যে দুটি অংশে পৃথক করে তাদের ঘনত্বের মধ্যে উল্লেখযোগ্য রকম ব্যবধান পর্যবেক্ষণ করেন, এবং বর্ণালী বিশ্লেষণ করে অপেক্ষাকৃত ভারী অংশকে আর্গন ও হাল্কা অংশকে হিলিয়াম বলে নিরূপণ করেণ। এরূপে খনিজ পদার্থে আর্গনের অসিস্তত্ব আবিষ্কৃত হয়।
+হিলিয়াম ও আর্গন আবিষ্কারের পর পর্যায় সারণীতে তাদের অবস্থান নির্বাচনে জটিলতা দেখা দেয়। ১৮৯৬ সালে জুলিও টমসন (Juliet Thomson) পর্যায় সূত্র প্রয়োগ করে পর্যায় সারণীতে একটি শূন্য-শ্রেণীর প্রস্তাব করেন এবং এতে ৪, ২০, ৩০, ৮৪, ১৩২, ও ২১২ পারমাণবিক গুরুত্বের ছয়টি মৌল থাকার সম্ভাবনা প্রকাশ করেন। তাঁর এই প্রস্তাবনা রামজে ও ট্রাভার্সকে এই শূন্য শ্রেণীর অপরাপর মৌলের আবিষ্কারে উদ্বুদ্ধ করেন। হিলিয়ান ও আর্গন আবিষ্কৃত হওয়ায় তাঁরা বায়ুতে আরও অনাবিষ্কৃত মৌলের অনুমান করেন ও তাদের অনুসন্ধানে ব্রতী হন।
+১৮৯৮ খ্রিস্টাব্দে রামজে ও ট্রার্ভাস তরল বায়ুর আংশিক পাতনে প্রাপ্ত তরল আর্গনের পুনঃ আংশিক পাতন করে অধিক উদ্বায়ী অংশ হতে একটি গ্যাস পৃথক করেন ও তার বণালী বিশ্লেষণ করে আর একটি নতুন গ্যাস নিয়ন (অর্থাৎ ‘নতুন’) আবিষ্কার করেন। এর ঘনত্ব ও আনবিক ভয় যথাক্রমে ১০.১ ও ২২.২ এবং এটিও এক-পরমাণুক। পরে তাঁরা কম উদ্বায়ী অংশ হতে পৃথকভাবে দুটি নতুন নিষ্ক্রিয় গ্যাস যথা ক্রিপটন (অর্থাৎ গুপ্ত) ও জেনন (অর্থাৎ আগন্তুক) আবিষ্কার করেন।
+এক কয়েক বছর পর ১৯০০ খ্রিস্টাব্দে র্ডন (Dorn) রেডিয়ামের তেজস্ক্রিয় ক্ষয়জাত পদার্থ হতে সর্বশেষ নিষ্ক্রিয় গ্যাস র্যা ডন আবিষ্কার করন। ৮৮/২২২ জধ ৮৬/২২২ জহ + ২/৪ ঐব ১৯০৩ খ্রিস্টাব্দে রামজে ও সডি (Soddy) রেডিয়ামের তেজস্ক্রিয় বিভাজনের ফলে হিলিয়াম প্রাপ্ত হন এবং দেখা যায় অনেক তেজস্ক্রিয় মৌল হতেই হিলিয়াম বিচ্ছুরিত হয়। এইভাবে স্যার উইলিয়াম রামজে-এর নিরলস, নিপুণ ও সুদীর্ঘ গবেষণার ফলে একটি শ্রেণীর সব কয়টি মৌলই একের পর এক আবিষ্কৃত হয়।[৩]
+[সম্পাদনা] অবস্থান ও উৎস
+
+    একমাত্র র‌্যাডন ব্যতীত সব ক'টি নিষ্ক্রীয় গ্যাসই বায়ুতে বর্তমান। তবে বায়ুতে এদের সর্বমোট পরিমাণ সর্ব্বোচ্চ ১.০% মাত্র। এজন্য এদেরকে বিরল গ্যাস (rare gases) নামেও অভিহিত করা হয়।
+    খনিজ পদার্থঃ ইউরেনিনাইট (Uraninite), মোনাজাইট (Monazite) থোরিয়ানাইট (Thorianite), ক্লিভাইট (Cleveite), বেরিল (Beryl), কর্ডিরাইট (Cordierite), পিচ ব্লেণ্ড (Pitch blende) ইত্যাদি কিছু আকরিকে হিলিয়াম ও কিছু পরিমাণ আর্গন আবদ্ধ অবস্থায় থাকে। তাপপ্রয়োগে আকরিক থেকে গ্যাস বেরিয়ে আসে।
+    প্রাকৃতিক গ্যাসঃ পেট্রোলিয়াম তৈলকূপ থেকে প্রাপ্ত প্রাকৃতিক গ্যাস (প্রধানত মিথেন) হিলিয়ামের একটি গুরুত্বপূর্ণ উৎস। এতে ০.৫ থেকে ১.৫ শতাংশ পর্যান্ত হিলিয়াম বিদ্যমান।
+    সমুদ্র ও ঝর্ণার পানিঃ সমুদ্র পানিতে বায়ুমণ্ডলীয় গ্যাস দ্রবীভূত থাকে বিধায় এতে অল্প পরিমাণ নিষ্ক্রিয় গ্যাস পাওয়া যায়। কখনো কখনো ক্ষেত্রে ঝর্ণার পানিতে দ্রবীভূত অবস্থায় হিলিয়াম বিদ্যমান থাকে। যেমন Bourbon-lancy নামক ঝর্ণার খনিজ পানিতে ১.৮৪ শতাংশ পরিমাণে হিলিয়াম পাওয়া যায়। হিলিয়ামের একটি উল্লেখযোগ্য উৎস এই খনিজ পানি।
+    রেডিয়ামের তেজস্ক্রিয় বিভাজন র‌্যাডন একটি তেজস্ক্রিয় (radioactive) মৌল। রেডিয়ামের তেজস্ক্রিয় ক্ষয়ের (radioactive decay) ফলে উৎপন্ন র‌্যাডন অনেক সময় বায়ুমণ্ডলে পাওয়া যায়।
+
+Abundance 	Helium 	Neon 	Argon 	Krypton 	Xenon 	Radon
+Solar System (for each atom of silicon)[৪] 	2343 	2.148 	0.1025 	5.515 × 10−5 	5.391 × 10−6 	–
+Earth's atmosphere (volume fraction in ppm)[৫] 	5.20 	18.20 	9340.00 	1.10 	0.09 	(0.06–18) × 10−19[৬]
+Igneous rock (mass fraction in ppm)[৭] 	3 × 10−3 	7 × 10−5 	4 × 10−2 	– 	– 	1.7 × 10−10
+[সম্পাদনা] ইলেকট্রন বিন্যাস ও রাসায়নিক নিষ্ক্রিয়তা
+
+নিষ্ক্রিয় গ্যাসের ইলেট্রন বিন্যাস পর্যবেক্ষণ করলে দেখা যায় যে, নিষ্ক্রিয় গ্যাসসমূহের সর্ববহিরিস্থ শক্তি স্তর অনুমোদিত সংখ্যক ইলেকট্রন দ্বারা পূর্ণ এবং ইলেকট্রানগুলো বিপরীতমুখী স্পিনসহ জোড়ায় জোড়ায় সজ্জিত। হিলিয়ামের বহিরস্থ শক্তি স্তরে s ‘অর্বিটালে দুটি, এবং' অন্য সকল নিষ্ক্রিয় গ্যাসের সর্ববহিরিস্থ শক্তি স্তরে s ও p অর্বিটালে মোট চার জোড়ায় আটটি ইলেকট্রন আছে। বাইরের শক্তি স্তর ইলেকট্রন দ্বারা সম্পৃক্ত বলে এরা রাসায়নিকভাবে নিষ্ক্রিয়। পরমাণুর এরূপ ইলেকট্রন বিন্যাস খুবই সুস্থিত এবং রাসায়নিক ক্রিয়া বর্জিত। এদের আয়নীকরণ বিভবের উচ্চমানও এ সত্যকে পরিস্ফুট করে। ফলে এরা অপর কোন মৌলের সঙ্গে রাসায়নিক বিক্রিয়া দূরের কথা, এরা নিজেদের মধ্যেও বিক্রিয়া করে দ্বি-পরমাণুক অণু গঠন করতে পারে না। নিম্নে এদের ইলেকট্রন বিন্যাস দেখান হল-
+
+মৌল পারমাণবিক সংখ্যা ইলেকট্রন বিন্যাস যোজ্যতা ইলেকট্রন[৮]
+He 2 1s2 1s2
+Ne 10 [ He ] 2s2 2p6 2s2p6
+Ar 18 [Ne] 3s2 3p6 3s2 3p6
+Kr 36 [Ar] 3d10 4s2 4p6 4s2 4p6
+Xe 54 [Kr] 4d10 5s2 5p6 5s2 5p6
+Rn 86 [Xe] 4f14 5d10 6s2 6p66s2 6p6 6s2 6p6
+
+
+[সম্পাদনা] ধর্ম
+
+হিলিয়াম, নিয়ম, আর্গন, ক্রিপটন, জেনন ও র‌্যাডন-এরা সকলেই বর্ণহীন ও গন্ধহীন গ্যাস। এদের তরলীকরণ বেশ কষ্ট সাপেক্ষ। এরা পানিতে সামান্য পরিমাণে দ্রবণীয় ( ( 293 k-এ L-এ 8-40 mL)। পারমাণবিক ভর বৃদ্ধির সাথে পানিতে এদের দ্রাব্যতা বৃদ্ধি পায়।
+নিষ্ক্রিয় গ্যাস পরমাণুসমূহের মধ্যে শুধুমাত্র ভৌত শক্তি (যেমন Van der Waals’ forces) থাকতে পারে বলে এদের স্ফুটনাঙ্ক ও গলনাঙ্ক অতিশয় কম। এদের মধ্যে তথা সমস্ত জ্ঞাত মৌলসমূহের মধ্যে হিলিয়ামের গলনাংক ও স্ফুটনাঙ্ক সবচেয়ে কম। গ্যাসসমূহের ক্ষেত্রে দেখা যায় তাদের গলনাংক ও স্ফুটনাঙ্ক তাদের পারমাণবিক ভর বৃদ্ধির সাথে বৃদ্ধি পায়।
+অন্যান্য শ্রেণীর মৌলের তুলনার নিষ্ক্রিয় গ্যাস মৌলের আয়নীকরণ বিভব (ionisation potential) অনেক বেশি। পারমাণবিক ভর বৃন্ধির সাথে গ্যাস মৌলসমূহের আয়নীকরণ বিভব হ্রাস পায়। এদের ইলেকট্রন আসক্তি (electron affinity) শূন্যের কাছাকাছি। এরা সকলেই এক পরমাণুক। আপেক্ষিক তাপের অনুপাত Y=Cp/Cu=১.৬৭(স্থূলতা)।
+
+নিচের ছকে এদের কযেকটি ভৌত ধর্ম সারণীবদ্ধ করা হলোঃ
+[সম্পাদনা] রাসায়নিক ধর্ম
+Neon, like all noble gases, has a full valence shell
+
+প্রত্যেক নিষ্ক্রিয় গ্যাস পরমাণুর সর্ববহিস্থ শক্তি-স্তর ইলেকট্রন দ্বারা পূর্ণ (ns2np6) অর্থাৎ এদের পরমাণুর সর্ববহিরিস্থ স্তরে ৪টি করে (He-এর ক্ষেত্রে ২ টি) ইলেকট্রন আছে। এদের ব্যবহারে ইলেকট্রন দান (donate) বা গ্রহণ (accept ) করার কোনরূপ প্রবণতা দেখায় না বলে এরা আয়নীয় বা সমযোজী (covalent) যৌগ গঠন করতে পারে না। অতত্রব এরা সম্পূর্ণরূপে রাসায়নিক ক্রিয়াহীন। এতদ্সত্ত্বেও বিশেষ কোন কোন ক্ষেত্রে নিষ্ক্রিয় গ্যাস কর্তৃক বিভিন্ন যৌগ গঠনের প্রমাণ পাওয়া গেছে।
+[সম্পাদনা] গুরুত্ব
+
+নিষ্ক্রিয় গ্যাসের গুরুত্ব অনেক। তত্ত্বীয় রসায়নে নিষ্ক্রিয় গ্যাসের আবিষ্কার বিশেষ গুরুত্বপূর্ণ ভূমিকা বহন করে। তত্ত্বীয় রসায়নের কোন দিক নেই যা নিষ্ক্রিয় গ্যাসের আবিষ্কারের ফলে প্রভাবান্বিত হয়নি। এদের অনেক অবদানের মধ্যে নিম্নের কযয়েকটি প্রণিধানযোগ্য।
+(১) পর্যায় সারণীতেঃ পর্যায় সারণীতে অষ্টম (VII) শ্রেণীর অবস্থান তীব্র ঋণাত্মক হ্যালোজেন মৌলসমূহের পরেই I অন্যদিকে, শ্রেণীর তীব্র ধনাত্মক অ্যালকালি ধাতু মৌলসমূহের রয়েছে। অকস্মাৎ এই ধর্ম পরিবর্তনের মধ্যে একটা বিরাট অসামঞ্জস্যতা দৃষ্ট হয়। নিষ্ক্রিয় গ্যাস মৌলসমূহের আবিষ্কারের ফলে তাদেরকে শূণ্য (০) শ্রেণীতে স্থাপন করায় এই দুই বিপরীতধর্মী মৌল শ্রেণীর মধ্যে সেতুবন্ধ রচিত হয়েছে এবং অসামঞ্জস্যতা ঘুচে সমন্বয় ঘটেছে।
+(২) পারমাণবিক গঠনেঃ একমাত্র হিলিয়াম ব্যতীত সব নিষ্ক্রিয় গ্যাস পরমাণুর শেষ কক্ষে আটটি (৮ করে ইলেকট্রন আছে। হিলিয়ামের ক্ষেত্রে এই ইলেকট্রন সংখ্যা ২টি। এতে বোর ও বেরী (Bury) এই তত্ত্ব প্রকাশে সক্ষম হন যে পরমাণুর সর্ববহিরিস্থ স্তর ৮টির অধিক ইলেকট্রন ধারণ করতে পারে না।
+(৩) যোজ্যতার ইলেকট্রিনীয় তত্ত্ব : নিষ্ক্রিয় গ্যাসের ইলেকট্রন বিন্যাস পর্যবেক্ষণ করত: লুই (Lewis ) ও কোজেল (Kossel) পরমাণুতে ইলেকট্রনের ভারসাম্যমূলক বিন্যাস ধারণা (stable configuration concept) প্রস্তাব করেন। তাদের প্রত্যেক মৌলই তার পরমাণুর সর্ববহিরিস্থ স্তরে ইলেকট্রন স্থানান্তর (আয়নিক বন্ধন) বা শেয়ার (সমযোজী) করে তার নিকটতম নিষ্ক্রিয় গ্যাসের ইলেকট্রন-বিন্যাস অর্জন করে। অতত্রব একটি মৌল তার নিকটতম নিষ্ক্রিয় গ্যাস মৌলের ইলেকট্রনীয় গঠন অর্জন কল্পে যত সংখ্যক ইলেকট্রন দান, গ্রহণ বা ভাগাভাগি করে থাকে তাকে মৌলটির যোজ্যতা বলে।
+(৪) তেজস্ক্রিয়তায়ঃ তেজস্ক্রিয় মৌল হতে a- কণা বিচ্ছুরিত হয়। এটা ধনাত্মক দ্বি-আধান যুক্ত হিলিয়াম পরমাণু। এই তথ্য তেজস্ক্রিয় বিভাজন তত্ত্ব ও শ্রেণী অপসারণ সূত্র (group displacement law সংবচনায় সাহায্য করে।
+(৫) আইসোটোপ আবিষ্কারঃ অতেজস্ক্রিয় মৌলসমূহের মধ্যে নিয়নের আইসোটোপ সর্বপ্রথম পৃথক করা হয়। এতে অপরাপর অতেজস্ক্রিয় মৌলের আইসোটোপ পৃথকীকরণের প্রচেষ্টা চলে।
+[সম্পাদনা] ব্যবহার
+
+বিভিন্ন নিস্ক্রিীয় গ্যাসের ব্যবহার নিম্নে বর্ণনা করা হলোঃ
+[সম্পাদনা] হিলিযাম
+
+(১) বেলুন ও আকাশ যানে হিলিয়াম ব্যবহৃত হয়। এটি হাইড্রোজেন অপেক্ষা ভারী হলেও এর উত্তোলন ক্ষমতা হাইড্রোজেনের প্রায় কাছাকাছি (৯২%) অথচ এটি আদাহ্য ও অপেক্ষাকৃত কম ব্যাপনীয় (less diffusible)। এজন্য এ কাজে হাইড্রোজেন অপেক্ষা হিলিয়াম অধিক উপযোগী।
+(২) রক্তে হিলিয়াম অপেক্ষা নাইট্রোজেন অধিকতর দ্রবণীয়। এই জন্য ডুবুরী যন্ত্রে বায়ুর পরিবর্তে অক্সিজেনের সাথে মিশ্রিত অবস্থায় হিলিয়াম (২০% ঙ২ ও ৮০% ঐব) ব্যবহৃত হয়। এতে সমুদ্রের তলদেশে উচ্চ চাপে বায়ুতে শ্বাস-প্রশ্বাসের যে অসুবিধা হয় তা দূরীভূত হয়। কারণ উচ্চ চাপে বায়ুতে নাইট্রোজেন রক্তে দ্রবীভূত হয়ে যায় আর পানির উপরে উঠা মাত্রই চাপ কমে যায়, ফলে দ্রবীভূত নাইট্রোজেন বের হয়ে আসে এবং রক্তের মধ্যে বুদ্বুদ্ সৃষ্টি করে। এতে অকস্মাৎ ব্যথা সৃষ্টি হয়। হিলিয়াম যুক্তি অক্সিজেন ব্যবহারে এই অসুবিধা হয় না।
+(৩) হাঁপানী প্রভৃতি রোগে শ্বাসকার্যের সহায়তার জন্য হিলিয়াম মিশ্রিত অক্সিজেন ব্যবহৃত হয়।
+(৪) নিম্ন তাপমাত্রার গবেষণাকার্যে তরল হিলিয়াম (স্ফুটনাঙ্ক ৪.১ K) ব্যবহৃত হয়।
+(৫) নিম্ন তাপমাত্রা পরিমাপে ব্যবহৃত গ্যাস থার্মোমিটারে হিলিয়াম ব্যবহৃত হয়।
+(৬) সহজেই জারিত হয় এমন ধাতু ও ধাতু সংকরের গলন এবং জোড়া লাগানোর সময় নিষ্ক্রিয় পরিবেশ সৃষ্টি করতে হিলিয়াম ব্যবহৃত হয়।
+(৭) বায়ু অপেক্ষা হিলিয়াম হাল্কা বলে এটি বৃহদাকার আকাশ যানের টায়ারে ব্যবহৃত হয়।
+(৮) এর সান্দ্রতা (viscosity ) একটু অধিক বলে কম্পাস ও নাবিকদের অন্যান্য যন্ত্রে এটি ড্যাম্পার (damper) হিসেবে ব্যবহৃত হয়।
+(৯) এটি বৈদ্যুতিক ট্রান্সফরমার, টিউব লাইট ও রেডিও টিউবে ব্যবহৃত হয়।
+(১০) মাটির নিচে পেট্রোলিয়াম স্থানান্তর নির্দেশনায় ট্রেসার (tracer) গ্যাস হিসেবে এটি ব্যবহৃত হয়।
+[সম্পাদনা] নিয়ন
+
+(১) নিয়ন প্রধানত আলোক উৎপাদন ও আলোকসজ্জায় ব্যবহৃত হয়। নিয়ন-টিউবে এটি অত্যুজ্জ্বল লাল আলো উৎপাদন করে। এটি পারদ (মারকারি) বাষ্পের সাথে মিশ্রিত থাকলে সবুজ বা নীল আলো পাওয়া যায়। নিয়ন গ্যাস বা তার বিভিন্ন মিশ্রণের সাথে বিভিন্ন বর্ণের কাচ ব্যবহার করে আলোর বৈচিত সৃষ্টি করা সম্ভব। নিয়ন আলো কুয়াসার মধ্যেও দেখা যায় -এই জন্য বৈমানিকগণ আলোক-সংকেতরূপে এই আলো ব্যবহার করে থাকেন।
+(২) নিয়নের সাহায্যে প্রতিপ্রভ নলে আলোর বৈচিত্র্য সৃষ্টি করে ব্যবসায় ক্ষেত্রে রকমারি বিজ্ঞাপনে নিয়ন যথেষ্ট পরিমাণে ব্যবহৃত হয়।
+(৩) কোন নিদিষ্ট বিভব সীমা (voltage limit) অতিক্রান্ত না হওয়া পর্যন্ত নিয়ন-হিলিয়াম মিশ্রণ বিদ্যুৎ পরিবহন করে না। এই মাত্রা অর্থাৎ উচ্চ বিভব প্রয়োগ হলে এটি বিদ্যুৎ পরিবাহী। কাজেই ভোল্টামিটার ও রেকইটফায়ার প্রভৃতি যন্ত্রের সংরক্ষণে এই মিশ্রণ ব্যবহৃত হয়।
+[সম্পাদনা] আর্গন
+
+(১) আর্গন প্রধানত ইলেকট্রিক বাল্ব পূরণে ব্যবহৃত হয়। বাল্বে আর্গন থাকার দরুন টাংস্টেন সূত্র (tungsten filament) সহজে বাষ্পীভূত হয় না ফলে বালবের পরমায়ু অনেকাংশে বর্ধিত হয়।
+(২) রেডিও-এর বাল্ব ও রেকটিফায়ার-এ আর্গন ব্যবহৃত হয়।
+(৩) ঝালাই-এর কাজে নিষ্ক্রিয় পরিবেশ সৃষ্টি করতে আর্গন ব্যবহৃত হয়।
+(৪) গ্যাস ক্লোমাটোগ্রাফীতেও এর ব্যবহার আছে।
+[সম্পাদনা] ক্রিপটন
+
+(১) আর্গনের মত ক্রিপটনও টিউব বাতিতে ব্যবহৃত হয়।
+(২) কসমিক রশ্মি পরিমাপে আয়নীকরণ প্রকোষ্ঠে (Ionisation chamber) ক্রিপটন ব্যবহৃত হয়।
+(৩) ক্রিপটন পারমাণবিক দীপ (Krypton atomic lamp) নির্মাণে Kr 85-এর ব্যবহার আছে।
+(৪) খনি-শ্রমিকদের ‘ক্যাপ-ল্যাম্পে’ ক্রিপটন ব্যবহার করা হয়।
+[সম্পাদনা] জেনন
+
+(১) দ্রুত গতিসম্পন্ন ফ্লাশ-লাইটে জেনন আছে।
+(২) নিউট্রন Y-রশ্মি ও নিরপেক্ষ মেসন (meson) শনাক্তকরণে বুদ্বুদ্ প্রকোষ্ট (Bubble chamber) তৈরি করতে এটি ব্যবহৃত হয়।
+[সম্পাদনা] রেডন
+
+(১) রেডিও-থ্যারাপি চিকিৎসায় শরীরে ক্ষতিকর বৃদ্ধি নাশে এটি ব্যবহৃত হয়।
+(২) ক্যানসারের মত দুরারোগ্য ব্যাধি নিরসনেও রেডন ব্যবহৃত হয়।
+[সম্পাদনা] বর্ণ বিচ্ছুরণ
+নিখাদ নিষ্ক্রীয় গ্যাসের বৈদ্যিতিক নিঃসরণ থেকে বর্ণ এবং দ্যূতি (নিম্নচিত্র) বিচ্ছুরণ Glass tube shining violet light with a wire wound over it 	Glass tube shining orange light with a wire wound over it 	Glass tube shining violet-blue light with a wire wound over it 	Glass tube shining white light with a wire wound over it 	Glass tube shining blue light with a wire wound over it
+Glass tube shining red 	Glass tube shining red 	Glass tube shining red 	Glass tube shining red 	Glass tube shining red
+Illuminated light red gas discharge tubes shaped as letters H and e 	Illuminated orange gas discharge tubes shaped as letters N and e 	Illuminated blue gas discharge tubes shaped as letters A and r 	Illuminated white gas discharge tubes shaped as letters K and r 	Illuminated violet gas discharge tubes shaped as letters X and e
+Helium line spectrum 	Neon line spectrum 	Argon line spectrum 	Krypton line spectrum 	Xenon line spectrum
+হিলিয়াম 	নিয়ন 	আরগন
+(with some Hg in the "Ar" image) 	ক্রিপ্টন 	জিনন
+[সম্পাদনা] তথ্যসূত্র ও পাদটীকা
+
+    ↑ আইইউপ্যাক অনুসারে মাঝে মাঝে শূন্যতম শ্রেণীও বলা হয়)
+    ↑ নোবল গ্যাসসমূহ
+    ↑ রসায়নের ইতিহাস - নোবল গ্যাসসমূহ
+    ↑ Lodders, Katharina (2003); “Solar System Abundances and Condensation Temperatures of the Elements”। The Astrophysical Journal 591 (2): পৃ. 1220–1247। ডিওআই:10.1086/375492।
+    ↑ The Atmosphere। প্রকাশক: National Weather Service। সংগৃহীত হয়েছে: 2008-06-01।
+    ↑ উদ্ধৃতি ত্রুটি: অবৈধ <ref> ট্যাগ; ullmann নামের refগুলির জন্য কোন টেক্সট প্রদান করা হয়নি
+    ↑ Greenwood 1997, p. 891
+    ↑ গ্রুপ ১৮ নোবল গ্যাসসমূহ
+
+বিষয়শ্রেণীসমূহ:
+
+    কাজ চলছে
+    পর্যায় সারণী
+    নিষ্ক্রিয় গ্যাস
+
+
+
+
+নেপচুনিয়াম পর্যায় সারণীর অ্যাক্টিনাইড সিরিজের তথা গ্রুপ 3B এর অন্তর্গত একটি তেজস্ক্রিয় মৌল। প্রথম কৃত্রিমভাবে প্রস্তুতকৃত ট্রান্সইউরেনিয়াম মৌল হিসেবেও এর পরিচিতি রয়েছে। এটি রৌপ্য বর্ণের ধাতব পদার্থ।
+সূচিপত্র
+ [আড়ালে রাখো] 
+
+    ১ আবিষ্কার
+    ২ সাধারণ বৈশিষ্ট্য
+    ৩ আইসোটোপ
+    ৪ ব্যবহার
+    ৫ নিবন্ধের উৎস
+    ৬ আরও দেখুন
+
+[সম্পাদনা] আবিষ্কার
+
+এডুইন ম্যাটিসন ম্যাকমিলান (Edwin Mattison McMillan) এবং ফিলিপ হগ অ্যাবেলসন (Philip Hauge Abelson) নামক দুজন বিজ্ঞানী সর্বপ্রথম ১৯৪০ সালে নেপচুনিয়াম তৈরি করেন। তারা ইউরেনিয়ামের আকরিকের নিউট্রন আবেশিত ট্রান্সমিউটেশন বিক্রিয়ার (Neutron-induced Transmutation Reaction) মাধ্যমে এটি প্রস্তুত করেন। মূলত সাইক্লোট্রন নামক যন্ত্র থেকে উচ্চ দ্রুতিসম্পন্ন নিউট্রন দ্বারা ইউরেনিয়ামকে আঘাত করার ফলে এটি উদ্ভাবনের সম্ভাবনা সৃষ্টি হয়।
+[সম্পাদনা] সাধারণ বৈশিষ্ট্য
+
+ব্রিডার চুল্লীর মাধ্যমে ইউরেনিয়াম-২৩৮ থেকে প্লুটোনিয়াম তৈরির সময় উপজাত হিসেবে নেপচুনিয়াম উৎপাদিত হয়। এ ক্ষেত্রে সাধারণত প্লুটোনিয়ামের ১০০০ ভাগের ১ ভাগ নেপচুনিয়াম উৎপাদিত হয়।
+
+এটি সাধারণত তিনটি কেলাস গঠন প্রদান করে। তবে কক্ষ তাপমাত্রায় আলফা-অর্থোরম্বিক গঠন দেখায়। রাসায়নিকভাবে সক্রিয় এ মৌলটির ধর্ম অনেকটা ইউরেনিয়াসের মতই। জলীয় দ্রবনে এটি বিভিন্ন আয়নের জন্য বিভিন্ন বৈশিষ্ট্যমূলক বর্ণ প্রদান করে। যেমন :
+
+    Np3+ = হালকা পার্পল
+    Np4+ = হালকা হলুদাভ সবুজ
+    (NpO2)+ = সবুজাভ নীল
+    NpO2+ = অ্যানায়নের উপর নির্ভর করে বর্ণহীন থেকে গোলাপী অথবা হলুদাভ সবুজের মধ্যে পরিবর্তনশীল
+
+[সম্পাদনা] আইসোটোপ
+
+নেপচুনিয়ামের সকল আইসোটোপই তেজম্ক্রিয়। সবচেয়ে স্থিতিশীল আইসোটোপ হচ্ছে নেপচুনিয়াম-২৩৭ যার অর্ধায়ুকাল ২,১৪০,০০০ বছর। আর সবচেয়ে অস্থিতিশীল আইসোটোপ হচ্ছে নেপচুনিয়াম-২৩২ যার অর্ধায়ুকাল ১৩ মিনিট।
+[সম্পাদনা] ব্যবহার
+[সম্পাদনা] নিবন্ধের উৎস
+
+    উচ্চ মাধ্যমিক রসায়ন প্রথম পত্র - প্রফেসর মো. মহির উদ্দিন, লায়লা মুসতারিন, ড. তানভীর মুসলিম, হাছিনা বেগম।
+    উচ্চ মাধ্যমিক রসায়ন প্রথম পত্র - ড. সরোজ কান্তি সিংহ হাজারী, হারাধন নাগ।
+    ব্রিটানিকা বিশ্বকোষ (Encyclopedia Britannica)
+
+[সম্পাদনা] আরও দেখুন
+
+    এডুইন ম্যাকমিলান
+    ফিলিপ অ্যাবেলসন
+    মৌলিক পদার্থ
+    পর্যায় সারণী
+    ট্রান্সইউরেনিয়াম মৌল
+    তেজস্ক্রিয়তা
+
+বিষয়শ্রেণী:
+
+    মৌলিক পদার্থ
+
+
+
+
+পজিট্রন (antielectron)
+PositronDiscovery.jpg
+Cloud chamber সি. ডি. এ্যান্ডারসনের তোলা, প্রথম সনাক্তকৃত পজিট্রনের ছবি। একটি ৬ মিলিমিটার সীসার প্লেট চেম্বারটির উপরের অর্ধ্বাংশকে নিচের অর্ধ্বাংশ থেকে আলাদা করেছে। পজিট্রনটি অবশ্যই নিচের দিক থেকে এসেছে যেহেতু উপরের ট্র্যাকটি চৌম্বকিয় আবেশে বেশ বাঁকা হয়েছে, যা তুলনামূলক কম শক্তি প্রতিফলিত করছে।
+গঠন: 	মৌলিক কণা
+কণা পরিসংখ্যান: 	Fermionic
+গ্রুপ: 	Lepton
+প্রজন্ম: 	প্রথম
+মিথস্ক্রিয়া: 	মহাকর্ষ, Electromagnetic, Weak
+প্রতীক: 	β+, e+
+প্রতিকণা: 	ইলেকট্রন
+Theorized: 	পল দিরাক (১৯২৮)
+Discovered: 	Carl D. Anderson (১৯৩২)
+Mass: 	9.10938215(45)×10−31 kg[১]
+
+5.4857990943(23)×10−4 u[১]
+[1822.88850204(77)]−1 u[note ১]
+0.510998910(13) MeV/c2[১]
+Electric charge: 	+1  e
+1.602176487(40)×10−19 C[১]
+Spin: 	1⁄2
+
+পজিট্রন হলো ইলেক্ট্রনের প্রতিকণা বা প্রতিপদার্থ। পজিট্রনের বৈদ্যুতিক আধান +১e , স্পিন 1⁄2 এবং এর ভর ইলেক্ট্রনের ভরের সমান। একটি কম শক্তির পজিট্রনের সাথে একটি কম শক্তির ইলেক্ট্রনের সংঘর্ষের মাধ্যমে পূর্ণবিলয়ের ফলে দুই বা ততোধিক গামা রশ্মির ফোটন কণা তৈরি হয়।
+সূচিপত্র
+ [আড়ালে রাখো] 
+
+    ১ ইতিহাস
+    ২ ব্যবহার
+    ৩ আরো দেখুন
+    ৪ নোট
+    ৫ তথ্যসূত্র
+    ৬ বহিঃসংযোগ
+
+[সম্পাদনা] ইতিহাস
+[সম্পাদনা] ব্যবহার
+[সম্পাদনা] আরো দেখুন
+
+    বিটা কণিকা
+    প্রোটন
+
+
+
+
+পর্যায় সারণীর পঞ্চম শ্রেণীর মৌলগুলো হচ্ছে ভ্যানাডিয়াম, নিওবিয়াম, ট্যান্টালাম, ডুবনিয়াম।
+
+
+
+
+আর্গন ← পটাশিয়াম → ক্যালসিয়াম
+Na
+↑
+K
+↓
+Rb 	
+
+
+Element 1: হাইড্রোজেন (H), Other non-metal
+		
+Element 2: হিলিয়াম (He), Noble gas
+Element 3: লিথিয়াম (Li), Alkali metal
+	
+Element 4: বেরিলিয়াম (Be), Alkaline earth metal
+		
+Element 5: বোরন (B), Metalloid
+	
+Element 6: কার্বন (C), Other non-metal
+	
+Element 7: নাইট্রোজেন (N), Other non-metal
+	
+Element 8: অক্সিজেন (O), Other non-metal
+	
+Element 9: ফ্লোরিন (F), Halogen
+	
+Element 10: নিয়ন (Ne), Noble gas
+Element 11: সোডিয়াম (Na), Alkali metal
+	
+Element 12: ম্যাগনেসিয়াম (Mg), Alkaline earth metal
+		
+Element 13: অ্যালুমিনিয়াম (Al), Other metal
+	
+Element 14: সিলিকন (Si), Metalloid
+	
+Element 15: ফসফরাস (P), Other non-metal
+	
+Element 16: সালফার (S), Other non-metal
+	
+Element 17: ক্লোরিন (Cl), Halogen
+	
+Element 18: আর্গন (Ar), Noble gas
+Element 19: পটাশিয়াম (K), Alkali metal
+	
+Element 20: ক্যালসিয়াম (Ca), Alkaline earth metal
+	
+Element 21: স্ক্যানডিয়াম (Sc), Transition metal
+		
+Element 22: টাইটানিয়াম (Ti), Transition metal
+	
+Element 23: ভ্যানাডিয়াম (V), Transition metal
+	
+Element 24: ক্রোমিয়াম (Cr), Transition metal
+	
+Element 25: ম্যাঙ্গানিজ (Mn), Transition metal
+	
+Element 26: লোহা (Fe), Transition metal
+	
+Element 27: কোবাল্ট (Co), Transition metal
+	
+Element 28: নিকেল (Ni), Transition metal
+	
+Element 29: তামা (Cu), Transition metal
+	
+Element 30: দস্তা (Zn), Transition metal
+	
+Element 31: গ্যালিয়াম (Ga), Other metal
+	
+Element 32: জার্মেনিয়াম (Ge), Metalloid
+	
+Element 33: আর্সেনিক (As), Metalloid
+	
+Element 34: সেলেনিয়াম (Se), Other non-metal
+	
+Element 35: ব্রোমিন (Br), Halogen
+	
+Element 36: ক্রিপটন (Kr), Noble gas
+Element 37: রুবিডিআম (Rb), Alkali metal
+	
+Element 38: স্ট্রনসিয়াম (Sr), Alkaline earth metal
+	
+Element 39: ইটরিয়াম (Y), Transition metal
+		
+Element 40: জারকোনিয়াম (Zr), Transition metal
+	
+Element 41: নাইওবিয়াম (Nb), Transition metal
+	
+Element 42: মলিবডিনাম (Mo), Transition metal
+	
+Element 43: টেকনিসিয়াম (Tc), Transition metal
+	
+Element 44: রুথেনিয়াম (Ru), Transition metal
+	
+Element 45: রোহডিয়াম (Rh), Transition metal
+	
+Element 46: প্যালাডিয়াম (Pd), Transition metal
+	
+Element 47: রুপা (Ag), Transition metal
+	
+Element 48: ক্যাডমিয়াম (Cd), Transition metal
+	
+Element 49: ইন্ডিয়াম (In), Other metal
+	
+Element 50: টিন (Sn), Other metal
+	
+Element 51: অ্যান্টিমনি (Sb), Metalloid
+	
+Element 52: টেলুরিয়াম (Te), Metalloid
+	
+Element 53: আয়োডিন (I), Halogen
+	
+Element 54: জেনন (Xe), Noble gas
+Element 55: সিজিয়াম (Cs), Alkali metal
+	
+Element 56: বেরিয়াম (Ba), Alkaline earth metal
+	
+Element 57: ল্যান্থানাম (La), Lanthanoid
+	
+Element 58: সিরিয়াম (Ce), Lanthanoid
+	
+Element 59: প্রাসিওডিমিয়াম (Pr), Lanthanoid
+	
+Element 60: নিওডিমিয়াম (Nd), Lanthanoid
+	
+Element 61: প্রমিথিয়াম (Pm), Lanthanoid
+	
+Element 62: সামারিয়াম (Sm), Lanthanoid
+	
+Element 63: ইউরোপিয়াম (Eu), Lanthanoid
+	
+Element 64: গ্যাডোলিনিয়াম (Gd), Lanthanoid
+	
+Element 65: টারবিয়াম (Tb), Lanthanoid
+	
+Element 66: ডিসপ্রোসিয়াম (Dy), Lanthanoid
+	
+Element 67: হলমিয়াম (Ho), Lanthanoid
+	
+Element 68: এরবিয়াম (Er), Lanthanoid
+	
+Element 69: থুলিয়াম (Tm), Lanthanoid
+	
+Element 70: ইটারবিয়াম (Yb), Lanthanoid
+	
+Element 71: লুটেসিয়াম (Lu), Lanthanoid
+	
+Element 72: হ্যাফনিয়াম (Hf), Transition metal
+	
+Element 73: ট্যানটালাম (Ta), Transition metal
+	
+Element 74: টাংস্টেন (W), Transition metal
+	
+Element 75: রিনিয়াম (Re), Transition metal
+	
+Element 76: অসমিয়াম (Os), Transition metal
+	
+Element 77: ইরিডিয়াম (Ir), Transition metal
+	
+Element 78: প্লাটিনাম (Pt), Transition metal
+	
+Element 79: সোনা (Au), Transition metal
+	
+Element 80: পারদ (Hg), Transition metal
+	
+Element 81: থ্যালিয়াম (Tl), Other metal
+	
+Element 82: সীসা (Pb), Other metal
+	
+Element 83: বিসমাথ (Bi), Other metal
+	
+Element 84: পোলোনিয়াম (Po), Other metal
+	
+Element 85: এস্টাটিন (At), Halogen
+	
+Element 86: রেডন (Rn), Noble gas
+Element 87: ফ্রান্সিয়াম (Fr), Alkali metal
+	
+Element 88: রেডিয়াম (Ra), Alkaline earth metal
+	
+Element 89: অ্যাক্টিনিয়াম (Ac), Actinoid
+	
+Element 90: থোরিয়াম (Th), Actinoid
+	
+Element 91: প্রোটেক্টিনিয়াম (Pa), Actinoid
+	
+Element 92: ইউরেনিয়াম (U), Actinoid
+	
+Element 93: নেপচুনিয়াম (Np), Actinoid
+	
+Element 94: প্লুটোনিয়াম (Pu), Actinoid
+	
+Element 95: অ্যামেরিসিয়াম (Am), Actinoid
+	
+Element 96: কুরিয়াম (Cm), Actinoid
+	
+Element 97: বার্কেলিয়াম (Bk), Actinoid
+	
+Element 98: ক্যালিফোর্নিয়াম (Cf), Actinoid
+	
+Element 99: আইনস্টাইনিয়াম (Es), Actinoid
+	
+Element 100: ফার্মিয়াম (Fm), Actinoid
+	
+Element 101: মেন্ডেলেভিয়াম (Md), Actinoid
+	
+Element 102: নোবেলিয়াম (No), Actinoid
+	
+Element 103: লরেনসিয়াম (Lr), Actinoid
+	
+Element 104: রাদারফোর্ডিয়াম (Rf), Transition metal
+	
+Element 105: ডুবনিয়াম (Db), Transition metal
+	
+Element 106: সিবোরজিয়াম (Sg), Transition metal
+	
+Element 107: বোহরিয়াম (Bh), Transition metal
+	
+Element 108: হ্যাসিয়াম (Hs), Transition metal
+	
+Element 109: মিটনেরিয়াম (Mt), Transition metal
+	
+Element 110: ডার্মস্টেটিয়াম (Ds), Transition metal
+	
+Element 111: রন্টজেনিয়াম (Rg), Transition metal
+	
+Element 112: কোপার্নিসিয়াম (Cn), Transition metal
+	
+Element 113: ইউনুনট্রিয়াম (Uut)
+	
+Element 114: ইউনুনকোয়াডিয়াম (Uuq)
+	
+Element 115: ইউনুনপেন্টিয়াম (Uup)
+	
+Element 116: ইউনুনহেক্সিয়াম (Uuh)
+	
+Element 117: ইউনুনসেপটিয়াম (Uus)
+	
+Element 118: ইউনুনকটিয়াম (Uuo)
+পটাশিয়াম has a body-centered cubic crystal structure
+19K
+পর্যায় সারণী
+ভৌত রূপ
+silvery gray
+
+
+Spectral lines of potassium
+সাধারণ বৈশিষ্ট
+নাম, প্রতীক, পারমাণবিক সংখ্যা 	পটাশিয়াম, K, 19
+উচ্চারণ 	/pɵˈtæsiəm/ po-TAS-ee-əm
+রাসায়নিক শ্রেণী 	ক্ষার ধাতু
+শ্রেণী, পর্যায়, ব্লক 	১, 4, s
+পারমাণবিক ওজন 	39.0983(1)
+ইলেকট্রন বিন্যাস 	[Ar] 4s1
+শক্তিস্তরে ইলেকট্রন সংখ্যা 	2, 8, 8, 1 (ছবিতে দেখুন)
+ভৌত বৈশিষ্ট্য
+দশা 	কঠিন
+ঘনত্ব (প্রায় r.t.) 	0.862 g·cm−3
+গলনাংকে তরলের ঘনত্ব 	0.828 g·cm−3
+গলনাংক 	336.53 K, 63.38 °C, 146.08 °F
+স্ফুটনাংক 	1032 K, 759 °C, 1398 °F
+ত্রৈধ বিন্দু 	336.35 K (63°C),  kPa
+ফিউশনের এনথালপি 	2.33 kJ·mol−1
+Heat of vaporization 	76.9 kJ·mol−1
+তাপ ধারকত্ব 	29.6 J·mol−1·K−1
+পারমাণবিক বৈশিষ্ট্য
+জারন সংখ্যা 	1
+(strongly basic oxide)
+তাড়িৎচুম্বকত্ব 	0.82 (Pauling scale)
+আয়নীকরণ শক্তি
+(বিস্তারিত) 	প্রথম: 418.8 kJ·mol−1
+দ্বিতীয়: 3052 kJ·mol−1
+তৃতীয়: 4420 kJ·mol−1
+পারমানবিক ব্যাসার্ধ্য 	227 pm
+Covalent radius 	203±12 pm
+Van der Waals radius 	275 pm
+অন্যান্য বৈশিষ্ট্য
+কেলাসের গঠন 	কেন্দ্রমুখী ঘনক
+চুম্বকত্ব 	paramagnetic
+বিদ্যুৎ পরিবাহীতা 	(20 °C) 72 nΩ·m
+তাপ পরিবহকত্ব 	102.5 W·m−1·K−1
+তাপ পরিবাহিতা 	(25 °C) 83.3 µm·m−1·K−1
+Speed of sound (thin rod) 	(20 °C) 2000 m·s−1
+ইয়ং-এর গুণাঙ্ক 	3.53 GPa
+Shear modulus 	1.3 GPa
+Bulk modulus 	3.1 GPa
+কাঠিন্য মাত্রা 	0.4
+Brinell hardness 	0.363 MPa
+ক্যাস নিবন্ধন নম্বর 	7440-09-7
+কয়েকটি উল্লেখযোগ্য সমস্থানিক
+মূল নিবন্ধ: Isotopes of potassium
+iso 	NA 	half-life 	DM 	DE (MeV) 	DP
+39K 	93.26% 	K 20টি নিউট্রন নিয়ে স্থিত হয়
+40K 	0.012% 	1.248(3)×109 y 	β− 	1.311 	40Ca
+ε 	1.505 	40Ar
+β+ 	1.505 	40Ar
+41K 	6.73% 	K 22টি নিউট্রন নিয়ে স্থিত হয়
+· r
+
+পটাশিয়াম (রাসায়নিক সংকেত:K, পারমাণবিক সংখ্যা 19) একটি মৌলিক পদার্থ। ।
+সূচিপত্র
+ [আড়ালে রাখো] 
+
+    ১ আবিষ্কার
+    ২ বৈশিষ্ট্য
+    ৩ ব্যবহার
+    ৪ যৌগসমূহ
+    ৫ রাসায়নিক বিক্রিয়া
+    ৬ তথ্যসূত্র
+    ৭ আরও দেখুন
+
+
+
+সাগর পৃথিবীর প্রায় ৯৭.৩% পানি ধারণ করে। ভূপৃষ্ঠের ২/৩ ভাগ পানি। Water covers 71% of the Earth's surface; the oceans contain 97.2% of the Earth's water. The Antarctic ice sheet, which contains 61% of all fresh water on Earth, is visible at the bottom. Condensed atmospheric water can be seen as clouds, contributing to the Earth's albedo.
+
+পানি বা জল এক প্রকার গন্ধহীন, বর্ণহীন তরল পদার্থ। এটি হাইড্রোজেন ও অক্সিজেন এর সমন্বয়ে গঠিত। দুই পরমাণু হাইড্রোজেন ও এক পরমাণু অক্সিজেন মিলে এক অণু পানি গঠন করে। এর রাসায়নিক সংকেত হল (H2O)। পানির হিমাঙ্ক/গলনাঙ্ক ০° সেলসিয়াস এবং স্ফুটনাঙ্ক ১০০°। নিম্নতম তাপমাত্রার (০ ডিগ্রি তাপমাত্রার নিচে) জল হয় কঠিন, যাকে বলা হয় বরফ। ০ থেকে বেশী তাপমাত্রার জল সাধারণত তরল যা জল বা পানি হিসেবে পরিচিত। আর সকল তাপমাত্রায়ই সাধারণত পানি বাস্পিভূত হতে পারে। পানির বায়বীয় রুপটিকে বলা হয় জলীয়বাষ্প বা বাষ্প। পানি বাষ্প দ্বারা এক সময় স্টিম ইঞ্জিন চালানো হতো। যা টেনে নিয়ে যেত রেল গাড়ির মত বৃহৎ যান।
+Model of hydrogen bonds between molecules of water
+
+পৃথিবীর ৬০% অংশ জুড়ে পানি রয়েছে। মানবদেহের ৮০% অংশ পানি দিয়ে গঠিত। এটি সকল জীব দেহের একটি প্রধান উপাদান। পৃথিবীর তিন ভাগের ২ ভাগ জল আর ১ ভাগ স্থল। এর মধ্যে প্রায় ৯৭% জল আছে সাগরে। বাকী জল জমে আছে স্থলভাগের কোন জলাধার অথবা কম উষ্ণতার কোন ভূ-পৃষ্ঠের উপরি তলে; হতে পারে তা পাহাড়-পর্বত কিংবা সমভূমি। জলবায়ুতে জমে থাকা বাস্পাকারে জলের পরিমাণও নেহাত কম নয়। পৃথিবীর জীবনের উৎস এই জলকে তাই 'জীবন' বলা হয়। পৃথিবীতে জলের পরিমাণ নির্দিষ্ট। তাপমাত্রার তারতম্যের কারণে চক্রাকারে তা ঘুরতে থাকে সমূদ্র হতে বায়ুমন্ডলে। বায়ুমন্ডল হতে বৃষ্টি হয়ে পাহাড়-পর্বত, সমভূমি, নদী-নালা, খাল-বিলে পতিত হয়। প্রবাহমান নদী সে জল বয়ে নিয়ে আসে সমূদ্রে। কম উষ্ণতার বরফাচ্ছন্ন স্থানের তাপমাত্রা বৃদ্ধির ফলে বরফ গলে বা জলীয় বাস্প হয়ে একইভাবে চক্রায়িত হয়। এভাবে চক্রান্তের আবর্তে পড়ে জল বিভিন্ন আকার ধারন করে।
+
+
+পানি ৩টি রূপে বিদ্যমান - কঠিন (বরফ), তরল, এবং বায়বীয় (বাষ্প)। মেঘ হলো ঘণীভূত জলীয় বাষ্প থেকে উদ্ভূত জলকণা।
+
+পানি কখনো কখনো জীবন রক্ষাকারীর বদলে হয়ে উঠে লক্ষ লক্ষ প্রাণের বিণাশকারী। অত্যধিক বৃষ্টির কারণে অথবা বরফ গলে উচু ভূমি হতে নেমে আসে প্রবল প্রতাপশালী পানির স্রোত। ভাটির দেশে সৃষ্টি হয় বন্যা, জলাবদ্ধতা। অগণিত মানুষ প্রাণ হারায় প্রকৃতির এইরুপ আবর্তে পরে। বদ্ধ পানি খুব দ্রুত দূষিত হয়। এই সব দূষিত পানি ব্যবহার করে লক্ষ লক্ষ মানুষ দুরারোগ্য ব্যাধি যেমনঃ ডায়রিয়া, কলেরা, জ্বর, শর্দি, কাশি, চর্মরোগ সহ বিভিন্ন ভাবে আক্রান্ত হয়। দীর্ঘস্থায়ী বন্যার ফলে দেশে খাদ্যাভাব দেখা দেয়। মানুষের পানের জন্য নিরাপদ পানি প্রয়োজন।
+
+
+[সম্পাদনা] পানিচক্র অথবা জলচক্র
+
+Watercyclebengali.jpg
+সহপ্রকল্পে অনুসন্ধান 	উইকিমিডিয়া কমন্সে নিচের বিষয় সংক্রান্ত মিডিয়া রয়েছে: Category:Water
+এই নিবন্ধটি অসম্পূর্ণ। আপনি চাইলে এটিকে সমৃদ্ধ করে উইকিপিডিয়াকে সাহায্য করতে পারেন।
+
+[[zu:Amanzi] ]
+
+বিষয়শ্রেণীসমূহ:
+
+    অসম্পূর্ণ
+    পানি
+    তরল পদার্থ
+
+
+
+
+পান্না মধ্যম থেকে গাঢ় সবুজ রঙের রত্ন পাথর। ষড়ভূজাকৃতির কেলাস আকারে এটি পাওয়া যায়। বেশির ভাগ পান্নাই ঘোলাটে বর্ণের এবং খুঁতযুক্ত। নিখুঁত ও সুন্দর পান্না খুবই দামি রত্ন। একই ধরনের খনিজ পাথরের সাথে পান্নার পার্থক্য হলো শুধু পান্নাই অভ্র শিলাস্তরে বা চুনাপাথরে পাওয়া যায়। সবচেয়ে বেশি পাওয়া যায় কলম্বিয়ার মুজো এবং এল সিভর খনিতে। উরাল পর্বতমালার টকোভোয়া-তে আভ্রখনিতেও পাওয়া যায়। অবশ্য সেখানে তা বেরিলিয়ামের আকরিক ক্রিসোবেরিল ও ফেনাকাইটের সঙ্গে মিশ্রিত অবস্থায় থাকে। এছাড়াও অস্ট্রিয়া, দক্ষিণ আফ্রিকা ও ভারতের কালিগুমানে পান্না পাওয়া যায়।
+[সম্পাদনা] রাসায়নিক গঠন
+
+বেরিল (বেরিলিয়াম অ্যালুমিনোসিলিকেট) এর স্ফটিকের মধ্যে অতি অল্প মাত্রায় ক্রোমিয়াম বা লোহার খাদ থাকলে এরকম রঙের কেলাস হয়।
+বিষয়শ্রেণী:
+
+    রত্ন পাথর
+
+
+
+
+ষ থেকে
+80 	সোনা ← পারদ → থ্যালিয়াম
+Cd
+↑
+Hg
+↓
+Uub 	
+Hg-TableImage.png
+পর্যায় সারণী
+সাধারণ বৈশিষ্ট্য
+নাম, প্রতীক, পারমাণবিক সংখ্যা 	পারদ, Hg, 80
+রাসায়নিক শ্রেণী 	transition metals
+গ্রুপ, পর্যায়, ব্লক 	12, 6, d
+ভৌত রূপ 	silvery white
+Hg Mercury.jpg
+পারমাণবিক ভর 	200.59(2) g/mol
+ইলেক্ট্রন বিন্যাস 	[Xe] 4f14 5d10 6s2
+প্রতি শক্তিস্তরে ইলেকট্রন সংখ্যা 	2, 8, 18, 32, 18, 2
+ভৌত বৈশিষ্ট্য
+দশা 	তরল
+ঘনত্ব (সাধারণ তাপ ও চাপে) 	(liquid) 13.534 g/cm³
+গলনাঙ্ক 	234.32 K
+(-38.83 °C, -37.89 °F)
+স্ফুটনাঙ্ক 	629.88 K
+(356.73 °C, 674.11 °F)
+Critical point 	1750 K, 172.00 MPa
+গলনের লীন তাপ 	2.29 kJ/mol
+বাষ্পীভবনের লীন তাপ 	59.11 kJ/mol
+তাপধারণ ক্ষমতা 	(২৫ °সে) 27.983 জুল/(মোল·কে)
+বাষ্প চাপ P/প্যাসকেল 	১ 	১০ 	১০০ 	১ কে 	১০ কে 	১০০ কে
+T/কেলভিন তাপমাত্রায় 	315 	350 	393 	449 	523 	629
+পারমাণবিক বৈশিষ্ট্য
+কেলাসীয় গঠন 	rhombohedral
+জারণ অবস্থা 	2, 1
+(mildly basic oxide)
+তড়িৎ ঋণাত্মকতা 	2.00 (পাউলিং স্কেল)
+Ionization energies 	1st: 1007.1 kJ/mol
+2nd: 1810 kJ/mol
+3rd: 3300 kJ/mol
+পারমাণবিক ব্যাসার্ধ 	150 pm
+Atomic radius (calc.) 	171 pm
+Covalent radius 	149 pm
+Van der Waals radius 	155 pm
+অন্যান্য বৈশিষ্ট্য
+Magnetic ordering 	diamagnetic
+Electrical resistivity 	(25 °C) 961 nΩ·m
+তাপ পরিবাহিতা 	(300 K) 8.30 W/(m·K)
+Thermal expansion 	(25 °C) 60.4 µm/(m·K)
+Speed of sound 	(liquid, 20 °C) 1451.4 m/s
+সি এ এস নিবন্ধন সংখ্যা 	7439-97-6
+কয়েকটি উল্লেখযোগ্য সমস্থানিক
+প্রধান নিবন্ধ: mercuryের সমস্থানিক iso 	NA 	half-life 	DM 	DE (MeV) 	DP
+194Hg 	syn 	444 y 	ε 	0.040 	194Au
+195Hg 	syn 	9.9 h 	ε 	1.510 	195Au
+196Hg 	0.15% 	Hg 116টি নিউট্রন নিয়ে স্থিত হয়
+197Hg 	syn 	64.14 h 	ε 	0.600 	197Au
+198Hg 	9.97% 	Hg 118টি নিউট্রন নিয়ে স্থিত হয়
+199Hg 	16.87% 	Hg 119টি নিউট্রন নিয়ে স্থিত হয়
+200Hg 	23.1% 	Hg 120টি নিউট্রন নিয়ে স্থিত হয়
+201Hg 	13.18% 	Hg 121টি নিউট্রন নিয়ে স্থিত হয়
+202Hg 	29.86% 	Hg 122টি নিউট্রন নিয়ে স্থিত হয়
+203Hg 	syn 	46.612 d 	β- 	0.492 	203Tl
+204Hg 	6.87% 	Hg 124টি নিউট্রন নিয়ে স্থিত হয়
+References
+
+পারদ একটি মৌলিক পদার্থ।
+সূচিপত্র
+ [আড়ালে রাখো] 
+
+    ১ আবিষ্কার
+    ২ বৈশিষ্ট্য
+    ৩ যৌগসমূহ
+    ৪ রাসায়নিক বিক্রিয়া
+    ৫ ব্যবহার
+    ৬ উৎস
+    ৭ আরও দেখুন
+    ৮ বহিঃসংযোগ
+
+
+
+
+
+পারমানিক সংখ্যার ক্রমানুসারে ও মৌলের ধরণ অনুসারে বিভিন্ন রং-এ সাজানো মোলিক পদার্থের তালিকা। সব মৌলের প্রতীক, পর্যায়, পারমানবিক ভর, ঘনত্ব, গলনাঙ্ক, স্ফুটনাঙ্ক এবং আবিস্কারের বছর দেওয়া হলো।
+পর্যায় সারণীর রাসায়নিক শ্রেণীসমূহ ক্ষার ধাতু 	মৃৎক্ষার ধাতু 	ল্যান্থানাইড 	অ্যাক্টিনাইড 	অবস্থান্তর ধাতু
+দুর্বল ধাতু 	অপধাতু 	অধাতু 	হ্যালোজেন 	নিষ্ক্রিয় গ্যাস
+নং. 	নাম 	প্রতীক 	Period,
+Group 	ভর (জানা আইসোটোপ সংখ্যা)
+(g/mol) 	ঘনত্ব
+(g/cm³)
+at 20°C 	গলনাঙ্ক
+p. (°C) 	স্ফুটনাঙ্ক
+p. (°C) 	আবিস্কারের
+সাল 	আবিস্কারক
+1 	হাইড্রোজেন 	H 	১, ১ 	১.০০৭৯৪(৭) 	০.০৮৪ g/l 	-২৫৯ 	-২৫২.৯ 	১৭৬৬ 	ক্যাভেন্ডিস
+2 	হিলিয়াম 	He 	৪.০০২৬০২(২) 	০.১৭ g/l 	-২৭২.২ (২.৫ মেগাপ্যাস্কেলে) 	-২৬৮.৯ 	১৮৯৫ 	রামসে and ক্লেভ
+3 	লিথিয়াম 	Li 	৬.৯৪১(২) 	০.৫৩ 	১৮০.৫ 	১৩১৭ 	১৮১৭ 	আরবেডসন
+4 	বেরিলিয়াম 	Be 	২,২ 	৯.০১২১৮২(৩) 	১.৮৫ 	১২৭৮ 	২৯৭০ 	১৭৯৭ 	ভাওকুয়েলিন
+5 	বোরন 	B 	২,১৩ 	১০.৮১১(7) 	২.৪৬ 	২৩০০ 	২৫৫০ 	১৮০৮ 	ডেভী এবং গে‌-লুসাক
+6 	কার্বন 	C 	২,১৪ 	১২.০১০৭(৮) 	3.51 	3550 	4827 	prehistoric 	অজানা
+7 	নাইট্রোজেন 	N 	২,১৫ 	১৪.০০৬৭(২) 	১.১৭ g/l 	-২০৯.৯ 	-১৯৫.৮ 	১৭৭২ 	রাদারফোর্ড
+8 	অক্সিজেন 	O 	২,১৬ 	১৫.৯৯৯৪(৩) 	১.৩৩ g/l 	-২১৮.৪ 	-১৮২.৯ 	১৭৭৪ 	প্রিস্টলি and Scheele
+9 	ফ্লোরিন 	F 	২, ১৭ 	১৮.৯৯৮৪০৩২(৫) 	১.৫৮ g/l 	-২১৯.৬ 	-১৮৮.১ 	১৮৮৬ 	Moissan
+10 	নিয়ন 	Ne 	২,১৮ 	২০.১৭৯৭(৬)2 3 	0.84 g/l 	-248.7 	-246.1 	1898 	Ramsay and Travers
+11 	সোডিয়াম 	Na 	২২.৯৮৯৭৬৯২৮(২) 	0.97 	97.8 	892 	1807 	Davy
+12 	ম্যাগনেসিয়াম 	Mg 	3, 2 	24.3050(6) 	1.74 	648.8 	1107 	1755 	Black
+13 	অ্যালুমিনিয়াম 	Al 	3, 13 	26.9815386(8) 	2.70 	660.5 	2467 	1825 	Oersted
+14 	সিলিকন 	Si 	3, 14 	28.0855(3) 	2.33 	1410 	2355 	1824 	Berzelius
+15 	ফসফরাস 	P 	3, 15 	30.973762(2) 	1.82 	44 (P4) 	280 (P4) 	1669 	Brand
+16 	সালফার 	S 	3, 16 	32.065(5) 	2.06 	113 	444.7 	prehistoric 	unknown
+17 	ক্লোরিন 	Cl 	3, 17 	35.453(2) 	2.95 g/l 	-34.6 	-101 	1774 	Scheele
+18 	আর্গন 	Ar 	3, 18 	39.948(1) 	1.66 g/l 	-189.4 	-185.9 	1894 	Ramsay and Rayleigh
+19 	পটাশিয়াম 	K 	4, 1 	39.0983(1) 	0.86 	63.7 	774 	1807 	Davy
+20 	ক্যালসিয়াম 	Ca 	4, 2 	40.078(4) 	1.54 	839 	1487 	1808 	Davy
+21 	স্ক্যানডিয়াম 	Sc 	4, 3 	44.955912(6) 	2.99 	1539 	2832 	1879 	Nilson
+22 	টাইটানিয়াম 	Ti 	4, 4 	47.867(1) 	4.51 	1660 	3260 	1791 	Gregor and Klaproth
+23 	ভ্যানাডিয়াম 	V 	4, 5 	50.9415(1) 	6.09 	1890 	3380 	1801 	del Río
+24 	ক্রোমিয়াম 	Cr 	4, 6 	51.9961(6) 	7.14 	1857 	2482 	1797 	Vauquelin
+25 	ম্যাঙ্গানিজ 	Mn 	4, 7 	54.938045(5) 	7.44 	1244 	2097 	1774 	Gahn
+26 	লোহা 	Fe 	4, 8 	55.845(2) 	7.87 	1535 	2750 	prehistoric 	unknown
+27 	কোবাল্ট 	Co 	4, 9 	58.933195(5) 	8.89 	1495 	2870 	1735 	Brandt
+28 	নিকেল 	Ni 	4, 10 	58.6934(2) 	8.91 	1453 	2732 	1751 	Cronstedt
+29 	তামা 	Cu 	4, 11 	63.546(3)4 	8.92 	1083.5 	2595 	prehistoric 	unknown
+30 	দস্তা 	Zn 	4, 12 	65.409(4) 	7.14 	419.6 	907 	prehistoric 	unknown
+31 	গ্যালিয়াম 	Ga 	4, 13 	69.723(1) 	5.91 	29.8 	2403 	1875 	Lecoq de Boisbaudran
+32 	জার্মেনিয়াম 	Ge 	4, 14 	72.64(1) 	5.32 	937.4 	2830 	1886 	Winkler
+33 	আর্সেনিক 	As 	4, 15 	74.92160(2) 	5.72 	613 	613
+(subl.) 	ca. 1250 	Albertus Magnus
+34 	সেলেনিয়াম 	Se 	4, 16 	78.96(3)4 	4.82 	217 	685 	1817 	Berzelius
+35 	ব্রোমিন 	Br 	4, 17 	79.904(1) 	3.14 	-7.3 	58.8 	1826 	Balard
+36 	ক্রিপটন 	Kr 	4, 18 	83.798(2)2 3 	3.48 g/l 	-156.6 	-152.3 	1898 	Ramsay and Travers
+37 	রুবিডিয়াম 	Rb 	5, 1 	85.4678(3)2 	1.53 	39 	688 	1861 	Bunsen and Kirchhoff
+38 	স্ট্রনটিয়াম 	Sr 	5, 2 	87.62(1)2 4 	2.63 	769 	1384 	1790 	Crawford
+39 	ইট্রিয়াম 	Y 	5, 3 	88.90585(2) 	4.47 	1523 	3337 	1794 	Gadolin
+40 	জিরকোনিয়াম 	Zr 	5, 4 	91.224(2)2 	6.51 	1852 	4377 	1789 	Klaproth
+41 	নিওবিয়াম 	Nb 	5, 5 	92.906 38(2) 	8.58 	2468 	4927 	1801 	Hatchett
+42 	মলিবডেনাম 	Mo 	5, 6 	95.94(2)2 	10.28 	2617 	5560 	1778 	Scheele
+43 	টেকনেটিয়াম 	Tc 	5, 7 	[98.9063]1 	11.49 	2172 	5030 	1937 	Perrier and Segrè
+44 	রুথেনিয়াম 	Ru 	5, 8 	101.07(2)2 	12.45 	2310 	3900 	1844 	Klaus
+45 	রোহডিয়াম 	Rh 	5, 9 	102.90550(2) 	12.41 	1966 	3727 	1803 	Wollaston
+46 	প্যালাডিয়াম 	Pd 	5, 10 	106.42(1)2 	12.02 	1552 	3140 	1803 	Wollaston
+47 	রূপা 	Ag 	5, 11 	107.8682(2)2 	10.49 	961.9 	2212 	prehistoric 	unknown
+48 	ক্যাডমিয়াম 	Cd 	5, 12 	112.411(8)2 	8.64 	321 	765 	1817 	Strohmeyer and Hermann
+49 	ইন্ডিয়াম 	In 	5, 13 	114.818(3) 	7.31 	156.2 	2080 	1863 	Reich and Richter
+50 	টিন 	Sn 	5, 14 	118.710(7)2 	7.29 	232 	2270 	prehistoric 	unknown
+51 	এন্টিমনি 	Sb 	5, 15 	121.760(1)2 	6.69 	630.7 	1750 	prehistoric 	unknown
+52 	টেলুরিয়াম 	Te 	5, 16 	127.60(3)2 	6.25 	449.6 	990 	1782 	von Reichenstein
+53 	আয়োডিন 	I 	5, 17 	126.90447(3) 	4.94 	113.5 	184.4 	1811 	Courtois
+54 	জেনন 	Xe 	5, 18 	131.293(6)2 3 	4.49 g/l 	-111.9 	-107 	1898 	Ramsay and Travers
+55 	সিজিয়াম 	Cs 	6, 1 	132.9054519(2) 	1.90 	28.4 	690 	1860 	Kirchhoff and Bunsen
+56 	বেরিয়াম 	Ba 	6, 2 	137.327(7) 	3.65 	725 	1640 	1808 	Davy
+57 	ল্যান্থানাম 	La 	6 	138.90547(7)2 	6.16 	920 	3454 	1839 	Mosander
+58 	সিরিয়াম 	Ce 	6 	140.116(1)2 	6.77 	798 	3257 	1803 	von Hisinger and Berzelius
+59 	প্রাসিওডিমিয়াম 	Pr 	6 	140.90765(2) 	6.48 	931 	3212 	1895 	von Welsbach
+60 	নিওডিমিয়াম 	Nd 	6 	144.242(3)2 	7.00 	1010 	3127 	1895 	von Welsbach
+61 	প্রমিথিয়াম 	Pm 	6 	[146.9151]1 	7.22 	1080 	2730 	1945 	Marinsky and Glendenin
+62 	সামারিয়াম 	Sm 	6 	150.36(2)2 	7.54 	1072 	1778 	1879 	Lecoq de Boisbaudran
+63 	ইউরোপিয়াম 	Eu 	6 	151.964(1)2 	5.25 	822 	1597 	1901 	Demarçay
+64 	গ্যাডোলিনিয়াম 	Gd 	6 	157.25(3)2 	7.89 	1311 	3233 	1880 	de Marignac
+65 	টারবিয়াম 	Tb 	6 	158.92535(2) 	8.25 	1360 	3041 	1843 	Mosander
+66 	ডিসপ্রোসিয়াম 	Dy 	6 	162.500(1)2 	8.56 	1409 	2335 	1886 	Lecoq de Boisbaudran
+67 	হলমিয়াম 	Ho 	6 	164.93032(2) 	8.78 	1470 	2720 	1878 	Soret
+68 	এরবিয়াম 	Er 	6 	167.259(3)2 	9.05 	1522 	2510 	1842 	Mosander
+69 	থুলিয়াম 	Tm 	6 	168.93421(2) 	9.32 	1545 	1727 	1879 	Cleve
+70 	ইটারবিয়াম 	Yb 	6 	173.04(3)2 	6.97 	824 	1193 	1878 	de Marignac
+71 	লুটেটিয়াম 	Lu 	6, 3 	174.967(1)2 	9.84 	1656 	3315 	1907 	Urbain
+72 	হ্যাফনিয়াম 	Hf 	6, 4 	178.49(2) 	13.31 	2150 	5400 	1923 	Coster and de Hevesy
+73 	ট্যানটালাম 	Ta 	6, 5 	180.9479(1) 	16.68 	2996 	5425 	1802 	Ekeberg
+74 	টাংস্টেন 	W 	6, 6 	183.84(1) 	19.26 	3407 	5927 	1783 	Elhuyar
+75 	রেহনিয়াম 	Re 	6, 7 	186.207(1) 	21.03 	3180 	5627 	1925 	Noddack, Tacke and Berg
+76 	অসমিয়াম 	Os 	6, 8 	190.23(3)2 	22.61 	3045 	5027 	1803 	Tennant
+77 	ইরিডিয়াম 	Ir 	6, 9 	192.217(3) 	22.65 	2410 	4130 	1803 	Tennant
+78 	প্লাটিনাম 	Pt 	6, 10 	195.084(9) 	21.45 	1772 	3827 	1557 	Scaliger
+79 	সোনা 	Au 	6, 11 	196.966569(4) 	19.32 	1064.4 	2940 	prehistoric 	unknown
+80 	পারদ 	Hg 	6, 12 	200.59(2) 	13.55 	-38.9 	356.6 	prehistoric 	unknown
+81 	থ্যালিয়াম 	Tl 	6, 13 	204.3833(2) 	11.85 	303.6 	1457 	1861 	Crookes
+82 	সীসা 	Pb 	6, 14 	207.2(1)2 4 	11.34 	327.5 	1740 	prehistoric 	unknown
+83 	বিসমাথ 	Bi 	6, 15 	208.98040(1) 	9.80 	271.4 	1560 	1540 	Geoffroy
+84 	পোলোনিয়াম 	Po 	6, 16 	[208.9824]1 	9.20 	254 	962 	১৮৯৮ 	মাদাম কুরী ও পিয়েরে কুরী
+85 	এস্টাটিন 	At 	6, 17 	[209.9871]1 		302 	337 	1940 	Corson and MacKenzie
+86 	রেডন 	Rn 	6, 18 	[222.0176]1 	9.23 g/l 	-71 	-61.8 	1900 	Dorn
+87 	ফ্রান্সিয়াম 	Fr 	7, 1 	[223.0197]1 		27 	677 	1939 	Perey
+88 	রেডিয়াম 	Ra 	৭,২ 	[226.0254]1 	5.50 	700 	1140 	1898 	Marie and Pierre Curie
+89 	এক্টিনিয়াম 	Ac 	7 	[227.0278]1 	10.07 	1047 	3197 	1899 	Debierne
+90 	থোরিয়াম 	Th 	7 	232.03806(2)1 2 	11.72 	1750 	4787 	1829 	Berzelius
+91 	প্রটেকটিনিয়াম 	Pa 	7 	231.03588(2)1 	15.37 	1554 	4030 	1917 	Soddy, Cranston and Hahn
+92 	ইউরেনিয়াম 	U 	7 	238.02891(3)1 2 3 	18.97 	1132.4 	3818 	1789 	Klaproth
+93 	নেপচুনিয়াম 	Np 	7 	[237.0482]1 	20.48 	640 	3902 	1940 	McMillan and Abelson
+94 	প্লুটোনিয়াম 	Pu 	7 	[244.0642]1 	19.74 	641 	3327 	1940 	Seaborg
+95 	আমেরিসিয়াম 	Am 	7 	[243.0614]1 	13.67 	994 	2607 	1944 	Seaborg
+96 	কুরিয়াম 	Cm 	7 	[247.0703]1 	13.51 	1340 		1944 	Seaborg
+97 	বার্কেলিয়াম 	Bk 	7 	[247.0703]1 	13.25 	986 		1949 	Seaborg
+98 	ক্যালিফোর্নিয়াম 	Cf 	7 	[251.0796]1 	15.1 	900 		1950 	Seaborg
+99 	আইনস্টেনিয়াম 	Es 	7 	[252.0829]1 		860 		1952 	Seaborg
+100 	ফার্মিয়াম 	Fm 	7 	[257.0951]1 				1952 	Seaborg
+101 	মেন্ডেলেভিয়াম 	Md 	7 	[258.0986]1 				1955 	Seaborg
+102 	নোবেলিয়াম 	No 	7 	[259.1009]1 				1958 	Seaborg
+103 	লরেনসিয়াম 	Lr 	7, 3 	[260.1053]1 				1961 	Ghiorso
+104 	রাদারফোর্ডিয়াম 	Rf 	7, 4 	[261.1087]1 				1964/69 	Flerov
+105 	ডুবনিয়াম 	Db 	7, 5 	[262.1138]1 				1967/70 	Flerov
+106 	সিবোরজিয়াম 	Sg 	7, 6 	[263.1182]1 				1974 	Flerov
+107 	বোহরিয়াম 	Bh 	7, 7 	[262.1229]1 				1976 	Oganessian
+108 	হাসিয়াম 	Hs 	7, 8 	[265]1 				1984 	GSI (*)
+109 	মেইটরেনিয়াম 	Mt 	7, 9 	[266]1 				1982 	GSI
+110 	ডারমস্টাডটিয়াম 	Ds 	7, 10 	[269]1 				1994 	GSI
+111 	রোয়েন্টজেনিয়াম 	Rg 	7, 11 	[272]1 				1994 	GSI
+112 	ইউনুনবিয়াম 	Uub 	7, 12 	[285]1 				1996 	GSI
+113 	ইউনুনট্রিয়াম 	Uut 	7, 13 	[284] 				2004 	JINR (*), LLNL (*)
+114 	ইউনুনকোয়াডিয়াম 	Uuq 	7, 14 	[289] 				1999 	JINR
+115 	ইউনুনপেন্টিয়াম 	Uup 	7, 15 	[288] 				2004 	JINR, LLNL
+116 	ইউনুহেক্সিয়াম 	Uuh 	7, 16 	[292] 				1999 	LBNL (*)
+117 	ইউনুসেপটিয়াম 	Uus 	৭,১৭ 					অনাবিস্কৃত 	
+118 	ইউনুনোকটিয়াম 	Uuo 	৭, ১৮ 					অনাবিস্কৃত 	
+পর্যায় সারণীর রাসায়নিক শ্রেণীসমূহ ক্ষার ধাতু 	মৃৎক্ষার ধাতু 	ল্যান্থানাইড 	অ্যাক্টিনাইড 	অবস্থান্তর ধাতু
+দুর্বল ধাতু 	অপধাতু 	অধাতু 	হ্যালোজেন 	নিষ্ক্রিয় গ্যাস
+[সম্পাদনা] Acronyms
+
+    GSI, Gesellschaft für Schwerionenforschung (Society for Heavy Ion Research), Wixhausen, Darmstadt, Germany
+    JINR, Joint Institute for Nuclear Research (Объединённый институт ядерных исследований), Dubna, Moscow Oblast, Russia
+    LLNL, Lawrence Livermore National Laboratory, Livermore, California, USA
+    LBNL, Lawrence Berkeley National Laboratory, Berkeley, California, USA
+
+[সম্পাদনা] References
+
+    Atomic Weights of the Elements 2001, Pure Appl. Chem. 75(8), 1107-1122, 2003. Retrieved June 30, 2005. Atomic weights of elements with atomic numbers from 1-109 taken from this source.
+    IUPAC Standard Atomic Weights Revised (2005).
+    WebElements Periodic Table. Retrieved June 30, 2005. Atomic weights of elements with atomic numbers 110-116 taken from this source.
+
+[আড়াল করো]
+প্র • আ • স
+পর্যায় সারণী
+বিন্যাস 	
+Standard · Large table · Inline f-block · Vertical · লেখ্যরুপ · Metals and nonmetals · ব্লক · Valences · ৭ম পর্যায়ের পরেও বর্ধিত · Large extended table · Electron configurations · Electronegativities · Alternatives · Crystal structure · Discovery periods
+উপাদানের তালিকা 	
+Name etymology (প্রতীক) · Discovery · Oxidation state · Abundance (in humans) · Nuclear stability · Hardness · Atomic properties · Production
+শ্রেণী 	
+১ (ক্ষার ধাতু) · ২ (মৃৎ ক্ষার ধাতু) · ৩ · ৪ · ৫ · ৬ · ৭ · ৮ · ৯ · ১০ · ১১ · ১২ · ১৩ (বোরন গ্রুপ)) · ১৪ (কার্বন শ্রেণী) · ১৫ (নিক্টোজেন্স)Pnictogens) · ১৬ (চ্যালকোজেন) · ১৭ (হ্যালোজেন) · ১৮ (নিষ্ক্রিয় গ্যাস)
+অন্যান্য উপাদানের শ্রেণীবিভাগ 	
+পর্যায় · ধাতু · অবস্থান্তর ধাতু · Metalloids · অধাতু · Lanthanides · Actinides · Rare earth elements · Platinum group metals (PGMs) · Post-transition metals · Refractory metals
+ব্লকস 	
+এস-ব্লক মৌল · পি-ব্লক মৌল · ডি-ব্লক মৌল · এফ-ব্লক মৌল · জি-ব্লক মৌল
+পর্যায় 	
+১ · ২ · ৩ · ৪ · ৫ · ৬ · ৭ · ৮
+Symbol question.svg বই:পর্যায় সারণী · Category page বিষয়শ্রেণী:পর্যায় সারণী · Portal.svg প্রবেশদ্বার:রসায়ন
+বিষয়শ্রেণীসমূহ:
+
+    Chemical elements
+    Chemistry
+
+
+
+
+84 	বিসমাথ ← পোলোনিয়াম → এস্টাটিন
+Te
+↑
+Po
+↓
+Uuh 	
+Po-TableImage.png
+পর্যায় সারণী
+সাধারণ বৈশিষ্ট্য
+নাম, প্রতীক, পারমাণবিক সংখ্যা 	পোলোনিয়াম, Po, 84
+রাসায়নিক শ্রেণী 	metalloids
+গ্রুপ, পর্যায়, ব্লক 	16, 6, p
+Appearance 	silvery
+পারমাণবিক ভর 	(209) g/mol
+ইলেক্ট্রন বিন্যাস 	[Xe] 4f14 5d10 6s2 6p4
+প্রতি শক্তিস্তরে ইলেকট্রন সংখ্যা 	2, 8, 18, 32, 18, 6
+ভৌত বৈশিষ্ট্য
+দশা 	কঠিন
+ঘনত্ব (সাধারণ তাপ ও চাপে) 	(alpha) 9.196 g/cm³
+ঘনত্ব (সাধারণ তাপ ও চাপে) 	(beta) 9.398 g/cm³
+গলনাঙ্ক 	527 K
+(254 °C, 489 °F)
+স্ফুটনাঙ্ক 	1235 K
+(962 °C, 1764 °F)
+গলনের লীন তাপ 	ca. 13 kJ/mol
+বাষ্পীভবনের লীন তাপ 	102.91 kJ/mol
+তাপধারণ ক্ষমতা 	(২৫ °সে) 26.4 জুল/(মোল·কে)
+বাষ্প চাপ P/প্যাসকেল 	১ 	১০ 	১০০ 	১ কে 	১০ কে 	১০০ কে
+T/কেলভিন তাপমাত্রায় 	  	  	  	(846) 	1003 	1236
+পারমাণবিক বৈশিষ্ট্য
+কেলাসীয় গঠন 	cubic
+জারণ অবস্থা 	4, 2
+(amphoteric oxide)
+তড়িৎ ঋণাত্মকতা 	2.0 (পাউলিং স্কেল)
+Ionization energies 	1st: 812.1 kJ/mol
+পারমাণবিক ব্যাসার্ধ 	190 pm
+Atomic radius (calc.) 	135 pm
+অন্যান্য বৈশিষ্ট্য
+Magnetic ordering 	nonmagnetic
+Electrical resistivity 	(0 °C) (α) 0.40 µΩ·m
+তাপ পরিবাহিতা 	(300 K)  ? 20 W/(m·K)
+Thermal expansion 	(25 °C) 23.5 µm/(m·K)
+সি এ এস নিবন্ধন সংখ্যা 	7440-08-6
+কয়েকটি উল্লেখযোগ্য সমস্থানিক
+প্রধান নিবন্ধ: poloniumের সমস্থানিক iso 	NA 	half-life 	DM 	DE (MeV) 	DP
+208Po 	syn 	2.898 y 	α 	5.215 	204Pb
+ε, β+ 	1.401 	208Bi
+209Po 	syn 	103 y 	α 	4.979 	205Pb
+ε, β+ 	1.893 	209Bi
+210Po 	syn 	138.376 d 	α 	5.407 	206Pb
+References
+
+পোলোনিয়াম তেজস্ক্রিয়ামিতি পদ্ধতির দ্বারা আবিষ্কৃত প্রথম মৌল। এটি একটি প্রাকৃতিক তেজস্ক্রিয় রাসায়নিক মৌল। তেজস্ক্রিয়াতা বিজ্ঞানের অগ্রগতিতে রেডিয়ামের পরেই সবচেয়ে বড় অবদান পোলোনিয়ামের। এরপর থেকেই তেজস্ক্রিয়াতা বিষয়ে মানুষের আগ্রহ বেড়ে চলেছে।
+[সম্পাদনা] নামকরণ
+
+১৮৯৮ সালের ১৮ জুলাই প্যারিস বিজ্ঞান আকাদেমির বিজ্ঞান সভায় কুরি দম্পতি এক বিবৃতি পেশ করেন যার নাম ছিল, "পিচব্লেন্ডে অবস্থিত একটি নতুন তেজস্ক্রিয় পদার্থ সম্বন্ধে"। এখানে তারা একটি নতুন মৌল আবিষ্কারের ইঙ্গিত দেন। মেরি কুরি জানান, নতুন মৌলের আবিষ্কার নিশ্চিত হলে তার নাম যেন পোল্যান্ড দেশটির সম্মানে পোলোনিয়াম রাখা হয়। কারণ মেরি কুরি পোল্যান্ডে জন্মগ্রহণ করেন এবং তার শৈশব ও কৈশোর সেখানেই কাটে।
+[সম্পাদনা] আবিষ্কারের ইতিহাস
+
+১৮৭০ খ্রিস্টাব্দে দিমিত্রি মেন্ডেলেয়েভ সর্বপ্রথম পোলোনিয়ামের প্রধান ধর্ম সম্বন্ধে ভবিষ্যদ্বাণী করেন। তিনি একটি নিবন্ধে এ বিষয়ে লিখেছিলেন,
+“ 	
+
+ভারী ধাতুগুলোর মধ্যে টেলুরিয়ামের সদৃশ একটি মৌলকে আমরা আশা করতে পারি, যেটির পারমানবিক গুরুত্ব বিসমাথের থেকে বেশী। এটির ধাতব ধর্ম থাকা উচিত এবং সালফিউরিক এসিডের ন্যায় ধর্ম ও গঠন বিশিষ্ট এসিড মৌলটি থেকে পাওয়া যাবে এবং যে এসিডটির জারণ ক্ষমতা টেলুরিক এসিড থেকে বেশী হবে....। RO2 নামক অক্সাইডটির অম্লীয় ধর্ম আশা করা যায় না, যদিও টেলুরাস এসিডের অম্লীয় ধর্ম আছে। মৌলটি জৈব-ধাতব যৌগ উৎপন্ন করবে, কিন্তু কোন হাইড্রোজেন যৌগ উৎপন্ন করবে না....।
+	”
+
+মেন্ডেলেয়েভ অজ্ঞাত এই মৌলটির নাম দিয়েছিলেন দ্বি-টেলুরিয়াম। এরপর উনিশ বছর পেরিয়ে যায়। এর মধ্যে মেন্ডেলেয়েভ এই পদার্থের আরও কয়েকটি ধর্মের ভবিষ্যদ্বাণী সংযোজন করেন। তার এ সকল ভবিষ্যদ্বাণীর মধ্যে ছিল: আপেক্ষিক পারমানবিক ভর ২১২, DtO3 বিশিষ্ট অক্সাইড গঠন করবে, মুক্ত অবস্থায় মৌলটি হল স্বল্প গলনাঙ্কবিশিষ্ট অনুদ্বায়ী ও ধূসর বর্ণের কেলাসিত ধাতব পদার্থ যার ঘনত্ব ৯.৮, ধাতুটি সহজেই DtO3-তে জারিত হয়, অক্সাইডটির মৃদু অম্লীয় ও ক্ষারকীয় ধর্ম থাকবে তবে তা হবে অবশ্যই অস্থায়ী যৌগ, ধাতুটি অন্যান্য ধাতুর সাথে মিলে সঙ্কর ধাতু উৎপন্ন করবে।
+
+মেন্ডেলেয়েভের এই ভবিষ্যদ্বাণীগুলো অনেকাংশেই নিখুঁত ছিল। এই ভবিষ্যদ্বাণীগুলো অবশ্য মৌলটি আবিষ্কারের ক্ষেত্রে প্রত্যক্ষ কোন ভূমিকা পালন করে নি, কেবল একটি পরোক্ষ ভূমিকা রেখেছিল। ১৮৯৭ সালের ডিসেম্বর ১৬ তারিখ থেকে মেরি কুরি এবং পিয়েরে কুরি বেকেরেল রশ্মি তথা ইউরেনিয়াম রশ্মি নিয়ে গবেষণা শুরু করেন। তাদের গবেষণাকর্মের লগবই থেকে এটি জানা গেছে। গবেষণাটি অবশ্য মেরি কুরি নিজেই শুরু করেছিলেন, ১৮৯৮ সালের ৫ ফেব্রুয়ারি পিয়েরে তার সাথে যোগ দেন। পিয়েরে মাপজোখের কাজ এবং ফলাফল গণনা করতেন। তারা দুজনে মিলে ইউরেনিয়াম খনিজ, লবণ এবং ধাতব ইউরেনিয়াম থেকে প্রাপ্ত তেজস্ক্রিয় বিকিরণ নিয়ে গবেষণা করে এই সিদ্ধান্তে উপনীত হন যে, ইউরেনিয়াম যৌগের তেজস্ক্রিয়তা ধর্ম সবচেয়ে কম। যৌগের চেয়ে ধাতব ইউরেনিয়ামের তেজস্ক্রিয়তা বেশী বলে প্রতীয়মান হয়। ধাতবগুলোর মধ্যে আবার পিচব্লেন্ড নামক ইউরেনিয়াম আকরিকের তেজস্ক্রিয়তা ছিল সবচেয়ে বেশী। এ থেকে তারা স্পষ্টতই বুঝতে পারেন, পিচব্লেন্ডে এমন একটি মৌল উপাদান আছে যার তেজস্ক্রিয়তা ইউরেনিয়ামের থেকে অনেক বেশী। এখান থেকেই সন্দেহের সূত্রপাত। ১৮৯৮ সালের ১২ এপ্রিল কুরি দম্পতি তাদের গবেষণা প্রকল্পটির বিবরণ প্যারিস আকাদেমি অফ সাইন্সে পেশ করেন। ১৪ এপ্রিল জি বেমন্টের সাহায্য নিয়ে তারা নতুন এই মৌলটির সন্ধানে কাজে নেমে পড়েন।
+
+কুরি দম্পতি ও জি বেমন্ট ১৮৯৮ সালের জুলাই মাসের মাঝামাঝি সময়ে পিচব্লেন্ড আকরিকের বিশ্লেষণ সম্পন্ন করেন এবং আকরিক থেকে পাওয়া প্রতিটি পদার্থের তেজস্ক্রিয়তা পরিমাপ করতে থাকেন। বিসমাথ লবণে অবস্থিত একটি অংশটির উপর তাদের দৃষ্টি নিবদ্ধ হয়। কারণ এই অংশের তীব্রতা ইউরেনিয়াম থেকে ৪০০ গুণ বেশী। অজ্ঞাত মৌলটি থাকলে সেখানেই থেকে থাকবে। ঐ বছরের ১৮ জুলাই তারা আকাদেমিতের বিজ্ঞান সভায় "পিচব্লেন্ডে অবস্থিত একটি নতুন তেজস্ক্রিয় পদার্থ সম্বন্ধে" শীর্ষক একটি বিবৃতি পেশ করেন। তারা বলেছিলেন, পিচব্লেন্ড থেকে অজ্ঞাত এই নতুন মৌলটির সালফার যৌগ নিষ্কাশনে তারা সক্ষম হয়েছেন। ধর্ম অনুযায়ী নতুন মৌলটি ছিল বিসমাথের প্রতিবেশী। উল্লেখ্য এই বিবৃতিতেই প্রথবারের মত তেজস্ক্রিয়তা নামটি ব্যবহৃত হয়। এই নতুন পদ্ধতির মাধ্যমে মৌল আবিষ্কার সম্ভব বলে সবাই খানিকটা আম্বস্ত হন। তেজস্ক্রিয়ামিতি প্রকৌশলের সাহায্যে তেজস্ক্রিয়তা পরিমাপ করে নতুন মৌলের বৈশিষ্ট্য বলে দেয়ার এই পদ্ধতিটি ছিল নতুন। এর আগে যে মৌলকে দেখা যায় না, অনুভব বা ওজন করা যায় না, প্রাকৃতিক বস্তুতে তার উপস্থিতি প্রমাণের জন্য বর্ণালি বিশ্লেষণ পদ্ধতি ব্যবহার করা হত। এবার বর্ণালির স্থানে তেজস্ক্রিয় বিকিরণ যুক্ত হল।
+
+কুরিদের দলের এই ফলাফল নির্ভুল ছিল না। তারা বলেছিলেন বিসমাথের সাথে নতুন এই মৌলের রাসায়নিক সাদৃশ্য রয়েছে যা সঠিক নয়। অবশ্য বিশুদ্ধ ধাতুটি নিষ্কাশন করতে পারেন নি বিধায় তাদের এ ধরণের ভুল হওয়াটাই স্বাভাবিক। এমনকি তারা পোলোনিয়ামের পারমানবিক ভর এবং বিসমাথের সাথে এর বর্ণালির পার্থক্যও নির্ণয় করতে পারেন নি। আসলে পোলোনিয়ামের সাথে সাদৃশ্য রয়েছে টেলুরিয়ামের যা তারা ধরতে পারেননি। এ হিসেবে ১৮৯৮ সালের ১৮ জুলাই তারিখটিকে পোলোনিয়ামের প্রাথমিক আবিষ্কারের দিন বলা যেতে পারে এর বেশী নয়, পূর্ণ আবিষ্কার সম্পন্ন করতে আরও অনেক সময় লেগেছিল। কারণ পোলোনিয়াম গবেষণার বেশ কিছু প্রতিবন্ধকতা রয়েছে। এর তেজস্ক্রিয় বিকিরণ অত্যধিক যাতে কেবল আলফা রশ্মি থাকে, বিটা ও গামা থাকে না। সময়ের সাথে এর তেজস্ক্রিয়তা কমতে থাকাটা অবশ্য বেশ আশ্চর্যজনক। থোরিয়াম বা ইউরেনিয়ামের ক্ষেত্রে এমনটি দেখা যায় না। এসব কারণে পোলোনিয়াম আসলেই আছে কি-না তানিয়ে অনেক বিজ্ঞানীই সন্দেহ পোষণ করতেন। তারা বলতেন, এটি হল সামান্য পরিমাণ তেজস্ক্রিয় পদার্থ মিশ্রিত সাধারণ বিসমাথ।
+
+১৯০২ সালে জার্মান রসায়নবিদ ডব্লিউ মার্কওয়াল্ড দুই টন ইউরেনিয়াম আকরিক থেকে বিসমাথের উল্লেখিত অংশটি নিষ্কাশন করেন। সেখানকার বিসমাথ ক্লোরাইড দ্রবণের মধ্যে একটি বিসমাথ দণ্ড প্রবেশ করান এবং দেখেন, অত্যন্ত তেজস্ক্রিয় গুণ সম্পন্ন একটি পদার্থ এই দণ্ডের উপর অধঃক্ষিপ্ত হচ্ছে। এটিকে একটি নতুন মৌল ধরে তিনি এর নাম দেন রেডিওটেলুরিয়াম তথা তেজস্ক্রিয় টেলুরিয়াম। অবশ্য তিনি বলেছেন, তার মূল অভিপ্রায় ছিল পোলোনিয়াম নিষ্কাশন করা। এ সম্বন্ধে এক স্মৃতিচারণে তিনি উল্লেখ করেছেন,
+“ 	
+
+সাময়িকভাবে কেবলমাত্র আমি এই মৌলটির নামকরণ করি রেডিওটেলুরিয়াম, কারণ ষষ্ঠ শ্রেণীতে তখনও ফাঁকা ঘরে এই মৌলটি রাখার জন্য, এর সমস্ত রাসায়নিক ধর্ম নির্দেশ করে। ঐ মৌলটির পারমানবিক ভর বিসমাথের চেয়ে কিছু বেশী....। মৌলটি বিসমাথের চেয়ে বেশী তড়িৎ ঋণাত্মক; কিন্তু টেলুরিয়ামের চেয়ে বেশী তড়িৎ ধনাত্মক; এর অক্সাইডটির অম্লীয় ধর্মের চেয়ে ক্ষারকীয় ধর্ম বেশী হওয়া উচিত। এগুলো সবই হল তেজস্ক্রিয় টেলুরিয়ামের বিষয়....। এই বস্তুটির প্রত্যাশিত পারমানিবক ভর ছিল ২১০।
+	”
+
+নতুন রেডিওটেলুরিয়ামের পক্ষে যুক্তি দেখানোর জন্য মার্কওয়াল্ড তৎক্ষনাৎ পূর্বে আবিষ্কৃত পোলোনিয়ামকে একাধিক তেজস্ক্রিয় পদার্থের মিশ্রণ বলে ঘোষণা করেন। ফলে পোলোনিয়াম ও রেডিওটেলুরিয়াম নিয়ে তুমুল বিতর্ক শুরু হয়। অধিকাংশ বিজ্ঞানীই অবশ্য কুরিদেরকে সমর্থন করেন। এ দুটোর মধ্য তুলনার মাধ্যমে প্রকৃত বিষয়টি উদ্‌ঘাটিত হলে পরে বিজ্ঞানীদের মত কুরিদের পক্ষেই যায়। পূর্বতন পোলোনিয়াম নামটিই থেকে যায়। এটি ছিল নতুন প্রাকৃতিক তেজস্ক্রিয় মৌলদের মধ্যে প্রথম। কিন্তু এটি তখন পর্যায় সারণীর সঠিক ঘরে স্থান পায় নি। কারণ এর পারমানবিক ভর নির্ণয় করা ছিল বেশ কঠিন। ১৯১০ সালে এর বর্ণালি রেখাগুলো সঠিকভাবে নির্ণয় করা হয়। এরপরই ১৯১২ সালে পোলোনিয়ামের প্রতীক তথা Po-কে পর্যায় সারণীতে সঠিক স্থানে দেখা যায়।
+
+তখনও কিন্তু বিশুদ্ধ পোলোনিয়াম ধাতু নিষ্কাশন সম্ভব হয়নি। এর যৌগ অবস্থা নিয়েই বিজ্ঞানীরা সন্তুষ্ট ছিলেন। অনেক পরে ১৯৪৬ সালে বিশুদ্ধ ধাতুটি প্রস্তুত করা হয়। নির্বাত উর্ধ্বপাতন প্রক্রিয়ার দ্বারা উৎপাদিত সেই ধাতুর অধিক ঘনত্ববিশিষ্ট স্তরটির বর্ণ ছিল রুপার মত সাদা। পরবর্তীতে পোলোনিয়ামের বৈশিষ্ট্যগুলো আবিষ্কৃত হওয়ার পর দেথা গেছে সেগুলো মেন্ডেলেয়েভের ভবিষ্যদ্বাণীর অনেকটাই কাছাকাছি। অর্থাৎ এ সম্পর্কে মেন্ডেলেয়েভের ভবিষ্যদ্বাণী অনেকটাই সত্য ছিল।
+[সম্পাদনা] রাসায়নিক ও ভৌত ধর্ম
+
+পোলোনিয়াম স্বল্প গলনাঙ্কের (পাশের ছকে গ. ও স্ফু. দেখুন) নমনীয় ধাতু যার ঘনত্ব প্রায় ৯.৩ গ্রাম/ঘন সেমি। একে বাতাসে উত্তপ্ত করলে সহজেই স্থায়ী অক্সাইড উৎপন্ন হয়। উৎপন্ন অক্সাইডের অম্লীয় বা ক্ষারকীয় ধর্ম খুব একটা দেখা যায় না। পোলোনিয়ামের হাইড্রাইটটি আবার অস্থায়ী। পোলোনিয়াম জৈব ধাতুর যৌগ উৎপন্ন করে। অনেক ধাতুর সাথে আবার সংকর ধাতুও তৈরি করে। যেমন: সীসা, পারদ, ক্যালসিয়াম, দস্তা, সোডিয়াম, প্লাটিনাম, রুপা, নিকেল, বেরিলিয়াম ইত্যাদি ধাতুর সাথে।
+বিষয়শ্রেণীসমূহ:
+
+    মৌলিক পদার্থ
+    তেজস্ক্রিয় মৌল
+
+
+
+
+খনিতে প্রাপ্ত গ্যাস। সাধারণত মিথেন (CH4) গ্যাস হয়ে থাকে। মাটির ১৫০০-৪০০০ ফুট নিচে অবস্থান করে। কুপ খননের মাধ্যমে উত্তোলন করে পাইপের মাধ্যমে বানিজ্যিক ব্যবহার করা হয়। বাংলাদেশের বিদ্যুতের সবচেয়ে বড় কাঁচামাল। এছাড়াও সি এন জি, এল এন জি, এল পি জি ও ইউরিয়া সার প্রভৃতির কাঁচামাল হিসেবে ব্যবহৃত হয়। পাকিস্তান, বার্মা, ভারত সহ বিভিন্ন দেশে প্রাকৃতিক গ্যাস আছে।
+সূচিপত্র
+ [আড়ালে রাখো] 
+
+    ১ উপাদান
+    ২ প্রাকৃতিক গ্যাসের উৎপত্তি
+    ৩ প্রাকৃতিক গ্যাসের অনুসন্ধান
+    ৪ কূপ খনন
+    ৫ প্রাকৃতিক গ্যাসের উত্তোলন
+
+[সম্পাদনা] উপাদান
+
+প্রাকৃতিক গ্যাসের মূল উপাদান মিথেন হলেও এর সাথে অল্প পরিমাণ অন্যান্য প্যারাফিন হাইড্রোকার্বন যেমন ইথেন, প্রপেন, বিউটেন, পেন্টেন, হেক্সেন ইত্যাদি থাকে। এছাড়া আরও থাকে নাইট্রোজেন, কার্বনডাই অক্সাইড ও হাইড্রোজেন সালফাইড।
+
+Natural gas composition billow:-
+
+(a.) Methane- 97.33%
+
+(b.) Ethane- 1.72%
+
+(c.) Propane - 0.35%
+
+(d.) Higher carbon - 0.19%
+
+(e.) Carbon Di Oxide- 0.05%
+
+(f.) Oxygen- 0.02%
+
+(g.) Hydrogen- 0.03%
+
+(h.) Hydrogen sulfide- 0.01%
+
+(i.) Others- 0.3%
+
+Total- 100%
+[সম্পাদনা] প্রাকৃতিক গ্যাসের উৎপত্তি
+[সম্পাদনা] প্রাকৃতিক গ্যাসের অনুসন্ধান
+
+গ্যাস-তেলের অনুসন্ধান একটি ব্যয়বহুল প্রক্রিয়া। প্রধানত তিনটি পদ্ধতিতে অনুসন্ধান চালানো হয়ে থাকে। যেমন:- (ক) ভূ-তাত্ত্বিক (geological), (খ) ভূ-পদার্থিক (geophysical) ও (গ) ভূ-রাসায়নিক (geochemical) পদ্ধতি। এর মধ্যে ভূ-পদার্থিক পদ্ধতির একটি প্রচলিত ব্যবস্থা হচ্ছে ভূ-কম্পনের (seismic) সাহায্যে গ্যাস ক্ষেত্রের সন্ধান লাভ করা। যে এলাকাতে ভূ-কম্পন জরিপ করতে হবে, সে এলাকাব্যাপি প্রায় ২০০ মিটার অন্তর আড়াআড়িভাবে অনেকগুলো লাইন টানা হয়। অতপর বিস্ফোরক এবং জিও ফোন (geo phone) সাড়িবদ্ধভাবে রাখা হয়। সাধারণত ২৫ ফুট দূরত্বে প্রতিটি বিস্ফোরক চার্জ এবং ২টি চার্জের মধ্যবর্তী স্থানে ডাটা গ্রাহক হিসেবে একটি জিওফোন রাখা হয়। সাড়িবদ্ধভাবে চার্জগুলোকে মাটির ১৫ ফুট গভীরে রাখা হয়। রিমোট কন্ট্রোল সুইচ এর মাধ্যমে চার্জগুলিকে বিস্ফোরিত করা হয়। এর ফলে সৃষ্ট কম্পন তরঙ্গ সমূহ (wave propagation) তরং্গাকারে মাটির অভ্যন্তরে বিভিন্ন স্তর ভেদ করে পুনরায় গ্রাহক জিওফোন-এ ফেরত আসে। seismic এর গ্রাহক জিও ফোন এর মাধ্যমে সংগ্রহকৃত উপাত্ত লেখচিত্র আকারে লিপিবদ্ধ হয়ে থাকে। অতপর রেকর্ডকৃত লেখচিত্রের পরিশোধন, পরিমার্জন এবং বিশ্লেষণ করেই ভূগর্ভে গ্যাস ও তেলের অস্তিত্ব এবং simulation এর মাধ্যমে reserve estimate করা হয়।
+[সম্পাদনা] কূপ খনন
+
+কূপ খননের জন্য প্রয়োজন প্রধান খনন যন্ত্র (RIG) ও অন্যান্য আনুষঙ্গিক যন্ত্রপাতি।
+[সম্পাদনা] প্রাকৃতিক গ্যাসের উত্তোলন
+এই নিবন্ধটি অসম্পূর্ণ। আপনি চাইলে এটিকে সমৃদ্ধ করে উইকিপিডিয়াকে সাহায্য করতে পারেন।
+বিষয়শ্রেণীসমূহ:
+
+    অসম্পূর্ণ
+    জ্বালানি
+
+
+
+
+91 	থোরিয়াম ← প্রটেকটিনিয়াম → ইউরেনিয়াম
+Pr
+↑
+Pa
+↓
+(Uqu) 	
+Pa-TableImage.png
+পর্যায় সারণী
+সাধারণ বৈশিষ্ট্য
+নাম, প্রতীক, পারমাণবিক সংখ্যা 	প্রটেকটিনিয়াম, Pa, 91
+রাসায়নিক শ্রেণী 	actinides
+Group, Period, Block 	n/a, 7, f
+Appearance 	bright, silvery metallic luster
+পারমাণবিক ভর 	231.03588(2) g/mol
+ইলেক্ট্রন বিন্যাস 	[Rn] 5f2 6d1 7s2
+প্রতি শক্তিস্তরে ইলেকট্রন সংখ্যা 	2, 8, 18, 32, 20, 9, 2
+ভৌত বৈশিষ্ট্য
+দশা 	কঠিন
+ঘনত্ব (সাধারণ তাপ ও চাপে) 	15.37 g/cm³
+গলনাঙ্ক 	1841 K
+(1568 °C, 2854 °F)
+স্ফুটনাঙ্ক 	 ? 4300 K
+(? 4027 °C, ? °F)
+গলনের লীন তাপ 	12.34 kJ/mol
+বাষ্পীভবনের লীন তাপ 	481 kJ/mol
+পারমাণবিক বৈশিষ্ট্য
+কেলাসীয় গঠন 	orthorhombic
+জারণ অবস্থা 	5
+(weakly basic oxide)
+তড়িৎ ঋণাত্মকতা 	1.5 (পাউলিং স্কেল)
+Ionization energies 	1st: 568 kJ/mol
+পারমাণবিক ব্যাসার্ধ 	180 pm
+অন্যান্য বৈশিষ্ট্য
+Magnetic ordering 	no data
+Electrical resistivity 	(0 °C) 177 nΩ·m
+তাপ পরিবাহিতা 	(300 K) 47 W/(m·K)
+সি এ এস নিবন্ধন সংখ্যা 	7440-13-3
+কয়েকটি উল্লেখযোগ্য সমস্থানিক
+প্রধান নিবন্ধ: protactiniumের সমস্থানিক iso 	NA 	half-life 	DM 	DE (MeV) 	DP
+230Pa 	syn 	17.4 d 	ε 	1.310 	230Th
+β- 	0.563 	230U
+231Pa 	syn 	32760 y 	α 	5.149 	227Ac
+233Pa 	syn 	26.967 d 	β- 	0.571 	233U
+References
+
+প্রোটেক্টিনিয়াম পর্যায় সারণির ৯১ তম মৌল। এটি একটি তেজস্ক্রিয় মৌল।
+[সম্পাদনা] নামকরণ
+
+১৯১৩ সালে বিজ্ঞানী কে ফাজান্‌স এবং ও গোহ্‌রিং ব্রেভিয়াম নামে একটি মৌল আবিষ্কার করেন যা প্রকৃতপক্ষে প্রোট্যাক্টিনিয়ামই ছিল। তারা ব্রেভিয়াম নামটিই প্রস্তাব করেছিলেন। দ্বিতীয় বিশ্বযুদ্ধ শুরু হয়ে যাওয়ায় বিষয়টি চাপা পড়ে যায়। পরবর্তীতে ১৯১৮ সালে অটো হান এবং লিজে মাইটনার মৌলটি আবিষ্কার করেন। উদারতা দেখিয়ে ফাজান্‌স আর মৌলটির আবিষ্কারক হিসেবে নিজেকে দাবী করেননি। তিনি কেবল ব্রেভিয়াম নাম বদলে প্রোট্যাক্টিনিয়াম রাখার প্রস্তাব করেন। গ্রিক ভাষায় এর অর্থ "অ্যাক্টিনিয়ামের পূর্বে"।
+[সম্পাদনা] আবিষ্কারের ইতিহাস
+
+রসায়নবিদ দিমিত্রি ইভানভিচ মেন্ডেলিফ একা-ট্যান্টালাম নামক একটি মৌলের ভবিষ্যদ্বাণী করেছিলেন অনেক আগেই। এটি বোধহয় একমাত্র তেজস্ক্রিয় মৌল যা স্বীকৃতি পাবার অনেক আগেই আবিষ্কৃত হয়েছিল। ইউরেনিয়াম এবং থোরিয়ামের মধ্যে ৯১নং মৌলটি থাকার কথা। এই ৯১নং মৌলের অর্ধায়ু (৩৪,৩০০ বছর) অনেক বেশী এবং তা আলফা রশ্মি বিকিরণ করে। সে হিসেবে এর ইউরেনিয়াম আকরিকে ভাল পরিমাণেই সঞ্চিত হওয়ার কথা। একা-ট্যান্টালাম এবং এই মৌলের মধ্যে অনেক সাদৃশ্যও রয়েছে। তথাপি এটি আবিষ্কারের স্বীকৃত বছর হল ১৯১৮। এতো দেরীর নির্দিষ্ট কারণও রয়েছে। ইউরেনিয়াম-২৩৮ নামক তেজস্ক্রিয় পরিবারটি সম্বন্ধে আলোচনার মাধ্যমে প্রোট্যাক্টিনিয়াম আবিষ্কারের ইতিহাস পর্যালোচনা করা যায়। বিজ্ঞানী ক্রুক্‌স UX নামক মৌলটি আবিষ্কার করেন এবং এর মাধ্যমেই মূলত তেজস্ক্রিয় মৌরের সন্ধান শুরু হয়। পরবর্তীতে UX2 নামক আরেকটি মৌল আবিষ্কারের কারণে UX-এর নতুন নাম দেয়া UX1।
+
+১৯১৩ সালে ফ্রেডেরিক সডি বলেন, UX এবং ১৯১১ সালে আবিষ্কৃত U-II মধ্যে একটি তেজস্ক্রিয় মৌল থাকা উচিত। এই অজ্ঞাত মৌলের ধর্ম হওয়া উচিত একা-ট্যান্টালামের মত এবং তার অবস্থান হওয়া উচিত পর্যায় সারণীর ৫ম শ্রেণীতে। U-I ও U-II উভয়েই ইউরেনিয়ামের একটি সমস্থানিক এবং U-I এর পশ্চাদপটে U-II কে সনাক্ত করা সহজ ছিল না। আমরা যে UX2 'র কথা বলেছি তা-ই হল একা-ট্যান্টালাম, আর এটিকেও তাই সনাক্ত করা সহজ ছিল না। ১৯১৩ সালের মার্চ মাসের মাআমাঝি সময়ে কে ফাজান্‌স এবং ও গোহ্‌রিং এই কঠিন কাজটিই করেছিলেন। তারা বিটা কণিকা বিকিরক এবং ১.১৭ মিনিট অর্ধায়ু বিমিষ্ট একটি নতুন তেজস্ক্রিয় মৌল আবিষ্কার করেন যার ধর্ম একা-ট্যান্টালামের মত ছিল। একই বছরের অক্টোবর মাসে তারা খানিকটা নির্দিষ্ট করে বলেন UX2 হচ্ছে থোরিয়াম ও ইউরেনিয়ামের মধ্যে অবস্থিত একটি নতুন তেজস্ক্রিয় মৌল। তারা মৌলটির নাম ব্রেভিয়াম (গ্রিক ভাষায় যার অর্থ ক্ষণজীবন) রাখার প্রস্তাব করেন। ইংরেজ ও জার্মান বিজ্ঞানীরা এর আবিষ্কারের বিষয়টি প্রমাণ করেছিলেন। কিন্তু ইউরেনিয়াম পরিবারে UX2 তার আপন স্থান করে নিলেও পর্যায় সারণীর ৯১নং ঘরে Bv প্রতীকটি স্থাপন করা হয়নি। বর্তমানে কেন ৯১নং মৌলের আবষ্কারের তারিখ ১৯১৩ ধরা হয়না তার উত্তর এবার দেয়া সম্ভব হবে, যদিও ব্যাপারটিকে খানিকটা দুর্ভাগ্য বলা যায়।
+
+প্রথম বিশ্বযুদ্ধ শুরু না হলে ব্রেভিয়াম মৌলটিই টিকে যেতে পারতো। কিন্তু বিশ্বযুদ্ধ শুরু হওয়ায় তেজস্ক্রিয় রসায়নের গবেষণা কাজে ছেদ পড়েছিল। এছাড়া তথ্য আদান-প্রদান নিষিদ্ধ ঘোষিত হওয়ার কারণে আবিষ্কারের তথ্যাদি বিশ্বব্যাপী ছড়িয়ে দেয়া সম্ভব হয়নি। ব্রেভিয়ামের বিষয়টি চাপা পড়ে যাবার এটি একটি কারণ। অবশ্য মূল কারণ আরেকটি। ৯১নং মৌলটি তেজস্ক্রিয় মৌলের দ্বিতীয় পরিবার তথা অ্যাক্টিনিয়াম পরিবার বা ইউরেনিয়াম-২৩৫ পরিবারে অবস্থিত। কিন্তু তখন এই পরিবারের প্রথম মৌল ধরা হতো অ্যাক্টিনিয়ামকে। তাই এর আগে কোন মৌল থাকতে পারে বলে ধারণা করাটাই ছিল অযৌক্তিক। অবশ্য অনেকে মনে করতেন অ্যাক্টিনিয়াম কোন স্বতন্ত্র পরিবার নয় বরং ইউরেনিয়াম পরিবারের অন্তর্ভুক্ত। ১৯১৩-১৪ সালের দিকে এই ধারণা অনেকেই পোষণ করতে থাকেন এবং প্রায় একই সময়ে ব্রেইয়াম আবিষ্কৃত হয়। ব্রেভিয়ামকে অ্যাক্টিনিয়াম পরিবারে অ্যাক্টিনিয়ামের পূর্বে স্থান দেয়া তাই অসম্ভব ছিলনা। কিন্তু তখন এর কোন সুরাহা হয়নি। অবশেষে অ্যাক্টিনিয়ামকে প্রথম মৌল হিসেবে প্রায় সবাই মনে নিয়েছিলেন।
+
+ব্যাপারটির সুরাহা হতে শুরু হয় নতুন আবিষ্কৃত তেজস্ক্রিয় মৌল UY-কে এন্দ্র করে। এটি থোরিয়ামের সমস্থানিক ছিল যাকে রুশ রসায়নবিদ জি আন্তোনভ ১৯১১ সালে আবিষ্কার করছিলেন। আন্তোনভ রাদারফোর্ডের গবেষনাগারে কাজ করতেন। তিনি বলেছিলেন, থোরিয়ামের সমস্থানিক UX1 বিটা কণা ত্যাগ করে ব্রেভিয়াম তথা UX2 তে পরিণত হয়। ১৯১৭ সালে ফরাসি বিজ্ঞানী এ পিকার্ড অ্যাক্টিনিয়াম পরিবারের উৎস সম্বন্ধে কথা বলেন। তার ধারণা ছিল এই পরিবারের প্রারম্ভিক মৌল ইউরেনিয়ামের অন্য কোন অজ্ঞাত (U-I ও U-II ছাড়াও) সমস্থানিক। তিনি এর নাম দেন অ্যাক্টিনোইউরেনিয়াম। তার মতে অ্যাক্টিনোইউরেনিয়াম আলফা কণা ত্যাগ করে UY তে পরিণত হয় এবং তা পরে অ্যাক্টিনিয়ামে রুপান্তরিত হয়। অ্যাক্টিনিয়াম তৈরির ধাপগুলো তাহলে দাড়ায়: AcU a UY b EkaTa a Ac
+
+অ্যাক্টিনিয়াম পরিবারে UY এর অবস্থান সম্বন্ধে যে ধাঁধা ছিল এর মাধ্যমে তারও সমাধান হয়ে যায়। কিন্তু বিষয়টি প্রমাণ করার প্রয়োজনীয়তা ছিল। সডি ও তার সহকারী এ ক্রান্সটন একা-ট্যান্টালাম গবেষণার দ্বিতীয় অধ্যায় নিয়ে কাজ করছিলেন ইংল্যান্ডে। ১৯১৭ সালে ডিসেম্বরে তারা এ সম্বন্ধে একটি গবেষণাপত্র লিখেন যাতে বলা হয়, UY থেকে বিটা কণা নিৎসরণের ফরে একা-ট্যান্টালাম উৎপন্ন হয়। কিন্তু এর আগেই একা-ট্যান্টালাম সম্বন্ধে আরও নির্দিষ্ট তথ্য আবিষ্কার করেছিলেন জার্মান রসায়নবিদ অটো হান ও লিজে মাইটনার। তাই হান ও মাইটনারকেই এখন প্রোট্যাক্টিনিয়ামের আবিষ্কারক বলা হয়। কারণ তারা কেবল মৌলটি আবিষ্কারই করেননি, একই সাথে এর ধমের সম্ভাব্য সব ধরণের পরীক্ষা করেছিলেন; নির্ণ করেছিলেন এর অর্ধায়ু এবং এ থেকে নিঃসরিত আলফা কণার গড় মুক্ত পথ। অনেক সময় ইংরেজ ও জার্মান বিজ্ঞানীদেরকে একসাথেই এর আবিষ্কারক বলা হয় যদিও হান ও মাইটনারের আবিষ্কার অনেক বেশি নির্দিষ্ট ছিল। এভাবে পর্যায় সারণীতে Pa প্রতীকটি যু্ত হয় ৯১নং ঘরে। এর সবচেয়ে দীর্ঘ অর্ধায়ু বিশিষ্ট সমস্থানিকের ভর সংখ্যা ছিল ২৩১। ১৯২৭ আলে কয়েক মিলিগ্রাম পরিমাণ Pa2O5 নিষ্কাশিত হয়।
+
+
+
+
+নেপচুনিয়াম ← প্লুটোনিয়াম → অ্যামেরিসিয়াম
+Sm
+↑
+Pu
+↓
+(Uqq) 	
+
+
+Element 1: হাইড্রোজেন (H), Other non-metal
+		
+Element 2: হিলিয়াম (He), Noble gas
+Element 3: লিথিয়াম (Li), Alkali metal
+	
+Element 4: বেরিলিয়াম (Be), Alkaline earth metal
+		
+Element 5: বোরন (B), Metalloid
+	
+Element 6: কার্বন (C), Other non-metal
+	
+Element 7: নাইট্রোজেন (N), Other non-metal
+	
+Element 8: অক্সিজেন (O), Other non-metal
+	
+Element 9: ফ্লোরিন (F), Halogen
+	
+Element 10: নিয়ন (Ne), Noble gas
+Element 11: সোডিয়াম (Na), Alkali metal
+	
+Element 12: ম্যাগনেসিয়াম (Mg), Alkaline earth metal
+		
+Element 13: অ্যালুমিনিয়াম (Al), Other metal
+	
+Element 14: সিলিকন (Si), Metalloid
+	
+Element 15: ফসফরাস (P), Other non-metal
+	
+Element 16: সালফার (S), Other non-metal
+	
+Element 17: ক্লোরিন (Cl), Halogen
+	
+Element 18: আর্গন (Ar), Noble gas
+Element 19: পটাশিয়াম (K), Alkali metal
+	
+Element 20: ক্যালসিয়াম (Ca), Alkaline earth metal
+	
+Element 21: স্ক্যানডিয়াম (Sc), Transition metal
+		
+Element 22: টাইটানিয়াম (Ti), Transition metal
+	
+Element 23: ভ্যানাডিয়াম (V), Transition metal
+	
+Element 24: ক্রোমিয়াম (Cr), Transition metal
+	
+Element 25: ম্যাঙ্গানিজ (Mn), Transition metal
+	
+Element 26: লোহা (Fe), Transition metal
+	
+Element 27: কোবাল্ট (Co), Transition metal
+	
+Element 28: নিকেল (Ni), Transition metal
+	
+Element 29: তামা (Cu), Transition metal
+	
+Element 30: দস্তা (Zn), Transition metal
+	
+Element 31: গ্যালিয়াম (Ga), Other metal
+	
+Element 32: জার্মেনিয়াম (Ge), Metalloid
+	
+Element 33: আর্সেনিক (As), Metalloid
+	
+Element 34: সেলেনিয়াম (Se), Other non-metal
+	
+Element 35: ব্রোমিন (Br), Halogen
+	
+Element 36: ক্রিপটন (Kr), Noble gas
+Element 37: রুবিডিআম (Rb), Alkali metal
+	
+Element 38: স্ট্রনসিয়াম (Sr), Alkaline earth metal
+	
+Element 39: ইটরিয়াম (Y), Transition metal
+		
+Element 40: জারকোনিয়াম (Zr), Transition metal
+	
+Element 41: নাইওবিয়াম (Nb), Transition metal
+	
+Element 42: মলিবডিনাম (Mo), Transition metal
+	
+Element 43: টেকনিসিয়াম (Tc), Transition metal
+	
+Element 44: রুথেনিয়াম (Ru), Transition metal
+	
+Element 45: রোহডিয়াম (Rh), Transition metal
+	
+Element 46: প্যালাডিয়াম (Pd), Transition metal
+	
+Element 47: রুপা (Ag), Transition metal
+	
+Element 48: ক্যাডমিয়াম (Cd), Transition metal
+	
+Element 49: ইন্ডিয়াম (In), Other metal
+	
+Element 50: টিন (Sn), Other metal
+	
+Element 51: অ্যান্টিমনি (Sb), Metalloid
+	
+Element 52: টেলুরিয়াম (Te), Metalloid
+	
+Element 53: আয়োডিন (I), Halogen
+	
+Element 54: জেনন (Xe), Noble gas
+Element 55: সিজিয়াম (Cs), Alkali metal
+	
+Element 56: বেরিয়াম (Ba), Alkaline earth metal
+	
+Element 57: ল্যান্থানাম (La), Lanthanoid
+	
+Element 58: সিরিয়াম (Ce), Lanthanoid
+	
+Element 59: প্রাসিওডিমিয়াম (Pr), Lanthanoid
+	
+Element 60: নিওডিমিয়াম (Nd), Lanthanoid
+	
+Element 61: প্রমিথিয়াম (Pm), Lanthanoid
+	
+Element 62: সামারিয়াম (Sm), Lanthanoid
+	
+Element 63: ইউরোপিয়াম (Eu), Lanthanoid
+	
+Element 64: গ্যাডোলিনিয়াম (Gd), Lanthanoid
+	
+Element 65: টারবিয়াম (Tb), Lanthanoid
+	
+Element 66: ডিসপ্রোসিয়াম (Dy), Lanthanoid
+	
+Element 67: হলমিয়াম (Ho), Lanthanoid
+	
+Element 68: এরবিয়াম (Er), Lanthanoid
+	
+Element 69: থুলিয়াম (Tm), Lanthanoid
+	
+Element 70: ইটারবিয়াম (Yb), Lanthanoid
+	
+Element 71: লুটেসিয়াম (Lu), Lanthanoid
+	
+Element 72: হ্যাফনিয়াম (Hf), Transition metal
+	
+Element 73: ট্যানটালাম (Ta), Transition metal
+	
+Element 74: টাংস্টেন (W), Transition metal
+	
+Element 75: রিনিয়াম (Re), Transition metal
+	
+Element 76: অসমিয়াম (Os), Transition metal
+	
+Element 77: ইরিডিয়াম (Ir), Transition metal
+	
+Element 78: প্লাটিনাম (Pt), Transition metal
+	
+Element 79: সোনা (Au), Transition metal
+	
+Element 80: পারদ (Hg), Transition metal
+	
+Element 81: থ্যালিয়াম (Tl), Other metal
+	
+Element 82: সীসা (Pb), Other metal
+	
+Element 83: বিসমাথ (Bi), Other metal
+	
+Element 84: পোলোনিয়াম (Po), Other metal
+	
+Element 85: এস্টাটিন (At), Halogen
+	
+Element 86: রেডন (Rn), Noble gas
+Element 87: ফ্রান্সিয়াম (Fr), Alkali metal
+	
+Element 88: রেডিয়াম (Ra), Alkaline earth metal
+	
+Element 89: অ্যাক্টিনিয়াম (Ac), Actinoid
+	
+Element 90: থোরিয়াম (Th), Actinoid
+	
+Element 91: প্রোটেক্টিনিয়াম (Pa), Actinoid
+	
+Element 92: ইউরেনিয়াম (U), Actinoid
+	
+Element 93: নেপচুনিয়াম (Np), Actinoid
+	
+Element 94: প্লুটোনিয়াম (Pu), Actinoid
+	
+Element 95: অ্যামেরিসিয়াম (Am), Actinoid
+	
+Element 96: কুরিয়াম (Cm), Actinoid
+	
+Element 97: বার্কেলিয়াম (Bk), Actinoid
+	
+Element 98: ক্যালিফোর্নিয়াম (Cf), Actinoid
+	
+Element 99: আইনস্টাইনিয়াম (Es), Actinoid
+	
+Element 100: ফার্মিয়াম (Fm), Actinoid
+	
+Element 101: মেন্ডেলেভিয়াম (Md), Actinoid
+	
+Element 102: নোবেলিয়াম (No), Actinoid
+	
+Element 103: লরেনসিয়াম (Lr), Actinoid
+	
+Element 104: রাদারফোর্ডিয়াম (Rf), Transition metal
+	
+Element 105: ডুবনিয়াম (Db), Transition metal
+	
+Element 106: সিবোরজিয়াম (Sg), Transition metal
+	
+Element 107: বোহরিয়াম (Bh), Transition metal
+	
+Element 108: হ্যাসিয়াম (Hs), Transition metal
+	
+Element 109: মিটনেরিয়াম (Mt), Transition metal
+	
+Element 110: ডার্মস্টেটিয়াম (Ds), Transition metal
+	
+Element 111: রন্টজেনিয়াম (Rg), Transition metal
+	
+Element 112: কোপার্নিসিয়াম (Cn), Transition metal
+	
+Element 113: ইউনুনট্রিয়াম (Uut)
+	
+Element 114: ইউনুনকোয়াডিয়াম (Uuq)
+	
+Element 115: ইউনুনপেন্টিয়াম (Uup)
+	
+Element 116: ইউনুনহেক্সিয়াম (Uuh)
+	
+Element 117: ইউনুনসেপটিয়াম (Uus)
+	
+Element 118: ইউনুনকটিয়াম (Uuo)
+{{{name_bn}}} has a monoclinic crystal structure
+৯৪Pu
+পর্যায় সারণী
+ভৌত রূপ
+রুপালি সাদা
+Light-gray standing cylinder. Its top slice has been cut off and slightly shifted aside exposing a darker inside
+সাধারণ বৈশিষ্ট
+নাম, প্রতীক, পারমাণবিক সংখ্যা 	{{{name_bn}}}, Pu, ৯৪
+রাসায়নিক শ্রেণী 	অ্যাক্টিনাইড
+শ্রেণী, পর্যায়, ব্লক 	[[গ্রুপ মৌলসমূহ|]], 7, f
+পারমাণবিক ওজন 	(২৪৪)
+ইলেকট্রন বিন্যাস 	[Rn] 5f67s2
+শক্তিস্তরে ইলেকট্রন সংখ্যা 	২, ৮, ১৮, ৩২, ২৪, ৮, ২ ([[:file:Electron shell 0৯৪ {{{name_en}}}.svg|ছবিতে দেখুন]])
+ভৌত বৈশিষ্ট্য
+দশা 	solid
+ঘনত্ব (প্রায় r.t.) 	১৯.৮১৬ g·cm−3
+গলনাংকে তরলের ঘনত্ব 	১৬.৬৩ g·cm−3
+গলনাংক 	৯১২.৫ K, ৬৩৯.৪ °C, ১১৮২.৯ °F
+স্ফুটনাংক 	৩৫০৫ K, ৩২২৮ °C, ৫৮৪২ °F
+ফিউশনের এনথালপি 	২.৮২ kJ·mol−1
+Heat of vaporization 	৩৩৩.৫ kJ·mol−1
+তাপ ধারকত্ব 	৩৫.৫ J·mol−1·K−1
+Vapor pressure
+P (Pa) 	1 	10 	100 	1 k 	10 k 	100 k
+at T (K) 	১৭৫৬ 	১৯৫৩ 	২১৯৮ 	২৫১১ 	২৯২৬ 	৩৪৯৯
+পারমাণবিক বৈশিষ্ট্য
+জারন সংখ্যা 	৭, ৬, ৫, ৪, ৩
+(amphoteric oxide)
+তাড়িৎচুম্বকত্ব 	১.২৮ (Pauling scale)
+আয়নীকরণ শক্তি 	প্রথম: ৫৮৪.৭ kJ·mol−1
+পারমানবিক ব্যাসার্ধ্য 	159 pm
+Covalent radius 	১৮৭±১ pm
+অন্যান্য বৈশিষ্ট্য
+কেলাসের গঠন 	{{{crystal structure_bn}}}
+চুম্বকত্ব 	paramagnetic[১]
+বিদ্যুৎ পরিবাহীতা 	(0 °C) 1.460 µΩ·m
+তাপ পরিবহকত্ব 	6.74 W·m−1·K−1
+তাপ পরিবাহিতা 	(25 °C) 46.7 µm·m−1·K−1
+Speed of sound 	2260 m·s−1
+ইয়ং-এর গুণাঙ্ক 	96 GPa
+Shear modulus 	43 GPa
+পয়সনের অনুপাত 	0.21
+ক্যাস নিবন্ধন নম্বর 	7440-07-5
+কয়েকটি উল্লেখযোগ্য সমস্থানিক
+মূল নিবন্ধ: [[Isotopes of {{{name_en}}}]]
+iso 	NA 	half-life 	DM 	DE (MeV) 	DP
+238Pu 	syn 	88 y 	SF 	204.66[২] 	—
+α 	5.5 	234U
+239Pu 	trace 	2.41 × 104 y 	SF 	207.06 	—
+α 	5.245 	235U
+240Pu 	syn 	6.5 × 103 y 	SF 	205.66 	—
+α 	5.256 	236U
+241Pu 	syn 	14 y 	β− 	0.02078 	241Am
+SF 	210.83 	—
+242Pu 	syn 	3.73 × 105 y 	SF 	209.47 	—
+α 	4.984 	238U
+244Pu 	trace 	8.08 × 107 y 	α 	4.666 	240U
+SF 		—
+[[Template:তথ্যছক {{{name_bn}}}|প্র]] • [[|আ]] • [{{fullurl:Template:তথ্যছক {{{name_bn}}}|action=edit}}স]
+· r
+সূচিপত্র
+ [আড়ালে রাখো] 
+
+    ১ আবিষ্কার
+    ২ সাধারণ বৈশিষ্ট্য
+    ৩ আইসোটোপ
+    ৪ যৌগসমূহ
+    ৫ ব্যবহার
+    ৬ নিবন্ধের উৎস
+    ৭ তথ্যসূত্র
+    ৮ আরও দেখুন
+
+[সম্পাদনা] আবিষ্কার
+[সম্পাদনা] সাধারণ বৈশিষ্ট্য
+[সম্পাদনা] আইসোটোপ
+[সম্পাদনা] যৌগসমূহ
+[সম্পাদনা] ব্যবহার
+
+Plutonium in solution.jpg
+[সম্পাদনা] নিবন্ধের উৎস
+
+    উচ্চ মাধ্যমিক রসায়ন প্রথম পত্র - প্রফেসর মো. মহির উদ্দিন, লায়লা মুসতারিন, ড. তানভীর মুসলিম, হাছিনা বেগম।
+    উচ্চ মাধ্যমিক রসায়ন প্রথম পত্র - ড. সরোজ কান্তি সিংহ হাজারী, হারাধন নাগ।
+    ব্রিটানিকা বিশ্বকোষ (Encyclopedia Britannica)
+
+
+
+
+
+সিলিকন ← ফসফরাস → সালফার
+N
+↑
+P
+↓
+As 	
+
+
+Element 1: হাইড্রোজেন (H), Other non-metal
+		
+Element 2: হিলিয়াম (He), Noble gas
+Element 3: লিথিয়াম (Li), Alkali metal
+	
+Element 4: বেরিলিয়াম (Be), Alkaline earth metal
+		
+Element 5: বোরন (B), Metalloid
+	
+Element 6: কার্বন (C), Other non-metal
+	
+Element 7: নাইট্রোজেন (N), Other non-metal
+	
+Element 8: অক্সিজেন (O), Other non-metal
+	
+Element 9: ফ্লোরিন (F), Halogen
+	
+Element 10: নিয়ন (Ne), Noble gas
+Element 11: সোডিয়াম (Na), Alkali metal
+	
+Element 12: ম্যাগনেসিয়াম (Mg), Alkaline earth metal
+		
+Element 13: অ্যালুমিনিয়াম (Al), Other metal
+	
+Element 14: সিলিকন (Si), Metalloid
+	
+Element 15: ফসফরাস (P), Other non-metal
+	
+Element 16: সালফার (S), Other non-metal
+	
+Element 17: ক্লোরিন (Cl), Halogen
+	
+Element 18: আর্গন (Ar), Noble gas
+Element 19: পটাশিয়াম (K), Alkali metal
+	
+Element 20: ক্যালসিয়াম (Ca), Alkaline earth metal
+	
+Element 21: স্ক্যানডিয়াম (Sc), Transition metal
+		
+Element 22: টাইটানিয়াম (Ti), Transition metal
+	
+Element 23: ভ্যানাডিয়াম (V), Transition metal
+	
+Element 24: ক্রোমিয়াম (Cr), Transition metal
+	
+Element 25: ম্যাঙ্গানিজ (Mn), Transition metal
+	
+Element 26: লোহা (Fe), Transition metal
+	
+Element 27: কোবাল্ট (Co), Transition metal
+	
+Element 28: নিকেল (Ni), Transition metal
+	
+Element 29: তামা (Cu), Transition metal
+	
+Element 30: দস্তা (Zn), Transition metal
+	
+Element 31: গ্যালিয়াম (Ga), Other metal
+	
+Element 32: জার্মেনিয়াম (Ge), Metalloid
+	
+Element 33: আর্সেনিক (As), Metalloid
+	
+Element 34: সেলেনিয়াম (Se), Other non-metal
+	
+Element 35: ব্রোমিন (Br), Halogen
+	
+Element 36: ক্রিপটন (Kr), Noble gas
+Element 37: রুবিডিআম (Rb), Alkali metal
+	
+Element 38: স্ট্রনসিয়াম (Sr), Alkaline earth metal
+	
+Element 39: ইটরিয়াম (Y), Transition metal
+		
+Element 40: জারকোনিয়াম (Zr), Transition metal
+	
+Element 41: নাইওবিয়াম (Nb), Transition metal
+	
+Element 42: মলিবডিনাম (Mo), Transition metal
+	
+Element 43: টেকনিসিয়াম (Tc), Transition metal
+	
+Element 44: রুথেনিয়াম (Ru), Transition metal
+	
+Element 45: রোহডিয়াম (Rh), Transition metal
+	
+Element 46: প্যালাডিয়াম (Pd), Transition metal
+	
+Element 47: রুপা (Ag), Transition metal
+	
+Element 48: ক্যাডমিয়াম (Cd), Transition metal
+	
+Element 49: ইন্ডিয়াম (In), Other metal
+	
+Element 50: টিন (Sn), Other metal
+	
+Element 51: অ্যান্টিমনি (Sb), Metalloid
+	
+Element 52: টেলুরিয়াম (Te), Metalloid
+	
+Element 53: আয়োডিন (I), Halogen
+	
+Element 54: জেনন (Xe), Noble gas
+Element 55: সিজিয়াম (Cs), Alkali metal
+	
+Element 56: বেরিয়াম (Ba), Alkaline earth metal
+	
+Element 57: ল্যান্থানাম (La), Lanthanoid
+	
+Element 58: সিরিয়াম (Ce), Lanthanoid
+	
+Element 59: প্রাসিওডিমিয়াম (Pr), Lanthanoid
+	
+Element 60: নিওডিমিয়াম (Nd), Lanthanoid
+	
+Element 61: প্রমিথিয়াম (Pm), Lanthanoid
+	
+Element 62: সামারিয়াম (Sm), Lanthanoid
+	
+Element 63: ইউরোপিয়াম (Eu), Lanthanoid
+	
+Element 64: গ্যাডোলিনিয়াম (Gd), Lanthanoid
+	
+Element 65: টারবিয়াম (Tb), Lanthanoid
+	
+Element 66: ডিসপ্রোসিয়াম (Dy), Lanthanoid
+	
+Element 67: হলমিয়াম (Ho), Lanthanoid
+	
+Element 68: এরবিয়াম (Er), Lanthanoid
+	
+Element 69: থুলিয়াম (Tm), Lanthanoid
+	
+Element 70: ইটারবিয়াম (Yb), Lanthanoid
+	
+Element 71: লুটেসিয়াম (Lu), Lanthanoid
+	
+Element 72: হ্যাফনিয়াম (Hf), Transition metal
+	
+Element 73: ট্যানটালাম (Ta), Transition metal
+	
+Element 74: টাংস্টেন (W), Transition metal
+	
+Element 75: রিনিয়াম (Re), Transition metal
+	
+Element 76: অসমিয়াম (Os), Transition metal
+	
+Element 77: ইরিডিয়াম (Ir), Transition metal
+	
+Element 78: প্লাটিনাম (Pt), Transition metal
+	
+Element 79: সোনা (Au), Transition metal
+	
+Element 80: পারদ (Hg), Transition metal
+	
+Element 81: থ্যালিয়াম (Tl), Other metal
+	
+Element 82: সীসা (Pb), Other metal
+	
+Element 83: বিসমাথ (Bi), Other metal
+	
+Element 84: পোলোনিয়াম (Po), Other metal
+	
+Element 85: এস্টাটিন (At), Halogen
+	
+Element 86: রেডন (Rn), Noble gas
+Element 87: ফ্রান্সিয়াম (Fr), Alkali metal
+	
+Element 88: রেডিয়াম (Ra), Alkaline earth metal
+	
+Element 89: অ্যাক্টিনিয়াম (Ac), Actinoid
+	
+Element 90: থোরিয়াম (Th), Actinoid
+	
+Element 91: প্রোটেক্টিনিয়াম (Pa), Actinoid
+	
+Element 92: ইউরেনিয়াম (U), Actinoid
+	
+Element 93: নেপচুনিয়াম (Np), Actinoid
+	
+Element 94: প্লুটোনিয়াম (Pu), Actinoid
+	
+Element 95: অ্যামেরিসিয়াম (Am), Actinoid
+	
+Element 96: কুরিয়াম (Cm), Actinoid
+	
+Element 97: বার্কেলিয়াম (Bk), Actinoid
+	
+Element 98: ক্যালিফোর্নিয়াম (Cf), Actinoid
+	
+Element 99: আইনস্টাইনিয়াম (Es), Actinoid
+	
+Element 100: ফার্মিয়াম (Fm), Actinoid
+	
+Element 101: মেন্ডেলেভিয়াম (Md), Actinoid
+	
+Element 102: নোবেলিয়াম (No), Actinoid
+	
+Element 103: লরেনসিয়াম (Lr), Actinoid
+	
+Element 104: রাদারফোর্ডিয়াম (Rf), Transition metal
+	
+Element 105: ডুবনিয়াম (Db), Transition metal
+	
+Element 106: সিবোরজিয়াম (Sg), Transition metal
+	
+Element 107: বোহরিয়াম (Bh), Transition metal
+	
+Element 108: হ্যাসিয়াম (Hs), Transition metal
+	
+Element 109: মিটনেরিয়াম (Mt), Transition metal
+	
+Element 110: ডার্মস্টেটিয়াম (Ds), Transition metal
+	
+Element 111: রন্টজেনিয়াম (Rg), Transition metal
+	
+Element 112: কোপার্নিসিয়াম (Cn), Transition metal
+	
+Element 113: ইউনুনট্রিয়াম (Uut)
+	
+Element 114: ইউনুনকোয়াডিয়াম (Uuq)
+	
+Element 115: ইউনুনপেন্টিয়াম (Uup)
+	
+Element 116: ইউনুনহেক্সিয়াম (Uuh)
+	
+Element 117: ইউনুনসেপটিয়াম (Uus)
+	
+Element 118: ইউনুনকটিয়াম (Uuo)
+ফসফরাস has a crystal structure
+15P
+পর্যায় সারণী
+ভৌত রূপ
+colorless, waxy white, yellow, scarlet, red, violet, black
+
+waxy white (yellow cut), red (granules center left, chunk center right), and violet phosphorus
+সাধারণ বৈশিষ্ট
+নাম, প্রতীক, পারমাণবিক সংখ্যা 	ফসফরাস, P, 15
+উচ্চারণ 	/ˈfɒsfərəs/ FOS-fər-əs
+রাসায়নিক শ্রেণী 	অধাতু
+শ্রেণী, পর্যায়, ব্লক 	১৫, 3, p
+পারমাণবিক ওজন 	30.973762(2)
+ইলেকট্রন বিন্যাস 	[Ne] 3s2 3p3
+শক্তিস্তরে ইলেকট্রন সংখ্যা 	2, 8, 5 (ছবিতে দেখুন)
+ভৌত বৈশিষ্ট্য
+ঘনত্ব (প্রায় r.t.) 	(white) 1.823, (red) ≈ 2.2 – 2.34, (violet) 2.36, (black) 2.69 g·cm−3
+গলনাংক 	(white) 44.2 °C, (black) 610 °C
+Sublimation point 	(red) ≈ 416 – 590  °C, (violet) 620 °C
+স্ফুটনাংক 	(white) 280.5 °C
+ফিউশনের এনথালপি 	(white) 0.66 kJ·mol−1
+Heat of vaporization 	(white) 12.4 kJ·mol−1
+তাপ ধারকত্ব 	(white)
+23.824 J·mol−1·K−1
+Vapor pressure (white)
+P (Pa) 	1 	10 	100 	1 k 	10 k 	100 k
+at T (K) 	279 	307 	342 	388 	453 	549
+Vapor pressure (red, bp. 431 °C)
+P (Pa) 	1 	10 	100 	1 k 	10 k 	100 k
+at T (K) 	455 	489 	529 	576 	635 	704
+পারমাণবিক বৈশিষ্ট্য
+জারন সংখ্যা 	5, 4, 3, 2[১], 1 [২], -1, -2, -3
+(mildly acidic oxide)
+তাড়িৎচুম্বকত্ব 	2.19 (Pauling scale)
+আয়নীকরণ শক্তি
+(বিস্তারিত) 	প্রথম: 1011.8 kJ·mol−1
+দ্বিতীয়: 1907 kJ·mol−1
+তৃতীয়: 2914.1 kJ·mol−1
+Covalent radius 	107±3 pm
+Van der Waals radius 	180 pm
+অন্যান্য বৈশিষ্ট্য
+চুম্বকত্ব 	(white,red,violet,black) diamagnetic[৩]
+তাপ পরিবহকত্ব 	(white) 0.236, (black) 12.1 W·m−1·K−1
+Bulk modulus 	(white) 5, (red) 11 GPa
+ক্যাস নিবন্ধন নম্বর 	7723-14-0
+কয়েকটি উল্লেখযোগ্য সমস্থানিক
+মূল নিবন্ধ: Isotopes of phosphorus
+iso 	NA 	half-life 	DM 	DE (MeV) 	DP
+31P 	100% 	P 16টি নিউট্রন নিয়ে স্থিত হয়
+32P 	syn 	14.28 d 	β− 	1.709 	32S
+33P 	syn 	25.3 d 	β− 	0.249 	33S
+প্র • আ • স
+· r
+
+ফসফরাস একটি মৌল, এর প্রতীক P ও পারমানবিক সংখ্যা 15।
+
+
+
+
+87 	রেডন ← ফ্রান্সিয়াম → রেডিয়াম
+Cs
+↑
+Fr
+↓
+Uue 	
+Fr-TableImage.png
+পর্যায় সারণী
+সাধারণ বৈশিষ্ট্য
+নাম, প্রতীক, পারমাণবিক সংখ্যা 	ফ্রান্সিয়াম, Fr, 87
+রাসায়নিক শ্রেণী 	alkali metals
+গ্রুপ, পর্যায়, ব্লক 	1, 7, s
+Appearance 	metallic
+পারমাণবিক ভর 	(223) g/mol
+ইলেক্ট্রন বিন্যাস 	[Rn] 7s1
+প্রতি শক্তিস্তরে ইলেকট্রন সংখ্যা 	2, 8, 18, 32, 18, 8, 1
+ভৌত বৈশিষ্ট্য
+দশা 	কঠিন
+ঘনত্ব (সাধারণ তাপ ও চাপে) 	 ? 1.87 g/cm³
+গলনাঙ্ক 	300 K
+(27 °C, 80 °F)
+স্ফুটনাঙ্ক 	 ? 950 K
+(? 677 °C, ? 1250 °F)
+গলনের লীন তাপ 	ca. 2 kJ/mol
+বাষ্পীভবনের লীন তাপ 	ca. 65 kJ/mol
+বাষ্প চাপ (extrapolated) P/প্যাসকেল 	১ 	১০ 	১০০ 	১ কে 	১০ কে 	১০০ কে
+T/কেলভিন তাপমাত্রায় 	404 	454 	519 	608 	738 	946
+পারমাণবিক বৈশিষ্ট্য
+কেলাসীয় গঠন 	cubic body centered
+জারণ অবস্থা 	1
+(strongly basic oxide)
+তড়িৎ ঋণাত্মকতা 	0.7 (পাউলিং স্কেল)
+Ionization energies 	1st: 380 kJ/mol
+অন্যান্য বৈশিষ্ট্য
+Magnetic ordering 	 ?
+Electrical resistivity 	 ? 3 µΩ·m
+তাপ পরিবাহিতা 	(300 K)  ? 15 W/(m·K)
+সি এ এস নিবন্ধন সংখ্যা 	7440-73-5
+কয়েকটি উল্লেখযোগ্য সমস্থানিক
+প্রধান নিবন্ধ: franciumের সমস্থানিক iso 	NA 	half-life 	DM 	DE (MeV) 	DP
+222Fr 	syn 	14.2 min 	β- 	2.033 	222Ra
+223Fr 	100% 	22.00 min 	β- 	1.149 	221Ra
+α 	5.430 	219At
+References
+
+ফ্রান্সিয়াম (রাসায়নিক সংকেত:,Fr পারমাণবিক সংখ্যা ৮৭) একটি মৌলিক পদার্থ। ।
+
+
+
+
+
+ফ্লোরিন একটি মৌল, এর প্রতীক F ও পারমানবিক সংখ্যা 9।
+
+
+
+
+ফ্লোরাইট‌‌‌‌‌‌ একটি রাসায়নিক যা ফ্লোরিনের একটি লবণ। ফ্লোরিনের একটি উৎকৃষ্ট আকর হচ্ছে ফ্লোরাইট। [১]।
+সূচিপত্র
+ [আড়ালে রাখো] 
+
+    ১ ভৌত ধর্ম
+    ২ রাসায়নিক ধর্ম
+    ৩ খনিজ ফ্লোরাইটের উৎস
+    ৪ ব্যবহার
+    ৫ তথ্যসূত্র
+
+[সম্পাদনা] ভৌত ধর্ম
+
+নানা বর্ণের ফ্লোরাইট দেখা যায়। তবে হালকা সবুজ, হলুদ অথবা নীল রং এর ফ্লোরাইট সচরাচর পাওয়া যায়। পানিতে কিছুটা দ্রবণীয়। এর কঠিনতা ৪.০ এবং আপেক্ষিক গুরুত্ব ৩.০-৩.২।
+[সম্পাদনা] রাসায়নিক ধর্ম
+[সম্পাদনা] খনিজ ফ্লোরাইটের উৎস
+
+ফ্লোরাইট সাধারণত ভাঁজবহুল, দানাদার এবং আঁশযুক্ত পিণ্ড আকারে পাওয়া যায়। কিউব আকৃতির স্ফটিক হিসেবেও এটা পাওয়া যেতে পারে। এবং ফ্লোরাইট সব শ্রেণীর শিলার ফাটলে কম-বেশি পাওয়া যায়। তবে, চুনাপাথর, ডোলোমাইট ও গ্রানাইট জাতীয় শিলার সঙ্গে এর সংশ্লিষ্টতা একটু বেশি।
+[সম্পাদনা] ব্যবহার
+
+ইস্পাত এবং সাদা ও রঙিন কাঁচ তৈরিতে ফ্লোরাইট ব্যাপকভাবে ব্যবহৃত হয়।
+
+
+
+
+বেনজিন এক প্রকার জৈব যৌগ যার আণবিক সংকেত C6H6। কখনো কখনো এর সংক্ষিপ্ত Ph-H রূপে লেখা হয়। বেনজিন বর্ণহীন, উচ্চদাহ্য, মিষ্টি গন্ধযুক্ত এবং উচ্চ গালনাঙ্কের তরল পদার্থ। ঔষধ, প্লাস্টিক, কৃত্রিম রাবার ও ডাই প্রস্তুত করতে বেনজিন একটি বানিজ্যিক দ্রাবক হিসাবে ব্যবহ্রত হয়।
+
+
+
+সোডিয়াম বোরেট যৌগ-পরিবারের সাধারণ নাম বোরাক্স। এটি সাধারণত হাল্কা সাদা বর্ণের বহুতলীয় স্ফটিক আকারে থাকে এবং সহজেই পানিতে দ্রবীভূত হয়।
+
+
+
+
+বোরেট আয়নের সংকেত BO33−। বোরেট আয়নের সাথে ধাতব মৌল যুক্ত হয়ে যে সব যৌগ উত্পন্ন করে, তাদেরকে সাধারণভাবে বোরেট বলা হয়। বোরন সাধারণত প্রকৃতে বোরেট আকারেই পাওয়া যায়।
+
+
+
+
+ব্যারিয়ন হলো সবল মিথষ্ক্রিয়াকারী মৌলিক কণিকাসমূহের একটি শ্রেণী। নিউট্রন, প্রোটন এবং হাইপেরন নামে পরিচিত অস্থিতিশীল হ্যাড্রন এই শ্রেনীর সদস্য। কোন ব্যাবস্থায় বিদ্যমান ব্যারিয়নের মোটসংখ্যা থেকে প্রতিব্যারিয়নের মোটসংখ্যা বাদ দিলে পাওয়া যায় ব্যারিয়ন সংখ্যা।
+
+ব্যারিয়ন হলো হ্যাড্রনের উপ-শ্রেণি এবং সাম্প্রতিক তত্ত্বানুযায়ী ৩টি কোয়ার্ক দ্বারা গঠিত । বেরিয়ন কোয়ান্টাম সংখ্যাকে বেরিয়ন সংখা বা ভারিত্বের সংখ্যা বলে এবং যেকোন মিথস্ক্রিয়ায় সংরক্ষিত থাকে ।
+
+
+
+
+ব্রোমিন (রাসায়নিক সংকেত:,Br পারমাণবিক সংখ্যা ৩৫) একটি মৌলিক পদার্থ। 
+
+
+
+
+ব্লক (ইংরেজি ভাষায়: Block) হল পাশাপাশি অবস্থিত পর্যায় সারণীর শ্রেণীসমূহের একটি সেট। প্রতিটি মৌলের সর্বশেষ শক্তিস্তরের অবস্থিত ইলেকট্রনটি যে অরবিটালে অবস্থান নেয় তাকে সেই ব্লকের অন্তর্ভুক্ত করা হয়। অর্থাৎ অরবিটালের নাম অনুসারেই ব্লকের নামকরণ করা হয়। এ হিসেবে পর্যায় সারণীর ব্লকগুলো হচ্ছে:
+
+    এস-ব্লক
+    পি-ব্লক
+    ডি-ব্লক
+    এফ-ব্লক
+    জি-ব্লক (অবশ্য এই ব্লকে অবস্থিত কোন মৌল এখন পর্যন্ত পাওয়া যায়নি)
+
+
+	
+	

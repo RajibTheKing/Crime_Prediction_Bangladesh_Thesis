@@ -1,0 +1,87 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Untitled Page</title>
+    
+</head>
+<body>
+<script type="text/javascript">
+
+function ConvertToTable(targetNode)
+{
+    // if the targetNode is xmlNode this line must be removed
+    // i couldnt find a way to parse xml string to xml node
+    // so i parse xml string to xml document
+    targetNode = targetNode.childNodes[0];
+
+    // first we need to create headers
+    var columnCount = targetNode.childNodes[0].childNodes.length;
+    var rowCount = targetNode.childNodes.length
+    // name for the table
+    var myTable = document.createElement("table");
+    myTable.border = 1;
+    myTable.borderColor ="green";
+    var firstRow = myTable.insertRow();
+    var firstCell = firstRow.insertCell();
+    firstCell.colSpan = columnCount;
+    firstCell.innerHTML = targetNode.nodeName;
+    // name for the columns
+    var secondRow = myTable.insertRow();
+    for(var i=0;i<columnCount;i++)
+    {
+        var newCell = secondRow.insertCell();
+        newCell.innerHTML = targetNode.childNodes[0].childNodes[i].nodeName;
+    }
+    // now fill the rows with data
+    for(var i2=0;i2<rowCount;i2++)
+    {
+        var newRow = myTable.insertRow();
+         for(var j=0;j<columnCount;j++)
+         {
+            var newCell = newRow.insertCell();
+            newCell.innerHTML = targetNode.childNodes[i2].childNodes[j].firstChild.nodeValue;
+         }
+    }
+    // i prefer to send it as string instead of a table object
+    return myTable.outerHTML;
+}
+function loadXmlDocFromString(text)
+{
+    try //Internet Explorer
+      {
+      xmlDoc=new ActiveXObject("Microsoft.XMLDOM");
+      xmlDoc.async="false";
+      xmlDoc.loadXML(text);
+      return xmlDoc;
+      }  
+    catch(e)
+      {
+      try // Firefox, Mozilla, Opera, etc.
+        {
+        parser=new DOMParser();
+        xmlDoc=parser.parseFromString(text,"text/xml");
+        return xmlDoc;
+        }
+      catch(e)
+        {
+        alert(e.message);
+        return;
+        }
+      }
+}
+var myXml = '<TableName> \
+      <firstRow> \
+        <field1>1</field1> \
+        <field2>2</field2> \
+      </firstRow> \
+      <firstRow> \
+        <field1>3</field1> \
+        <field2>4</field2> \
+      </firstRow> \
+    </TableName>';
+ var myDoc = loadXmlDocFromString();
+document.write( ConvertToTable(myDoc));
+</script>
+</body>
+</html>

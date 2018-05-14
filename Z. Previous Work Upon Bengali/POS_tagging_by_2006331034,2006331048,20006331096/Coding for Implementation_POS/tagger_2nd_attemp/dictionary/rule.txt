@@ -1,0 +1,327 @@
+﻿ই/ kal-unchanged-VM-VM
+ও/ kal-unchanged-VM-VM
+ক/ prottoy-changed-VM-NN
+ছ/ kal-unchanged-VM-VM
+ল/prottoy-changed-VM-NN
+ট/prottoy-changed-NN-ADJ
+ব/ kal-unchanged-VM-VM
+ন/ kal-unchanged-VM-VM
+ন/ prottoy-changed-VM-NN
+ন্ত/prottoy-changed-VM-ADJ
+য়/bivokti-unchanged-NN-NN
+য়/ kal-unchanged-VM-VM
+র/bivokti-unchanged-NN-NN
+র/prottoy-changed-VM-NN
+ত/ kal-unchanged-VM-VM
+ত/prottoy-changed-VM-ADJ
+ত্ব/prottoy-changed-VM-NN
+তে/prottoy-changed-VM-VNF
+তা/prottoy-changed-VM-NN
+তা/  prottoy-changed-ADJ-NN
+তাম/ kal-unchanged-VM-VM
+তি/prottoy-changed-dontcare-NN\ADJ
+ছি/ kal-unchanged-VM-VM
+ছে/ kal-unchanged-VM-VM
+রা/bachan-unchanged-NN-NN
+রে/prottoy-changed-VM-NN
+টা/nirdeshok-unchanged-NN-NN
+টি/nirdeshok-unchanged-NN-NN
+টে/prottoy-changed-NN-ADJ
+টে/nirdeshok-unchanged-NN-NN
+টো/nirdeshok-unchanged-NN-NN
+লা/prottoy-changed-NN-ADJ
+লি/ kal-unchanged-VM-VM
+লে/prottoy-changed-VM-VNF
+বি/ kal-unchanged-VM-VM
+বী/prottoy-changed-NN-ADJ
+বো/ kal-unchanged-VM-VM
+নী/lingo-unchanged-NN-NN
+না/ prottoy-changed-VM-NN
+নি/ prottoy-changed-VM-NN
+মি/prottoy-changed-VM-NN
+সা/prottoy-changed-NN-ADJ
+সে/prottoy-changed-NN-ADJ
+া/lingo-unchanged-ADJ-ADJ
+া/prottoy-changed-dontcare-NN\ADJ
+াল/prottoy-changed-dontcare-NN\ADJ
+ানি/prottoy-changed-NN-ADJ
+াইন/ lingo-unchanged-NN-NN
+াবলি/bachan-unchanged-NN-NN
+ান/bachan-unchanged-NN-NN
+ানী/ lingo-unchanged-NN-NN
+াক/ kal-unchanged-VM-VM
+াইল/ kal-unchanged-VM-VM
+াল/ kal-unchanged-VM-VM
+াইলেন/ kal-unchanged-VM-VM
+ালেন/ kal-unchanged-VM-VM
+াইলে/ kal-unchanged-VM-VM
+ালে/ kal-unchanged-VM-VM
+াইলি/ kal-unchanged-VM-VM
+ালি/ kal-unchanged-VM-VM
+াইলাম/ kal-unchanged-VM-VM
+ালাম/ kal-unchanged-VM-VM
+াইত/ kal-unchanged-VM-VM
+াত/ kal-unchanged-VM-VM
+াতে/ kal-unchanged-VM-VM
+াইতে/ kal-unchanged-VM-VM
+াইতেন/ kal-unchanged-VM-VM
+াতেন/ kal-unchanged-VM-VM
+াইতিস/ kal-unchanged-VM-VM
+াতিস/ kal-unchanged-VM-VM
+াইতাম/ kal-unchanged-VM-VM
+াতাম/ kal-unchanged-VM-VM
+াইতেছিল/ kal-unchanged-VM-VM
+াচ্ছিল/ kal-unchanged-VM-VM
+াইতেছিলেন/ kal-unchanged-VM-VM
+াচ্ছিলেন/ kal-unchanged-VM-VM
+াইতেছিলে/ kal-unchanged-VM-VM
+াচ্ছিলে/ kal-unchanged-VM-VM
+াইতেছিলি/ kal-unchanged-VM-VM
+াচ্ছিলি/ kal-unchanged-VM-VM
+াইতেছিলাম/ kal-unchanged-VM-VM
+াচ্ছিলাম/ kal-unchanged-VM-VM
+াইয়াছিল/ kal-unchanged-VM-VM
+াইয়াছিলেন/ kal-unchanged-VM-VM
+াইয়াছিলে/ kal-unchanged-VM-VM
+াইয়াছিলি/ kal-unchanged-VM-VM
+াইয়াছিলাম/ kal-unchanged-VM-VM
+ায়েছিলাম/ kal-unchanged-VM-VM
+াইবে/ kal-unchanged-VM-VM
+াবে/ kal-unchanged-VM-VM
+াইবেন/ kal-unchanged-VM-VM
+াবেন/ kal-unchanged-VM-VM
+াইবে/ kal-unchanged-VM-VM
+াইবি/ kal-unchanged-VM-VM
+াবি/ kal-unchanged-VM-VM
+াইব/ kal-unchanged-VM-VM
+াব/ kal-unchanged-VM-VM
+াইও/ kal-unchanged-VM-VM
+ায়ো/ kal-unchanged-VM-VM
+ায়/ kal-unchanged-VM-VM
+ান/ kal-unchanged-VM-VM
+াও/ kal-unchanged-VM-VM
+াইস/ kal-unchanged-VM-VM
+াস/ kal-unchanged-VM-VM
+াই/ kal-unchanged-VM-VM
+াইতেছে/ kal-unchanged-VM-VM
+াচ্ছে/ kal-unchanged-VM-VM
+াইতেছে/ kal-unchanged-VM-VM
+াছেন/ kal-unchanged-VM-VM
+াইতেছ/ kal-unchanged-VM-VM
+াচ্ছ/ kal-unchanged-VM-VM
+াইতেছিস/ kal-unchanged-VM-VM
+াছিস/ kal-unchanged-VM-VM
+াইতেছি/ kal-unchanged-VM-VM
+াচ্ছি/ kal-unchanged-VM-VM
+াইয়াছে/ kal-unchanged-VM-VM
+ায়েছে/ kal-unchanged-VM-VM
+াইয়াছেন/ kal-unchanged-VM-VM
+াইয়াছ/ kal-unchanged-VM-VM
+াই/prottoy-changed-VM-NN 
+াও/ prottoy-changed-VM-NN
+ান/ prottoy-changed-VM-NN
+ানো/ prottoy-changed-VM-NN
+াইয়াছিস/ kal-unchanged-VM-VM
+াইয়াছি/ kal-unchanged-VM-VM
+ানি/ prottoy-changed-VM-NN
+ামি/prottoy-changed-VM-NN
+াম/prottoy-changed-VM-NN
+ামো/prottoy-changed-VM-NN
+ারী/prottoy-changed-NN-ADJ
+ানা/prottoy-changed-NN-ADJ
+ি/prottoy-changed-VM-NN
+ি/ kal-unchanged-VM-VM
+িকা/ lingo-unchanged-NN-NN
+িনী/ lingo-unchanged-NN-NN
+িস/ kal-unchanged-VM-VM
+িতে/ kal-unchanged-VM-VM
+িতে/prottoy-changed-VM-VNF
+িলে/prottoy-changed-VM-VNF
+িতেছ/ kal-unchanged-VM-VM
+িতেছে/ kal-unchanged-VM-VM
+িতেছেন/ kal-unchanged-VM-VM
+িতেছি/ kal-unchanged-VM-VM
+িতেছিস/ kal-unchanged-VM-VM
+িতেছিল/ kal-unchanged-VM-VM
+িতেছিলেন/ kal-unchanged-VM-VM
+িবি/ kal-unchanged-VM-VM
+িয়েছেন/ kal-unchanged-VM-VM
+িতেছিলে/ kal-unchanged-VM-VM
+িয়েছে/ kal-unchanged-VM-VM
+িতেছিলি/ kal-unchanged-VM-VM
+িতেছিলাম/ kal-unchanged-VM-VM
+িয়াছিল/ kal-unchanged-VM-VM
+িলি/ kal-unchanged-VM-VM
+িত/ kal-unchanged-VM-VM
+িত/prottoy-changed-NN-ADJ
+িতেন/ kal-unchanged-VM-VM
+িতিস/ kal-unchanged-VM-VM
+িল/prottoy-changed-NN-ADJ
+িল/ kal-unchanged-VM-VM
+িষ্ঠ/prottoy-changed-ADJ-ADJ
+িন/prottoy-changed-NN-ADJ
+িতাম/ kal-unchanged-VM-VM
+িলাম/ kal-unchanged-VM-VM
+িলে/ kal-unchanged-VM-VM
+িলেন/ kal-unchanged-VM-VM
+িব/ kal-unchanged-VM-VM
+িবে/ kal-unchanged-VM-VM
+িবেন/ kal-unchanged-VM-VM
+িমা/prottoy-changed-VM-NN
+িও/ kal-unchanged-VM-VM
+িত/prottoy-changed-VM-ADJ
+িনী/prottoy-changed-dontcare-NN\ADJ
+িক/prottoy-changed-dontcare-NN\ADJ
+িছিলে/ kal-unchanged-VM-VM
+িয়া/prottoy-changed-VM-ADJ/VNF
+িয়া/prottoy-changed-NN-ADJ
+িয়াছ/ kal-unchanged-VM-VM
+িয়াছি/ kal-unchanged-VM-VM
+িয়াছে/ kal-unchanged-VM-VM
+িয়াছেন/ kal-unchanged-VM-VM
+িয়াছিস/ kal-unchanged-VM-VM
+িয়ে/prottoy-changed-VM-ADJ
+িয়েছিল/ kal-unchanged-VM-VM
+িয়েছিলি/ kal-unchanged-VM-VM
+িয়াছিলাম/ kal-unchanged-VM-VM
+িয়াছিলে/ kal-unchanged-VM-VM
+িয়াছিলেন/ kal-unchanged-VM-VM
+িয়েছিলেন/ kal-unchanged-VM-VM
+িয়েছিলে/ kal-unchanged-VM-VM
+িয়াছিলি/ kal-unchanged-VM-VM
+িয়েছো/ kal-unchanged-VM-VM
+িয়েছিস/ kal-unchanged-VM-VM
+িয়েছি/ kal-unchanged-VM-VM
+িষ্ণু/prottoy-changed-VM-ADJ
+ি/prottoy-changed-ADJ-ADJ
+ী/lingo-unchanged-ADJ-ADJ
+ী/prottoy-changed-NN-ADJ
+ী/prottoy-changed-VM-ADJ
+ীন/prottoy-changed-NN-ADJ
+ীয়/prottoy-changed-NN-ADJ
+ু/prottoy-changed-dontcare-NN\ADJ
+ুক/ kal-unchanged-VM-VM
+ুক/prottoy-changed-NN-ADJ
+ুন/ kal-unchanged-VM-VM
+ুন/ lingo-unchanged-NN-NN
+ুনি/ prottoy-changed-VM-NN
+ুড/prottoy-changed-NN-ADJ
+ুড়/prottoy-changed-NN-ADJ
+ুরে/prottoy-changed-NN-NN
+ুড়ে/prottoy-changed-VM-NN
+ুরী/ prottoy-changed-VM-NN
+ুয়া/prottoy-changed-dontcare-NN\ADJ
+ুরিয়া/prottoy-changed-VM-NN
+ুড়িয়া/prottoy-changed-VM-NN
+ে/ kal-unchanged-VM-VM
+ে/bivokti-unchanged-NN-NN
+কে/bivokti-unchanged-NN-NN
+রে/bivokti-unchanged-NN-NN
+বে/ kal-unchanged-VM-VM
+তে/bivokti-unchanged-NN-NN
+তে/ kal-unchanged-VM-VM
+তেন/ kal-unchanged-VM-VM
+লে/ kal-unchanged-VM-VM
+য়ে/bivokti-unchanged-NN-NN
+লেন/ kal-unchanged-VM-VM
+বেন/ kal-unchanged-VM-VM
+চ্ছে/ kal-unchanged-VM-VM
+ের/bivokti-unchanged-NN-NN
+েছ/ kal-unchanged-VM-VM
+েছি/ kal-unchanged-VM-VM
+েন/ kal-unchanged-VM-VM
+েতে/bivokti-unchanged-NN-NN
+েরা/bachan-unchanged-NN-NN
+েছিল/ kal-unchanged-VM-VM
+েছিলি/ kal-unchanged-VM-VM
+েছিলে/ kal-unchanged-VM-VM
+েছিলাম/ kal-unchanged-VM-VM
+েছিস/ kal-unchanged-VM-VM
+েছে/ kal-unchanged-VM-VM
+েছেন/ kal-unchanged-VM-VM
+ওয়ালা/prottoy-changed-VM-NN
+ো/ kal-unchanged-VM-VM
+ো/prottoy-changed-NN-ADJ
+োয়া/prottoy-changed-NN-ADJ
+োয়ান/prottoy-changed-VM-NN
+কর/prottoy-changed-VM-NN
+কুল/bachan-unchanged-NN-NN
+খানা/nirdeshok-unchanged-NN-NN
+খানি/nirdeshok-unchanged-NN-NN
+গণ/bachan-unchanged-NN-NN
+গণে/bivokti-unchanged-NN-NN
+গর/prottoy-changed-VM-NN
+গাছা/nirdeshok-unchanged-NN-NN
+গাছি/nirdeshok-unchanged-NN-NN
+গুলা/nirdeshok-unchanged-NN-NN
+গুলি/nirdeshok-unchanged-NN-NN
+গুলিন/nirdeshok-unchanged-NN-NN
+গুলির/bivokti-unchanged-NN-NN
+গুলিকে/bivokti-unchanged-NN-NN
+গুলিতে/bivokti-unchanged-NN-NN
+গুলো/nirdeshok-unchanged-NN-NN
+গুলোকে/bivokti-unchanged-NN-NN
+গুলোর/bivokti-unchanged-NN-NN
+গুলোতে/bivokti-unchanged-NN-NN
+গুচ্ছ/bachan-unchanged-NN-NN
+চ্ছ/ kal-unchanged-VM-VM
+চ্ছি/ kal-unchanged-VM-VM
+চ্ছিস/ kal-unchanged-VM-VM
+চ্ছিলে/ kal-unchanged-VM-VM
+চ্ছিলি/ kal-unchanged-VM-VM
+ছেন/ kal-unchanged-VM-VM
+চ্ছেন/ kal-unchanged-VM-VM
+ছিস/ kal-unchanged-VM-VM
+ছিলি/ kal-unchanged-VM-VM
+ছিলে/ kal-unchanged-VM-VM
+ছিলেন/ kal-unchanged-VM-VM
+েছিলেন/ kal-unchanged-VM-VM
+টাক/nirdeshok-unchanged-NN-NN
+টাকে/nirdeshok-unchanged-NN-NN
+টিকে/bivokti-unchanged-NN-NN
+টিয়া/prottoy-changed-NN-ADJ
+টেই/nirdeshok-unchanged-NN-NN
+টুকটা/nirdeshok-unchanged-NN-NN
+টুকু/nirdeshok-unchanged-NN-NN
+টুকুন/nirdeshok-unchanged-NN-NN
+তর/prottoy-changed-ADJ-ADJ
+তম/prottoy-changed-ADJ-ADJ
+তব্য/prottoy-changed-VM-ADJ
+তিস/ kal-unchanged-VM-VM
+দাম/bachan-unchanged-NN-NN
+দার/prottoy-changed-dontcare-NN\ADJ
+দিগ/bachan-unchanged-NN-NN
+দিগকে/bivokti-unchanged-NN-NN
+দিগে/bivokti-unchanged-NN-NN
+দিগের/bivokti-unchanged-NN-NN
+দিগেরে/bivokti-unchanged-NN-NN
+দের/bachan-unchanged-NN-NN
+নিকর/bachan-unchanged-NN-NN
+নিচয়/bachan-unchanged-NN-NN
+নীয়/prottoy-changed-VM-ADJ
+পনা/prottoy-changed-NN-ADJ
+পুঞ্জ/bachan-unchanged-NN-NN
+বর্গ/bachan-unchanged-NN-NN
+বন্দী/prottoy-changed-VM-NN
+বৃন্দ/bachan-unchanged-NN-NN
+বান/prottoy-changed-NN-ADJ
+বাজ/prottoy-changed-NN-ADJ
+বাজি/prottoy-changed-VM-NN
+ভাবে/ prottoy-changed-ADJ-ADV
+ভাবেই/ prottoy-changed-ADJ-ADV
+মন্ডলী/bachan-unchanged-NN-NN
+মান/prottoy-changed-NN-ADJ
+মালা/bachan-unchanged-NN-NN
+যূথ/bachan-unchanged-NN-NN
+রাশি/bachan-unchanged-NN-NN
+রাজি/bachan-unchanged-NN-NN
+লাম/ kal-unchanged-VM-VM
+ছিলাম/ kal-unchanged-VM-VM
+লুম/ kal-unchanged-VM-VM
+সকল/bachan-unchanged-NN-NN
+সব/bachan-unchanged-NN-NN
+সই/prottoy-changed-NN-ADJ
+সমুদয়/bachan-unchanged-NN-NN
+সমূহ/bachan-unchanged-NN-NN
+আলা/prottoy-changed-VM-NN
+আনা/prottoy-changed-NN-ADJ
